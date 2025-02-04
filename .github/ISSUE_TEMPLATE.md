@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2025
+title: Latest 15 Papers - February 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,10 +26,11 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent](http://arxiv.org/abs/2501.18867v1)** | 2025-01-31 |  |
+| **[An Atomic Skill Library Construction Method for Data-Efficient Embodied Manipulation](http://arxiv.org/abs/2501.15068v2)** | 2025-02-03 |  |
+| **[HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers](http://arxiv.org/abs/2410.05273v3)** | 2025-02-03 | <details><summary>Accep...</summary><p>Accepted to CORL 2024</p></details> |
+| **[UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent](http://arxiv.org/abs/2501.18867v2)** | 2025-02-03 |  |
 | **[LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](http://arxiv.org/abs/2406.20095v3)** | 2025-01-30 | ICLR 2025 |
 | **[Improving Vision-Language-Action Model with Online Reinforcement Learning](http://arxiv.org/abs/2501.16664v1)** | 2025-01-28 | <details><summary>Accep...</summary><p>Accepted to ICRA 2025</p></details> |
-| **[An Atomic Skill Library Construction Method for Data-Efficient Embodied Manipulation](http://arxiv.org/abs/2501.15068v1)** | 2025-01-25 |  |
 | **[GeoManip: Geometric Constraints as General Interfaces for Robot Manipulation](http://arxiv.org/abs/2501.09783v1)** | 2025-01-16 | 32 pages, 13 figures |
 | **[FAST: Efficient Action Tokenization for Vision-Language-Action Models](http://arxiv.org/abs/2501.09747v1)** | 2025-01-16 | <details><summary>Websi...</summary><p>Website: https://www.pi.website/research/fast</p></details> |
 | **[Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding](http://arxiv.org/abs/2501.04693v3)** | 2025-01-14 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Improving Vision-Language-Action Models via Chain-of-Affordance](http://arxiv.org/abs/2412.20451v1)** | 2024-12-29 | <details><summary>Proje...</summary><p>Project webpage is available at https://chain-of-affordance.github.io</p></details> |
 | **[TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies](http://arxiv.org/abs/2412.10345v2)** | 2024-12-25 |  |
 | **[VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks](http://arxiv.org/abs/2412.18194v1)** | 2024-12-24 |  |
-| **[Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models](http://arxiv.org/abs/2412.14058v3)** | 2024-12-24 | <details><summary>Proje...</summary><p>Project page: robovlms.github.io. Added limitations and future works. Fix categorization</p></details> |
 
