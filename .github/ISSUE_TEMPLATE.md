@@ -2,7 +2,7 @@
 title: Latest 15 Papers - February 05, 2025
 labels: documentation
 ---
-**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
+**Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
