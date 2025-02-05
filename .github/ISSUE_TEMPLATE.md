@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 04, 2025
+title: Latest 15 Papers - February 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving](http://arxiv.org/abs/2502.01960v1)** | 2025-02-04 | <details><summary>14 pa...</summary><p>14 pages, 11 figures, the first version</p></details> |
 | **[Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution](http://arxiv.org/abs/2409.12961v3)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
 | **[Beyond Token Compression: A Training-Free Reduction Framework for Efficient Visual Processing in MLLMs](http://arxiv.org/abs/2501.19036v1)** | 2025-01-31 |  |
 | **[InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling](http://arxiv.org/abs/2501.12386v2)** | 2025-01-22 | technical report |
@@ -21,12 +22,15 @@ labels: documentation
 | **[Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs](http://arxiv.org/abs/2501.01042v2)** | 2025-01-10 |  |
 | **[Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark](http://arxiv.org/abs/2501.05444v1)** | 2025-01-09 |  |
 | **[Benchmarking Large and Small MLLMs](http://arxiv.org/abs/2501.04150v1)** | 2025-01-04 |  |
-| **[Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](http://arxiv.org/abs/2501.01904v1)** | 2025-01-03 | <details><summary>Techn...</summary><p>Technical Report on Slow Thinking with LLMs: Visual Reasoning</p></details> |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[QUAR-VLA: Vision-Language-Action Model for Quadruped Robots](http://arxiv.org/abs/2312.14457v6)** | 2025-02-04 | Accepted by ECCV2024 |
+| **[VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation](http://arxiv.org/abs/2502.02175v1)** | 2025-02-04 |  |
+| **[GRAPE: Generalizing Robot Policy via Preference Alignment](http://arxiv.org/abs/2411.19309v2)** | 2025-02-04 | <details><summary>Websi...</summary><p>Website: https://grape-vla.github.io/</p></details> |
 | **[An Atomic Skill Library Construction Method for Data-Efficient Embodied Manipulation](http://arxiv.org/abs/2501.15068v2)** | 2025-02-03 |  |
+| **[Scalable, Training-Free Visual Language Robotics: A Modular Multi-Model Framework for Consumer-Grade GPUs](http://arxiv.org/abs/2502.01071v1)** | 2025-02-03 |  |
 | **[HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers](http://arxiv.org/abs/2410.05273v3)** | 2025-02-03 | <details><summary>Accep...</summary><p>Accepted to CORL 2024</p></details> |
 | **[UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent](http://arxiv.org/abs/2501.18867v2)** | 2025-02-03 |  |
 | **[LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](http://arxiv.org/abs/2406.20095v3)** | 2025-01-30 | ICLR 2025 |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Shake-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Manipulations and Liquid Mixing](http://arxiv.org/abs/2501.06919v1)** | 2025-01-12 | <details><summary>Accep...</summary><p>Accepted to IEEE/ACM HRI 2025</p></details> |
 | **[UAV-VLA: Vision-Language-Action System for Large Scale Aerial Mission Generation](http://arxiv.org/abs/2501.05014v1)** | 2025-01-09 | HRI 2025 |
 | **[OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints](http://arxiv.org/abs/2501.03841v1)** | 2025-01-07 |  |
-| **[Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches](http://arxiv.org/abs/2501.03151v1)** | 2025-01-06 |  |
-| **[Improving Vision-Language-Action Models via Chain-of-Affordance](http://arxiv.org/abs/2412.20451v1)** | 2024-12-29 | <details><summary>Proje...</summary><p>Project webpage is available at https://chain-of-affordance.github.io</p></details> |
-| **[TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies](http://arxiv.org/abs/2412.10345v2)** | 2024-12-25 |  |
-| **[VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks](http://arxiv.org/abs/2412.18194v1)** | 2024-12-24 |  |
 
