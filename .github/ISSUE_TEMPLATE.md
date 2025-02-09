@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 06, 2025
+title: Latest 15 Papers - February 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation](http://arxiv.org/abs/2410.08001v3)** | 2025-02-06 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/RoboDual/</p></details> |
+| **[Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks](http://arxiv.org/abs/2412.06224v2)** | 2025-02-06 | <details><summary>Proje...</summary><p>Project page: https://pku-epic.github.io/Uni-NaVid/</p></details> |
 | **[An Atomic Skill Library Construction Method for Data-Efficient Embodied Manipulation](http://arxiv.org/abs/2501.15068v3)** | 2025-02-05 |  |
 | **[QUAR-VLA: Vision-Language-Action Model for Quadruped Robots](http://arxiv.org/abs/2312.14457v6)** | 2025-02-04 | Accepted by ECCV2024 |
 | **[VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation](http://arxiv.org/abs/2502.02175v1)** | 2025-02-04 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[FAST: Efficient Action Tokenization for Vision-Language-Action Models](http://arxiv.org/abs/2501.09747v1)** | 2025-01-16 | <details><summary>Websi...</summary><p>Website: https://www.pi.website/research/fast</p></details> |
 | **[Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding](http://arxiv.org/abs/2501.04693v3)** | 2025-01-14 |  |
 | **[Shake-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Manipulations and Liquid Mixing](http://arxiv.org/abs/2501.06919v1)** | 2025-01-12 | <details><summary>Accep...</summary><p>Accepted to IEEE/ACM HRI 2025</p></details> |
-| **[UAV-VLA: Vision-Language-Action System for Large Scale Aerial Mission Generation](http://arxiv.org/abs/2501.05014v1)** | 2025-01-09 | HRI 2025 |
-| **[OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints](http://arxiv.org/abs/2501.03841v1)** | 2025-01-07 |  |
 
