@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 11, 2025
+title: Latest 15 Papers - February 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,9 +26,10 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation](http://arxiv.org/abs/2502.05485v2)** | 2025-02-11 | <details><summary>We re...</summary><p>We require NVIDIA's approval before proceeding with the release, and we are currently processing it</p></details> |
 | **[DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](http://arxiv.org/abs/2502.05855v1)** | 2025-02-09 | <details><summary>The w...</summary><p>The webpage is at https://dex-vla.github.io/</p></details> |
-| **[HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation](http://arxiv.org/abs/2502.05485v1)** | 2025-02-08 | <details><summary>to be...</summary><p>to be published in ICLR 2025</p></details> |
 | **[ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](http://arxiv.org/abs/2502.05450v1)** | 2025-02-08 |  |
+| **[Survey on Vision-Language-Action Models](http://arxiv.org/abs/2502.06851v1)** | 2025-02-07 |  |
 | **[Probing a Vision-Language-Action Model for Symbolic States and Integration into a Cognitive Architecture](http://arxiv.org/abs/2502.04558v1)** | 2025-02-06 | 8 Pages, 4 Figures |
 | **[Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation](http://arxiv.org/abs/2410.08001v3)** | 2025-02-06 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/RoboDual/</p></details> |
 | **[Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks](http://arxiv.org/abs/2412.06224v2)** | 2025-02-06 | <details><summary>Proje...</summary><p>Project page: https://pku-epic.github.io/Uni-NaVid/</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers](http://arxiv.org/abs/2410.05273v3)** | 2025-02-03 | <details><summary>Accep...</summary><p>Accepted to CORL 2024</p></details> |
 | **[UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent](http://arxiv.org/abs/2501.18867v2)** | 2025-02-03 |  |
 | **[LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](http://arxiv.org/abs/2406.20095v3)** | 2025-01-30 | ICLR 2025 |
-| **[Improving Vision-Language-Action Model with Online Reinforcement Learning](http://arxiv.org/abs/2501.16664v1)** | 2025-01-28 | <details><summary>Accep...</summary><p>Accepted to ICRA 2025</p></details> |
 
