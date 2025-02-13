@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 12, 2025
+title: Latest 15 Papers - February 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Survey on AI-Generated Media Detection: From Non-MLLM to MLLM](http://arxiv.org/abs/2502.05240v1)** | 2025-02-07 |  |
+| **[TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning](http://arxiv.org/abs/2410.19702v2)** | 2025-02-12 | Accepted by ICLR2025 |
+| **[Survey on AI-Generated Media Detection: From Non-MLLM to MLLM](http://arxiv.org/abs/2502.05240v2)** | 2025-02-12 |  |
 | **[Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](http://arxiv.org/abs/2501.01904v2)** | 2025-02-05 | <details><summary>Techn...</summary><p>Technical Report on Slow Thinking with LLMs: Visual Reasoning</p></details> |
 | **[MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving](http://arxiv.org/abs/2502.01960v1)** | 2025-02-04 | <details><summary>14 pa...</summary><p>14 pages, 11 figures, the first version</p></details> |
 | **[Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution](http://arxiv.org/abs/2409.12961v3)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[An empirical study of LLaMA3 quantization: from LLMs to MLLMs](http://arxiv.org/abs/2404.14047v3)** | 2025-01-13 |  |
 | **[Open Eyes, Then Reason: Fine-grained Visual Mathematical Understanding in MLLMs](http://arxiv.org/abs/2501.06430v1)** | 2025-01-11 |  |
 | **[PEACE: Empowering Geologic Map Holistic Understanding with MLLMs](http://arxiv.org/abs/2501.06184v1)** | 2025-01-10 |  |
-| **[Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs](http://arxiv.org/abs/2501.01042v2)** | 2025-01-10 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
