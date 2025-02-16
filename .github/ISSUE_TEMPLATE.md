@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 13, 2025
+title: Latest 15 Papers - February 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLMI3D: MLLM-based 3D Perception from a Single 2D Image](http://arxiv.org/abs/2408.07422v2)** | 2025-02-13 |  |
+| **[From Visuals to Vocabulary: Establishing Equivalence Between Image and Text Token Through Autoregressive Pre-training in MLLMs](http://arxiv.org/abs/2502.09093v1)** | 2025-02-13 |  |
 | **[TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning](http://arxiv.org/abs/2410.19702v2)** | 2025-02-12 | Accepted by ICLR2025 |
 | **[Survey on AI-Generated Media Detection: From Non-MLLM to MLLM](http://arxiv.org/abs/2502.05240v2)** | 2025-02-12 |  |
 | **[Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](http://arxiv.org/abs/2501.01904v2)** | 2025-02-05 | <details><summary>Techn...</summary><p>Technical Report on Slow Thinking with LLMs: Visual Reasoning</p></details> |
@@ -20,12 +22,12 @@ labels: documentation
 | **[Omni-Emotion: Extending Video MLLM with Detailed Face and Audio Modeling for Multimodal Emotion Analysis](http://arxiv.org/abs/2501.09502v1)** | 2025-01-16 |  |
 | **[Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration](http://arxiv.org/abs/2501.05179v2)** | 2025-01-15 | <details><summary>Our c...</summary><p>Our code is released at \url{https://github.com/xuyang-liu16/GlobalCom2}</p></details> |
 | **[An empirical study of LLaMA3 quantization: from LLMs to MLLMs](http://arxiv.org/abs/2404.14047v3)** | 2025-01-13 |  |
-| **[Open Eyes, Then Reason: Fine-grained Visual Mathematical Understanding in MLLMs](http://arxiv.org/abs/2501.06430v1)** | 2025-01-11 |  |
-| **[PEACE: Empowering Geologic Map Holistic Understanding with MLLMs](http://arxiv.org/abs/2501.06184v1)** | 2025-01-10 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffusion Transformer Policy: Scaling Diffusion Transformer for Generalist Vision-Language-Action Learning](http://arxiv.org/abs/2410.15959v3)** | 2025-02-13 | Preprint |
+| **[GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation](http://arxiv.org/abs/2502.09268v1)** | 2025-02-13 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025</p></details> |
 | **[HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation](http://arxiv.org/abs/2502.05485v2)** | 2025-02-11 | <details><summary>We re...</summary><p>We require NVIDIA's approval before proceeding with the release, and we are currently processing it</p></details> |
 | **[DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](http://arxiv.org/abs/2502.05855v1)** | 2025-02-09 | <details><summary>The w...</summary><p>The webpage is at https://dex-vla.github.io/</p></details> |
 | **[ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](http://arxiv.org/abs/2502.05450v1)** | 2025-02-08 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[GRAPE: Generalizing Robot Policy via Preference Alignment](http://arxiv.org/abs/2411.19309v2)** | 2025-02-04 | <details><summary>Websi...</summary><p>Website: https://grape-vla.github.io/</p></details> |
 | **[Scalable, Training-Free Visual Language Robotics: A Modular Multi-Model Framework for Consumer-Grade GPUs](http://arxiv.org/abs/2502.01071v1)** | 2025-02-03 |  |
 | **[HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers](http://arxiv.org/abs/2410.05273v3)** | 2025-02-03 | <details><summary>Accep...</summary><p>Accepted to CORL 2024</p></details> |
-| **[UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent](http://arxiv.org/abs/2501.18867v2)** | 2025-02-03 |  |
-| **[LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](http://arxiv.org/abs/2406.20095v3)** | 2025-01-30 | ICLR 2025 |
 
