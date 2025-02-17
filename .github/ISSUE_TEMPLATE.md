@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 16, 2025
+title: Latest 15 Papers - February 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,8 +26,10 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation](http://arxiv.org/abs/2412.13877v2)** | 2025-02-14 |  |
+| **[Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation](http://arxiv.org/abs/2502.10040v1)** | 2025-02-14 |  |
+| **[GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation](http://arxiv.org/abs/2502.09268v2)** | 2025-02-14 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025</p></details> |
 | **[Diffusion Transformer Policy: Scaling Diffusion Transformer for Generalist Vision-Language-Action Learning](http://arxiv.org/abs/2410.15959v3)** | 2025-02-13 | Preprint |
-| **[GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation](http://arxiv.org/abs/2502.09268v1)** | 2025-02-13 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025</p></details> |
 | **[HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation](http://arxiv.org/abs/2502.05485v2)** | 2025-02-11 | <details><summary>We re...</summary><p>We require NVIDIA's approval before proceeding with the release, and we are currently processing it</p></details> |
 | **[DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](http://arxiv.org/abs/2502.05855v1)** | 2025-02-09 | <details><summary>The w...</summary><p>The webpage is at https://dex-vla.github.io/</p></details> |
 | **[ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](http://arxiv.org/abs/2502.05450v1)** | 2025-02-08 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[QUAR-VLA: Vision-Language-Action Model for Quadruped Robots](http://arxiv.org/abs/2312.14457v6)** | 2025-02-04 | Accepted by ECCV2024 |
 | **[VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation](http://arxiv.org/abs/2502.02175v1)** | 2025-02-04 |  |
 | **[GRAPE: Generalizing Robot Policy via Preference Alignment](http://arxiv.org/abs/2411.19309v2)** | 2025-02-04 | <details><summary>Websi...</summary><p>Website: https://grape-vla.github.io/</p></details> |
-| **[Scalable, Training-Free Visual Language Robotics: A Modular Multi-Model Framework for Consumer-Grade GPUs](http://arxiv.org/abs/2502.01071v1)** | 2025-02-03 |  |
-| **[HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers](http://arxiv.org/abs/2410.05273v3)** | 2025-02-03 | <details><summary>Accep...</summary><p>Accepted to CORL 2024</p></details> |
 
