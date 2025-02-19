@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 18, 2025
+title: Latest 15 Papers - February 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RedundancyLens: Revealing and Exploiting Visual Token Processing Redundancy for Efficient Decoder-Only MLLMs](http://arxiv.org/abs/2501.19036v2)** | 2025-02-18 |  |
 | **[Unhackable Temporal Rewarding for Scalable Video MLLMs](http://arxiv.org/abs/2502.12081v1)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted by ICLR2025. Project Page: https://ahnsun.github.io/UTR/</p></details> |
 | **[Boosting Private Domain Understanding of Efficient MLLMs: A Tuning-free, Adaptive, Universal Prompt Optimization Framework](http://arxiv.org/abs/2412.19684v2)** | 2025-02-17 |  |
 | **[Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent](http://arxiv.org/abs/2502.11740v1)** | 2025-02-17 | 9 pages |
@@ -19,7 +20,6 @@ labels: documentation
 | **[Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](http://arxiv.org/abs/2501.01904v2)** | 2025-02-05 | <details><summary>Techn...</summary><p>Technical Report on Slow Thinking with LLMs: Visual Reasoning</p></details> |
 | **[MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving](http://arxiv.org/abs/2502.01960v1)** | 2025-02-04 | <details><summary>14 pa...</summary><p>14 pages, 11 figures, the first version</p></details> |
 | **[Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution](http://arxiv.org/abs/2409.12961v3)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
-| **[Beyond Token Compression: A Training-Free Reduction Framework for Efficient Visual Processing in MLLMs](http://arxiv.org/abs/2501.19036v1)** | 2025-01-31 |  |
 | **[InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling](http://arxiv.org/abs/2501.12386v2)** | 2025-01-22 | technical report |
 | **[Beyond Specialization: Assessing the Capabilities of MLLMs in Age and Gender Estimation](http://arxiv.org/abs/2403.02302v4)** | 2025-01-21 |  |
 
