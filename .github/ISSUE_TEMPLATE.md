@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 19, 2025
+title: Latest 15 Papers - February 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation](http://arxiv.org/abs/2502.13508v1)** | 2025-02-19 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2025</p></details> |
+| **[CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision](http://arxiv.org/abs/2411.00508v2)** | 2025-02-19 | 27 pages |
 | **[NaVILA: Legged Robot Vision-Language-Action Model for Navigation](http://arxiv.org/abs/2412.04453v2)** | 2025-02-17 | <details><summary>Websi...</summary><p>Website: https://navila-bot.github.io/</p></details> |
 | **[Survey on Vision-Language-Action Models](http://arxiv.org/abs/2502.06851v2)** | 2025-02-15 |  |
 | **[HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation](http://arxiv.org/abs/2502.05485v3)** | 2025-02-14 | <details><summary>to be...</summary><p>to be published in ICLR 2025</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation](http://arxiv.org/abs/2410.08001v3)** | 2025-02-06 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/RoboDual/</p></details> |
 | **[Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks](http://arxiv.org/abs/2412.06224v2)** | 2025-02-06 | <details><summary>Proje...</summary><p>Project page: https://pku-epic.github.io/Uni-NaVid/</p></details> |
 | **[An Atomic Skill Library Construction Method for Data-Efficient Embodied Manipulation](http://arxiv.org/abs/2501.15068v3)** | 2025-02-05 |  |
-| **[QUAR-VLA: Vision-Language-Action Model for Quadruped Robots](http://arxiv.org/abs/2312.14457v6)** | 2025-02-04 | Accepted by ECCV2024 |
-| **[VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation](http://arxiv.org/abs/2502.02175v1)** | 2025-02-04 |  |
 
