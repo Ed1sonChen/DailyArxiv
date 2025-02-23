@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 20, 2025
+title: Latest 15 Papers - February 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploring How Generative MLLMs Perceive More Than CLIP with the Same Vision Encoder](http://arxiv.org/abs/2411.05195v2)** | 2025-02-20 | 17 pages, 3 figures |
+| **[Unveiling Cultural Blind Spots: Analyzing the Limitations of mLLMs in Procedural Text Comprehension](http://arxiv.org/abs/2502.14315v1)** | 2025-02-20 |  |
+| **[Interaction2Code: Benchmarking MLLM-based Interactive Webpage Code Generation from Interactive Prototyping](http://arxiv.org/abs/2411.03292v2)** | 2025-02-20 | 21 pages,14 figures |
 | **[RedundancyLens: Revealing and Exploiting Visual Token Processing Redundancy for Efficient Decoder-Only MLLMs](http://arxiv.org/abs/2501.19036v2)** | 2025-02-18 |  |
 | **[Unhackable Temporal Rewarding for Scalable Video MLLMs](http://arxiv.org/abs/2502.12081v1)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted by ICLR2025. Project Page: https://ahnsun.github.io/UTR/</p></details> |
 | **[Boosting Private Domain Understanding of Efficient MLLMs: A Tuning-free, Adaptive, Universal Prompt Optimization Framework](http://arxiv.org/abs/2412.19684v2)** | 2025-02-17 |  |
@@ -19,13 +22,11 @@ labels: documentation
 | **[Survey on AI-Generated Media Detection: From Non-MLLM to MLLM](http://arxiv.org/abs/2502.05240v2)** | 2025-02-12 |  |
 | **[Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](http://arxiv.org/abs/2501.01904v2)** | 2025-02-05 | <details><summary>Techn...</summary><p>Technical Report on Slow Thinking with LLMs: Visual Reasoning</p></details> |
 | **[MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving](http://arxiv.org/abs/2502.01960v1)** | 2025-02-04 | <details><summary>14 pa...</summary><p>14 pages, 11 figures, the first version</p></details> |
-| **[Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution](http://arxiv.org/abs/2409.12961v3)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
-| **[InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling](http://arxiv.org/abs/2501.12386v2)** | 2025-01-22 | technical report |
-| **[Beyond Specialization: Assessing the Capabilities of MLLMs in Age and Gender Estimation](http://arxiv.org/abs/2403.02302v4)** | 2025-01-21 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model](http://arxiv.org/abs/2502.14420v1)** | 2025-02-20 |  |
 | **[VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation](http://arxiv.org/abs/2502.13508v1)** | 2025-02-19 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2025</p></details> |
 | **[CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision](http://arxiv.org/abs/2411.00508v2)** | 2025-02-19 | 27 pages |
 | **[NaVILA: Legged Robot Vision-Language-Action Model for Navigation](http://arxiv.org/abs/2412.04453v2)** | 2025-02-17 | <details><summary>Websi...</summary><p>Website: https://navila-bot.github.io/</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Probing a Vision-Language-Action Model for Symbolic States and Integration into a Cognitive Architecture](http://arxiv.org/abs/2502.04558v1)** | 2025-02-06 | 8 Pages, 4 Figures |
 | **[Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation](http://arxiv.org/abs/2410.08001v3)** | 2025-02-06 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/RoboDual/</p></details> |
 | **[Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks](http://arxiv.org/abs/2412.06224v2)** | 2025-02-06 | <details><summary>Proje...</summary><p>Project page: https://pku-epic.github.io/Uni-NaVid/</p></details> |
-| **[An Atomic Skill Library Construction Method for Data-Efficient Embodied Manipulation](http://arxiv.org/abs/2501.15068v3)** | 2025-02-05 |  |
 
