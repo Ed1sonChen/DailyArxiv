@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 23, 2025
+title: Latest 15 Papers - February 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,9 +7,13 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Memory Helps, but Confabulation Misleads: Understanding Streaming Events in Videos with MLLMs](http://arxiv.org/abs/2502.15457v1)** | 2025-02-21 | <details><summary>Short...</summary><p>Short paper (5 pages)</p></details> |
+| **[Chrono: A Simple Blueprint for Representing Time in MLLMs](http://arxiv.org/abs/2406.18113v4)** | 2025-02-21 | <details><summary>Code:...</summary><p>Code: https://github.com/sudo-Boris/mr-Blip</p></details> |
 | **[Exploring How Generative MLLMs Perceive More Than CLIP with the Same Vision Encoder](http://arxiv.org/abs/2411.05195v2)** | 2025-02-20 | 17 pages, 3 figures |
 | **[Unveiling Cultural Blind Spots: Analyzing the Limitations of mLLMs in Procedural Text Comprehension](http://arxiv.org/abs/2502.14315v1)** | 2025-02-20 |  |
 | **[Interaction2Code: Benchmarking MLLM-based Interactive Webpage Code Generation from Interactive Prototyping](http://arxiv.org/abs/2411.03292v2)** | 2025-02-20 | 21 pages,14 figures |
+| **[Sce2DriveX: A Generalized MLLM Framework for Scene-to-Drive Learning](http://arxiv.org/abs/2502.14917v1)** | 2025-02-19 |  |
+| **[What Is a Good Caption? A Comprehensive Visual Caption Benchmark for Evaluating Both Correctness and Coverage of MLLMs](http://arxiv.org/abs/2502.14914v1)** | 2025-02-19 | Work in progress |
 | **[RedundancyLens: Revealing and Exploiting Visual Token Processing Redundancy for Efficient Decoder-Only MLLMs](http://arxiv.org/abs/2501.19036v2)** | 2025-02-18 |  |
 | **[Unhackable Temporal Rewarding for Scalable Video MLLMs](http://arxiv.org/abs/2502.12081v1)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted by ICLR2025. Project Page: https://ahnsun.github.io/UTR/</p></details> |
 | **[Boosting Private Domain Understanding of Efficient MLLMs: A Tuning-free, Adaptive, Universal Prompt Optimization Framework](http://arxiv.org/abs/2412.19684v2)** | 2025-02-17 |  |
@@ -18,16 +22,12 @@ labels: documentation
 | **[From Specific-MLLMs to Omni-MLLMs: A Survey on MLLMs Aligned with Multi-modalities](http://arxiv.org/abs/2412.11694v2)** | 2025-02-15 | 35 pages |
 | **[LLMI3D: MLLM-based 3D Perception from a Single 2D Image](http://arxiv.org/abs/2408.07422v2)** | 2025-02-13 |  |
 | **[From Visuals to Vocabulary: Establishing Equivalence Between Image and Text Token Through Autoregressive Pre-training in MLLMs](http://arxiv.org/abs/2502.09093v1)** | 2025-02-13 |  |
-| **[TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning](http://arxiv.org/abs/2410.19702v2)** | 2025-02-12 | Accepted by ICLR2025 |
-| **[Survey on AI-Generated Media Detection: From Non-MLLM to MLLM](http://arxiv.org/abs/2502.05240v2)** | 2025-02-12 |  |
-| **[Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](http://arxiv.org/abs/2501.01904v2)** | 2025-02-05 | <details><summary>Techn...</summary><p>Technical Report on Slow Thinking with LLMs: Visual Reasoning</p></details> |
-| **[MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving](http://arxiv.org/abs/2502.01960v1)** | 2025-02-04 | <details><summary>14 pa...</summary><p>14 pages, 11 figures, the first version</p></details> |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model](http://arxiv.org/abs/2502.14420v1)** | 2025-02-20 |  |
-| **[VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation](http://arxiv.org/abs/2502.13508v1)** | 2025-02-19 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2025</p></details> |
+| **[ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model](http://arxiv.org/abs/2502.14420v2)** | 2025-02-21 |  |
+| **[VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation](http://arxiv.org/abs/2502.13508v2)** | 2025-02-21 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2025</p></details> |
 | **[CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision](http://arxiv.org/abs/2411.00508v2)** | 2025-02-19 | 27 pages |
 | **[NaVILA: Legged Robot Vision-Language-Action Model for Navigation](http://arxiv.org/abs/2412.04453v2)** | 2025-02-17 | <details><summary>Websi...</summary><p>Website: https://navila-bot.github.io/</p></details> |
 | **[Survey on Vision-Language-Action Models](http://arxiv.org/abs/2502.06851v2)** | 2025-02-15 |  |
