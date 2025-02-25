@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 24, 2025
+title: Latest 15 Papers - February 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs](http://arxiv.org/abs/2502.17422v1)** | 2025-02-24 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025. Code at: https://github.com/saccharomycetes/mllms_know</p></details> |
+| **[MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](http://arxiv.org/abs/2410.11779v2)** | 2025-02-23 | ICLR 2025 |
+| **[M4SC: An MLLM-based Multi-modal, Multi-task and Multi-user Semantic Communication System](http://arxiv.org/abs/2502.16418v1)** | 2025-02-23 |  |
+| **[Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want](http://arxiv.org/abs/2403.20271v3)** | 2025-02-22 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 15 tables</p></details> |
 | **[Memory Helps, but Confabulation Misleads: Understanding Streaming Events in Videos with MLLMs](http://arxiv.org/abs/2502.15457v1)** | 2025-02-21 | <details><summary>Short...</summary><p>Short paper (5 pages)</p></details> |
 | **[Chrono: A Simple Blueprint for Representing Time in MLLMs](http://arxiv.org/abs/2406.18113v4)** | 2025-02-21 | <details><summary>Code:...</summary><p>Code: https://github.com/sudo-Boris/mr-Blip</p></details> |
 | **[Exploring How Generative MLLMs Perceive More Than CLIP with the Same Vision Encoder](http://arxiv.org/abs/2411.05195v2)** | 2025-02-20 | 17 pages, 3 figures |
@@ -18,14 +22,11 @@ labels: documentation
 | **[Unhackable Temporal Rewarding for Scalable Video MLLMs](http://arxiv.org/abs/2502.12081v1)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted by ICLR2025. Project Page: https://ahnsun.github.io/UTR/</p></details> |
 | **[Boosting Private Domain Understanding of Efficient MLLMs: A Tuning-free, Adaptive, Universal Prompt Optimization Framework](http://arxiv.org/abs/2412.19684v2)** | 2025-02-17 |  |
 | **[Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent](http://arxiv.org/abs/2502.11740v1)** | 2025-02-17 | 9 pages |
-| **[Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration](http://arxiv.org/abs/2501.05179v3)** | 2025-02-16 |  |
-| **[From Specific-MLLMs to Omni-MLLMs: A Survey on MLLMs Aligned with Multi-modalities](http://arxiv.org/abs/2412.11694v2)** | 2025-02-15 | 35 pages |
-| **[LLMI3D: MLLM-based 3D Perception from a Single 2D Image](http://arxiv.org/abs/2408.07422v2)** | 2025-02-13 |  |
-| **[From Visuals to Vocabulary: Establishing Equivalence Between Image and Text Token Through Autoregressive Pre-training in MLLMs](http://arxiv.org/abs/2502.09093v1)** | 2025-02-13 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evolution 6.0: Evolving Robotic Capabilities Through Generative Design](http://arxiv.org/abs/2502.17034v1)** | 2025-02-24 | Submitted to IROS |
 | **[ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model](http://arxiv.org/abs/2502.14420v2)** | 2025-02-21 |  |
 | **[VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation](http://arxiv.org/abs/2502.13508v2)** | 2025-02-21 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2025</p></details> |
 | **[CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision](http://arxiv.org/abs/2411.00508v2)** | 2025-02-19 | 27 pages |
@@ -40,5 +41,4 @@ labels: documentation
 | **[ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](http://arxiv.org/abs/2502.05450v1)** | 2025-02-08 |  |
 | **[Probing a Vision-Language-Action Model for Symbolic States and Integration into a Cognitive Architecture](http://arxiv.org/abs/2502.04558v1)** | 2025-02-06 | 8 Pages, 4 Figures |
 | **[Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation](http://arxiv.org/abs/2410.08001v3)** | 2025-02-06 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/RoboDual/</p></details> |
-| **[Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks](http://arxiv.org/abs/2412.06224v2)** | 2025-02-06 | <details><summary>Proje...</summary><p>Project page: https://pku-epic.github.io/Uni-NaVid/</p></details> |
 
