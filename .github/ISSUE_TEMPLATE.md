@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 25, 2025
+title: Latest 15 Papers - February 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](http://arxiv.org/abs/2502.18411v1)** | 2025-02-25 |  |
 | **[MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs](http://arxiv.org/abs/2502.17422v1)** | 2025-02-24 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025. Code at: https://github.com/saccharomycetes/mllms_know</p></details> |
 | **[MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](http://arxiv.org/abs/2410.11779v2)** | 2025-02-23 | ICLR 2025 |
 | **[M4SC: An MLLM-based Multi-modal, Multi-task and Multi-user Semantic Communication System](http://arxiv.org/abs/2502.16418v1)** | 2025-02-23 |  |
@@ -21,12 +22,11 @@ labels: documentation
 | **[RedundancyLens: Revealing and Exploiting Visual Token Processing Redundancy for Efficient Decoder-Only MLLMs](http://arxiv.org/abs/2501.19036v2)** | 2025-02-18 |  |
 | **[Unhackable Temporal Rewarding for Scalable Video MLLMs](http://arxiv.org/abs/2502.12081v1)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted by ICLR2025. Project Page: https://ahnsun.github.io/UTR/</p></details> |
 | **[Boosting Private Domain Understanding of Efficient MLLMs: A Tuning-free, Adaptive, Universal Prompt Optimization Framework](http://arxiv.org/abs/2412.19684v2)** | 2025-02-17 |  |
-| **[Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent](http://arxiv.org/abs/2502.11740v1)** | 2025-02-17 | 9 pages |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evolution 6.0: Evolving Robotic Capabilities Through Generative Design](http://arxiv.org/abs/2502.17034v1)** | 2025-02-24 | Submitted to IROS |
+| **[Evolution 6.0: Evolving Robotic Capabilities Through Generative Design](http://arxiv.org/abs/2502.17034v2)** | 2025-02-25 | Submitted to IROS |
 | **[ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model](http://arxiv.org/abs/2502.14420v2)** | 2025-02-21 |  |
 | **[VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation](http://arxiv.org/abs/2502.13508v2)** | 2025-02-21 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2025</p></details> |
 | **[CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision](http://arxiv.org/abs/2411.00508v2)** | 2025-02-19 | 27 pages |
