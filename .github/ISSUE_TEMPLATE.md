@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 27, 2025
+title: Latest 15 Papers - March 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[New Dataset and Methods for Fine-Grained Compositional Referring Expression Comprehension via Specialist-MLLM Collaboration](http://arxiv.org/abs/2502.20104v1)** | 2025-02-27 | TPAMI under review |
+| **[AsymLoRA: Harmonizing Data Conflicts and Commonalities in MLLMs](http://arxiv.org/abs/2502.20035v1)** | 2025-02-27 |  |
+| **[Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution](http://arxiv.org/abs/2409.12961v4)** | 2025-02-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
+| **[Improving Adversarial Transferability in MLLMs via Dynamic Vision-Language Alignment Attack](http://arxiv.org/abs/2502.19672v1)** | 2025-02-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2403.09766</p></details> |
 | **[M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance](http://arxiv.org/abs/2502.18778v1)** | 2025-02-26 |  |
 | **[OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference](http://arxiv.org/abs/2502.18411v1)** | 2025-02-25 |  |
 | **[MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs](http://arxiv.org/abs/2502.17422v1)** | 2025-02-24 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025. Code at: https://github.com/saccharomycetes/mllms_know</p></details> |
@@ -18,14 +22,11 @@ labels: documentation
 | **[Exploring How Generative MLLMs Perceive More Than CLIP with the Same Vision Encoder](http://arxiv.org/abs/2411.05195v2)** | 2025-02-20 | 17 pages, 3 figures |
 | **[Unveiling Cultural Blind Spots: Analyzing the Limitations of mLLMs in Procedural Text Comprehension](http://arxiv.org/abs/2502.14315v1)** | 2025-02-20 |  |
 | **[Interaction2Code: Benchmarking MLLM-based Interactive Webpage Code Generation from Interactive Prototyping](http://arxiv.org/abs/2411.03292v2)** | 2025-02-20 | 21 pages,14 figures |
-| **[Sce2DriveX: A Generalized MLLM Framework for Scene-to-Drive Learning](http://arxiv.org/abs/2502.14917v1)** | 2025-02-19 |  |
-| **[What Is a Good Caption? A Comprehensive Visual Caption Benchmark for Evaluating Both Correctness and Coverage of MLLMs](http://arxiv.org/abs/2502.14914v1)** | 2025-02-19 | Work in progress |
-| **[RedundancyLens: Revealing and Exploiting Visual Token Processing Redundancy for Efficient Decoder-Only MLLMs](http://arxiv.org/abs/2501.19036v2)** | 2025-02-18 |  |
-| **[Unhackable Temporal Rewarding for Scalable Video MLLMs](http://arxiv.org/abs/2502.12081v1)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted by ICLR2025. Project Page: https://ahnsun.github.io/UTR/</p></details> |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success](http://arxiv.org/abs/2502.19645v1)** | 2025-02-27 | <details><summary>Websi...</summary><p>Website: https://openvla-oft.github.io/</p></details> |
 | **[Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models](http://arxiv.org/abs/2502.19417v1)** | 2025-02-26 |  |
 | **[ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration](http://arxiv.org/abs/2502.19250v1)** | 2025-02-26 | <details><summary>Proje...</summary><p>Project page at https://objectvla.github.io/</p></details> |
 | **[Evolution 6.0: Evolving Robotic Capabilities Through Generative Design](http://arxiv.org/abs/2502.17034v2)** | 2025-02-25 | Submitted to IROS |
@@ -40,5 +41,4 @@ labels: documentation
 | **[GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation](http://arxiv.org/abs/2502.09268v2)** | 2025-02-14 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025</p></details> |
 | **[Diffusion Transformer Policy: Scaling Diffusion Transformer for Generalist Vision-Language-Action Learning](http://arxiv.org/abs/2410.15959v3)** | 2025-02-13 | Preprint |
 | **[DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](http://arxiv.org/abs/2502.05855v1)** | 2025-02-09 | <details><summary>The w...</summary><p>The webpage is at https://dex-vla.github.io/</p></details> |
-| **[ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](http://arxiv.org/abs/2502.05450v1)** | 2025-02-08 |  |
 
