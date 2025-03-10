@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 09, 2025
+title: Latest 15 Papers - March 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Needle In A Video Haystack: A Scalable Synthetic Evaluator for Video MLLMs](http://arxiv.org/abs/2406.09367v3)** | 2025-03-07 | ICLR 2025 |
 | **[MCiteBench: A Benchmark for Multimodal Citation Text Generation in MLLMs](http://arxiv.org/abs/2503.02589v2)** | 2025-03-05 |  |
 | **[VOILA: Evaluation of MLLMs For Perceptual Understanding and Analogical Reasoning](http://arxiv.org/abs/2503.00043v2)** | 2025-03-04 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025. Code and data: https://github.com/nlylmz/Voila</p></details> |
 | **[From Specific-MLLMs to Omni-MLLMs: A Survey on MLLMs Aligned with Multi-modalities](http://arxiv.org/abs/2412.11694v3)** | 2025-03-04 | 35 pages |
@@ -21,11 +22,11 @@ labels: documentation
 | **[M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance](http://arxiv.org/abs/2502.18778v1)** | 2025-02-26 |  |
 | **[MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs](http://arxiv.org/abs/2502.17422v1)** | 2025-02-24 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025. Code at: https://github.com/saccharomycetes/mllms_know</p></details> |
 | **[MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation](http://arxiv.org/abs/2410.11779v2)** | 2025-02-23 | ICLR 2025 |
-| **[M4SC: An MLLM-based Multi-modal, Multi-task and Multi-user Semantic Communication System](http://arxiv.org/abs/2502.16418v1)** | 2025-02-23 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robotic Control via Embodied Chain-of-Thought Reasoning](http://arxiv.org/abs/2407.08693v3)** | 2025-03-06 | <details><summary>Proje...</summary><p>Project Website: https://embodied-cot.github.io. Updated funding information</p></details> |
 | **[VLA Model-Expert Collaboration for Bi-directional Manipulation Learning](http://arxiv.org/abs/2503.04163v1)** | 2025-03-06 |  |
 | **[OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction](http://arxiv.org/abs/2503.03734v1)** | 2025-03-05 |  |
 | **[DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping](http://arxiv.org/abs/2502.20900v2)** | 2025-03-05 | 21 pages, 10 figures |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models](http://arxiv.org/abs/2502.19417v1)** | 2025-02-26 |  |
 | **[Evolution 6.0: Evolving Robotic Capabilities Through Generative Design](http://arxiv.org/abs/2502.17034v2)** | 2025-02-25 | Submitted to IROS |
 | **[ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model](http://arxiv.org/abs/2502.14420v2)** | 2025-02-21 |  |
-| **[VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation](http://arxiv.org/abs/2502.13508v2)** | 2025-02-21 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2025</p></details> |
 
