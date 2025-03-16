@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 13, 2025
+title: Latest 15 Papers - March 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CINEMA: Coherent Multi-Subject Video Generation via MLLM-Based Guidance](http://arxiv.org/abs/2503.10391v1)** | 2025-03-13 |  |
+| **[LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents](http://arxiv.org/abs/2503.10200v1)** | 2025-03-13 |  |
+| **[CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM](http://arxiv.org/abs/2411.04954v2)** | 2025-03-13 | <details><summary>Proje...</summary><p>Project page: https://cad-mllm.github.io/</p></details> |
+| **[Information Density Principle for MLLM Benchmarks](http://arxiv.org/abs/2503.10079v1)** | 2025-03-13 |  |
+| **[UVE: Are MLLMs Unified Evaluators for AI-Generated Videos?](http://arxiv.org/abs/2503.09949v1)** | 2025-03-13 |  |
 | **[Exo2Ego: Exocentric Knowledge Guided MLLM for Egocentric Video Understanding](http://arxiv.org/abs/2503.09143v1)** | 2025-03-12 | <details><summary>Proje...</summary><p>Project: https://egovisiongroup.github.io/Exo2Ego.github.io/</p></details> |
 | **[Attention Reallocation: Towards Zero-cost and Controllable Hallucination Mitigation of MLLMs](http://arxiv.org/abs/2503.08342v2)** | 2025-03-12 |  |
 | **[HumanVBench: Exploring Human-Centric Video Understanding Capabilities of MLLMs with Synthetic Benchmark Data](http://arxiv.org/abs/2412.17574v2)** | 2025-03-12 | <details><summary>22 pa...</summary><p>22 pages, 23 figures, 7 tables</p></details> |
@@ -17,15 +22,12 @@ labels: documentation
 | **[ProJudge: A Multi-Modal Multi-Discipline Benchmark and Instruction-Tuning Dataset for MLLM-based Process Judges](http://arxiv.org/abs/2503.06553v1)** | 2025-03-09 |  |
 | **[M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance](http://arxiv.org/abs/2502.18778v2)** | 2025-03-09 |  |
 | **[FedMLLM: Federated Fine-tuning MLLM on Multimodal Heterogeneity Data](http://arxiv.org/abs/2411.14717v2)** | 2025-03-08 |  |
-| **[GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images](http://arxiv.org/abs/2503.06073v1)** | 2025-03-08 |  |
-| **[Towards Understanding the Use of MLLM-Enabled Applications for Visual Interpretation by Blind and Low Vision People](http://arxiv.org/abs/2503.05899v1)** | 2025-03-07 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 4 tables, to appear at CHI 2025</p></details> |
-| **[Needle In A Video Haystack: A Scalable Synthetic Evaluator for Video MLLMs](http://arxiv.org/abs/2406.09367v3)** | 2025-03-07 | ICLR 2025 |
-| **[MCiteBench: A Benchmark for Multimodal Citation Text Generation in MLLMs](http://arxiv.org/abs/2503.02589v2)** | 2025-03-05 |  |
-| **[VOILA: Evaluation of MLLMs For Perceptual Understanding and Analogical Reasoning](http://arxiv.org/abs/2503.00043v2)** | 2025-03-04 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025. Code and data: https://github.com/nlylmz/Voila</p></details> |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](http://arxiv.org/abs/2503.10631v1)** | 2025-03-13 |  |
+| **[ReVLA: Reverting Visual Domain Limitation of Robotic Foundation Models](http://arxiv.org/abs/2409.15250v2)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted at ICRA-2025, Atlanta</p></details> |
 | **[CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games](http://arxiv.org/abs/2503.09527v1)** | 2025-03-12 |  |
 | **[QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning](http://arxiv.org/abs/2412.15576v3)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted to ICRA 2025; Github page: https://quart-online.github.io</p></details> |
 | **[OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction](http://arxiv.org/abs/2503.03734v2)** | 2025-03-11 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision](http://arxiv.org/abs/2411.00508v3)** | 2025-03-05 | 27 pages |
 | **[SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Safe Reinforcement Learning](http://arxiv.org/abs/2503.03480v1)** | 2025-03-05 | 10 pages, 4 figures |
 | **[A Survey on Vision-Language-Action Models for Embodied AI](http://arxiv.org/abs/2405.14093v4)** | 2025-03-04 | <details><summary>Proje...</summary><p>Project page: https://github.com/yueen-ma/Awesome-VLA</p></details> |
-| **[Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding](http://arxiv.org/abs/2503.02310v1)** | 2025-03-04 |  |
-| **[CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs](http://arxiv.org/abs/2503.01378v1)** | 2025-03-03 | <details><summary>Paper...</summary><p>Paper submitted to the IEEE conference</p></details> |
 
