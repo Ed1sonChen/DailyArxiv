@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 16, 2025
+title: Latest 15 Papers - March 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration](http://arxiv.org/abs/2411.17686v3)** | 2025-03-14 |  |
 | **[CINEMA: Coherent Multi-Subject Video Generation via MLLM-Based Guidance](http://arxiv.org/abs/2503.10391v1)** | 2025-03-13 |  |
 | **[LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents](http://arxiv.org/abs/2503.10200v1)** | 2025-03-13 |  |
 | **[CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM](http://arxiv.org/abs/2411.04954v2)** | 2025-03-13 | <details><summary>Proje...</summary><p>Project page: https://cad-mllm.github.io/</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting](http://arxiv.org/abs/2411.12789v2)** | 2025-03-11 |  |
 | **[ProJudge: A Multi-Modal Multi-Discipline Benchmark and Instruction-Tuning Dataset for MLLM-based Process Judges](http://arxiv.org/abs/2503.06553v1)** | 2025-03-09 |  |
 | **[M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance](http://arxiv.org/abs/2502.18778v2)** | 2025-03-09 |  |
-| **[FedMLLM: Federated Fine-tuning MLLM on Multimodal Heterogeneity Data](http://arxiv.org/abs/2411.14717v2)** | 2025-03-08 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy](http://arxiv.org/abs/2410.15959v4)** | 2025-03-14 | <details><summary>Prepr...</summary><p>Preprint; https://robodita.github.io/</p></details> |
 | **[HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](http://arxiv.org/abs/2503.10631v1)** | 2025-03-13 |  |
 | **[ReVLA: Reverting Visual Domain Limitation of Robotic Foundation Models](http://arxiv.org/abs/2409.15250v2)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted at ICRA-2025, Atlanta</p></details> |
 | **[CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games](http://arxiv.org/abs/2503.09527v1)** | 2025-03-12 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping](http://arxiv.org/abs/2502.20900v2)** | 2025-03-05 | 21 pages, 10 figures |
 | **[CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision](http://arxiv.org/abs/2411.00508v3)** | 2025-03-05 | 27 pages |
 | **[SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Safe Reinforcement Learning](http://arxiv.org/abs/2503.03480v1)** | 2025-03-05 | 10 pages, 4 figures |
-| **[A Survey on Vision-Language-Action Models for Embodied AI](http://arxiv.org/abs/2405.14093v4)** | 2025-03-04 | <details><summary>Proje...</summary><p>Project page: https://github.com/yueen-ma/Awesome-VLA</p></details> |
 
