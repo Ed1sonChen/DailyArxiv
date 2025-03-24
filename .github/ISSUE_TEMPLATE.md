@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 23, 2025
+title: Latest 15 Papers - March 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,9 +7,11 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UVE: Are MLLMs Unified Evaluators for AI-Generated Videos?](http://arxiv.org/abs/2503.09949v2)** | 2025-03-21 |  |
+| **[Towards Self-Improving Systematic Cognition for Next-Generation Foundation MLLMs](http://arxiv.org/abs/2503.12303v4)** | 2025-03-21 | <details><summary>38 pa...</summary><p>38 pages. Preprint, work in progress</p></details> |
 | **[Visual Position Prompt for MLLM based Visual Grounding](http://arxiv.org/abs/2503.15426v1)** | 2025-03-19 |  |
 | **[Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM](http://arxiv.org/abs/2503.14478v2)** | 2025-03-19 | <details><summary>Evalu...</summary><p>Evaluation Code and dataset see https://github.com/open-compass/Creation-MMBench</p></details> |
-| **[Towards Self-Improving Systematic Cognition for Next-Generation Foundation MLLMs](http://arxiv.org/abs/2503.12303v3)** | 2025-03-19 | <details><summary>38 pa...</summary><p>38 pages. Preprint, work in progress</p></details> |
+| **[MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems](http://arxiv.org/abs/2503.16549v1)** | 2025-03-19 | <details><summary>https...</summary><p>https://github.com/MathFlow-zju/MathFlow</p></details> |
 | **[LLaVA-UHD v2: an MLLM Integrating High-Resolution Semantic Pyramid via Hierarchical Window Transformer](http://arxiv.org/abs/2412.13871v2)** | 2025-03-19 |  |
 | **[Unveiling the Ignorance of MLLMs: Seeing Clearly, Answering Incorrectly](http://arxiv.org/abs/2406.10638v3)** | 2025-03-19 |  |
 | **[Mitigating Object Hallucinations in MLLMs via Multi-Frequency Perturbations](http://arxiv.org/abs/2503.14895v1)** | 2025-03-19 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided, Self-Consistent MLLMs for Food Preparation Task Planning](http://arxiv.org/abs/2503.13055v1)** | 2025-03-17 |  |
 | **[Efficient Motion-Aware Video MLLM](http://arxiv.org/abs/2503.13016v1)** | 2025-03-17 | CVPR 2025 |
 | **[Empowering Source-Free Domain Adaptation via MLLM-Guided Reliability-Based Curriculum Learning](http://arxiv.org/abs/2405.18376v2)** | 2025-03-17 |  |
-| **[Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration](http://arxiv.org/abs/2411.17686v3)** | 2025-03-14 |  |
-| **[CINEMA: Coherent Multi-Subject Video Generation via MLLM-Based Guidance](http://arxiv.org/abs/2503.10391v1)** | 2025-03-13 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
