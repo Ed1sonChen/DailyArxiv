@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 24, 2025
+title: Latest 15 Papers - March 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,9 +7,11 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Visual Position Prompt for MLLM based Visual Grounding](http://arxiv.org/abs/2503.15426v2)** | 2025-03-24 |  |
+| **[HiLM-D: Enhancing MLLMs with Multi-Scale High-Resolution Details for Autonomous Driving](http://arxiv.org/abs/2309.05186v2)** | 2025-03-24 | Accepted by IJCV |
+| **[Judge Anything: MLLM as a Judge Across Any Modality](http://arxiv.org/abs/2503.17489v1)** | 2025-03-21 |  |
 | **[UVE: Are MLLMs Unified Evaluators for AI-Generated Videos?](http://arxiv.org/abs/2503.09949v2)** | 2025-03-21 |  |
 | **[Towards Self-Improving Systematic Cognition for Next-Generation Foundation MLLMs](http://arxiv.org/abs/2503.12303v4)** | 2025-03-21 | <details><summary>38 pa...</summary><p>38 pages. Preprint, work in progress</p></details> |
-| **[Visual Position Prompt for MLLM based Visual Grounding](http://arxiv.org/abs/2503.15426v1)** | 2025-03-19 |  |
 | **[Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM](http://arxiv.org/abs/2503.14478v2)** | 2025-03-19 | <details><summary>Evalu...</summary><p>Evaluation Code and dataset see https://github.com/open-compass/Creation-MMBench</p></details> |
 | **[MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems](http://arxiv.org/abs/2503.16549v1)** | 2025-03-19 | <details><summary>https...</summary><p>https://github.com/MathFlow-zju/MathFlow</p></details> |
 | **[LLaVA-UHD v2: an MLLM Integrating High-Resolution Semantic Pyramid via Hierarchical Window Transformer](http://arxiv.org/abs/2412.13871v2)** | 2025-03-19 |  |
@@ -20,16 +22,15 @@ labels: documentation
 | **[DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding](http://arxiv.org/abs/2503.12797v2)** | 2025-03-18 |  |
 | **[Lifting the Veil on Visual Information Flow in MLLMs: Unlocking Pathways to Faster Inference](http://arxiv.org/abs/2503.13108v1)** | 2025-03-17 |  |
 | **[Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided, Self-Consistent MLLMs for Food Preparation Task Planning](http://arxiv.org/abs/2503.13055v1)** | 2025-03-17 |  |
-| **[Efficient Motion-Aware Video MLLM](http://arxiv.org/abs/2503.13016v1)** | 2025-03-17 | CVPR 2025 |
-| **[Empowering Source-Free Domain Adaptation via MLLM-Guided Reliability-Based Curriculum Learning](http://arxiv.org/abs/2405.18376v2)** | 2025-03-17 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evolution 6.0: Evolving Robotic Capabilities Through Generative Design](http://arxiv.org/abs/2502.17034v3)** | 2025-03-24 | Submitted to IROS |
+| **[Diffusion Transformer Policy](http://arxiv.org/abs/2410.15959v6)** | 2025-03-23 | <details><summary>prepr...</summary><p>preprint; New Project Page: https://robodita.github.io; revert unsuitable replacement</p></details> |
 | **[A Self-Correcting Vision-Language-Action Model for Fast and Slow System Manipulation](http://arxiv.org/abs/2405.17418v2)** | 2025-03-19 |  |
 | **[GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](http://arxiv.org/abs/2503.14734v1)** | 2025-03-18 | <details><summary>Autho...</summary><p>Authors are listed alphabetically. Project leads are Linxi "Jim" Fan and Yuke Zhu</p></details> |
 | **[MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation](http://arxiv.org/abs/2503.13446v1)** | 2025-03-17 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Project Page: https://gary3410.github.io/momanipVLA/</p></details> |
-| **[Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy](http://arxiv.org/abs/2410.15959v5)** | 2025-03-17 | <details><summary>I wan...</summary><p>I want to withdraw the recent replacement (v4), given that the author is different, the title is also different and the content is totally different</p></details> |
 | **[HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](http://arxiv.org/abs/2503.10631v2)** | 2025-03-17 |  |
 | **[ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis](http://arxiv.org/abs/2503.14526v1)** | 2025-03-15 | <details><summary>Websi...</summary><p>Website: https://yuffish.github.io/rebot/</p></details> |
 | **[ReVLA: Reverting Visual Domain Limitation of Robotic Foundation Models](http://arxiv.org/abs/2409.15250v2)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted at ICRA-2025, Atlanta</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[PointVLA: Injecting the 3D World into Vision-Language-Action Models](http://arxiv.org/abs/2503.07511v1)** | 2025-03-10 |  |
 | **[Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics](http://arxiv.org/abs/2411.13587v3)** | 2025-03-10 | <details><summary>Githu...</summary><p>Github: https://github.com/William-wAng618/roboticAttack Homepage: https://vlaattacker.github.io/</p></details> |
 | **[Robotic Control via Embodied Chain-of-Thought Reasoning](http://arxiv.org/abs/2407.08693v3)** | 2025-03-06 | <details><summary>Proje...</summary><p>Project Website: https://embodied-cot.github.io. Updated funding information</p></details> |
-| **[Refined Policy Distillation: From VLA Generalists to RL Experts](http://arxiv.org/abs/2503.05833v1)** | 2025-03-06 |  |
 
