@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 25, 2025
+title: Latest 15 Papers - March 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy](http://arxiv.org/abs/2503.19757v1)** | 2025-03-25 | <details><summary>Prepr...</summary><p>Preprint; https://robodita.github.io;</p></details> |
+| **[DataPlatter: Boosting Robotic Manipulation Generalization with Minimal Costly Data](http://arxiv.org/abs/2503.19516v1)** | 2025-03-25 |  |
+| **[RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World](http://arxiv.org/abs/2412.00171v3)** | 2025-03-25 | 17 pages, 16 figures |
 | **[Evolution 6.0: Evolving Robotic Capabilities Through Generative Design](http://arxiv.org/abs/2502.17034v3)** | 2025-03-24 | Submitted to IROS |
 | **[Diffusion Transformer Policy](http://arxiv.org/abs/2410.15959v6)** | 2025-03-23 | <details><summary>prepr...</summary><p>preprint; New Project Page: https://robodita.github.io; revert unsuitable replacement</p></details> |
 | **[A Self-Correcting Vision-Language-Action Model for Fast and Slow System Manipulation](http://arxiv.org/abs/2405.17418v2)** | 2025-03-19 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning](http://arxiv.org/abs/2412.15576v3)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted to ICRA 2025; Github page: https://quart-online.github.io</p></details> |
 | **[OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction](http://arxiv.org/abs/2503.03734v2)** | 2025-03-11 |  |
 | **[MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models](http://arxiv.org/abs/2503.08007v1)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted by ICRA 2025</p></details> |
-| **[PointVLA: Injecting the 3D World into Vision-Language-Action Models](http://arxiv.org/abs/2503.07511v1)** | 2025-03-10 |  |
-| **[Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics](http://arxiv.org/abs/2411.13587v3)** | 2025-03-10 | <details><summary>Githu...</summary><p>Github: https://github.com/William-wAng618/roboticAttack Homepage: https://vlaattacker.github.io/</p></details> |
-| **[Robotic Control via Embodied Chain-of-Thought Reasoning](http://arxiv.org/abs/2407.08693v3)** | 2025-03-06 | <details><summary>Proje...</summary><p>Project Website: https://embodied-cot.github.io. Updated funding information</p></details> |
 
