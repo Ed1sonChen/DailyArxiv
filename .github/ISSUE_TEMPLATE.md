@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 01, 2025
+title: Latest 15 Papers - April 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents](http://arxiv.org/abs/2503.10200v2)** | 2025-04-01 |  |
 | **[BeMERC: Behavior-Aware MLLM-based Framework for Multimodal Emotion Recognition in Conversation](http://arxiv.org/abs/2503.23990v1)** | 2025-03-31 |  |
 | **[Boosting MLLM Reasoning with Text-Debiased Hint-GRPO](http://arxiv.org/abs/2503.23905v1)** | 2025-03-31 |  |
 | **[STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?](http://arxiv.org/abs/2503.23765v1)** | 2025-03-31 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Judge Anything: MLLM as a Judge Across Any Modality](http://arxiv.org/abs/2503.17489v1)** | 2025-03-21 |  |
 | **[UVE: Are MLLMs Unified Evaluators for AI-Generated Videos?](http://arxiv.org/abs/2503.09949v2)** | 2025-03-21 |  |
 | **[Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM](http://arxiv.org/abs/2503.14478v2)** | 2025-03-19 | <details><summary>Evalu...</summary><p>Evaluation Code and dataset see https://github.com/open-compass/Creation-MMBench</p></details> |
-| **[MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems](http://arxiv.org/abs/2503.16549v1)** | 2025-03-19 | <details><summary>https...</summary><p>https://github.com/MathFlow-zju/MathFlow</p></details> |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation](http://arxiv.org/abs/2503.02881v2)** | 2025-04-01 |  |
 | **[Empirical Analysis of Sim-and-Real Cotraining Of Diffusion Policies For Planar Pushing from Pixels](http://arxiv.org/abs/2503.22634v1)** | 2025-03-28 | <details><summary>9 pag...</summary><p>9 pages, 15 figures, In Submission to IROS 2025</p></details> |
 | **[ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation](http://arxiv.org/abs/2406.01586v2)** | 2025-03-26 | <details><summary>https...</summary><p>https://manicm-fast.github.io/</p></details> |
 | **[Inference-Time Policy Steering through Human Interactions](http://arxiv.org/abs/2411.16627v2)** | 2025-03-26 | ICRA 2025 |
@@ -59,5 +60,4 @@ labels: documentation
 | **[PANDORA: Diffusion Policy Learning for Dexterous Robotic Piano Playing](http://arxiv.org/abs/2503.14545v1)** | 2025-03-17 |  |
 | **[HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](http://arxiv.org/abs/2503.10631v2)** | 2025-03-17 |  |
 | **[Brain-inspired Action Generation with Spiking Transformer Diffusion Policy Model](http://arxiv.org/abs/2411.09953v2)** | 2025-03-17 | <details><summary>10 pa...</summary><p>10 pages, 4 figures and 2 tables, conference submission</p></details> |
-| **[MTDP: A Modulated Transformer based Diffusion Policy Model](http://arxiv.org/abs/2502.09029v2)** | 2025-03-17 |  |
 
