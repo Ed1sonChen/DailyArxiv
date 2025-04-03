@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 02, 2025
+title: Latest 15 Papers - April 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement](http://arxiv.org/abs/2504.01934v1)** | 2025-04-02 |  |
+| **[Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning](http://arxiv.org/abs/2504.01805v1)** | 2025-04-02 |  |
+| **[QG-VTC: Question-Guided Visual Token Compression in MLLMs for Efficient VQA](http://arxiv.org/abs/2504.00654v1)** | 2025-04-01 |  |
 | **[LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents](http://arxiv.org/abs/2503.10200v2)** | 2025-04-01 |  |
 | **[BeMERC: Behavior-Aware MLLM-based Framework for Multimodal Emotion Recognition in Conversation](http://arxiv.org/abs/2503.23990v1)** | 2025-03-31 |  |
 | **[Boosting MLLM Reasoning with Text-Debiased Hint-GRPO](http://arxiv.org/abs/2503.23905v1)** | 2025-03-31 |  |
@@ -19,13 +22,11 @@ labels: documentation
 | **[LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning?](http://arxiv.org/abs/2503.19990v1)** | 2025-03-25 | 12 pages, 7 figures |
 | **[Visual Position Prompt for MLLM based Visual Grounding](http://arxiv.org/abs/2503.15426v2)** | 2025-03-24 |  |
 | **[HiLM-D: Enhancing MLLMs with Multi-Scale High-Resolution Details for Autonomous Driving](http://arxiv.org/abs/2309.05186v2)** | 2025-03-24 | Accepted by IJCV |
-| **[Judge Anything: MLLM as a Judge Across Any Modality](http://arxiv.org/abs/2503.17489v1)** | 2025-03-21 |  |
-| **[UVE: Are MLLMs Unified Evaluators for AI-Generated Videos?](http://arxiv.org/abs/2503.09949v2)** | 2025-03-21 |  |
-| **[Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM](http://arxiv.org/abs/2503.14478v2)** | 2025-03-19 | <details><summary>Evalu...</summary><p>Evaluation Code and dataset see https://github.com/open-compass/Creation-MMBench</p></details> |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning](http://arxiv.org/abs/2504.00907v2)** | 2025-04-02 |  |
 | **[OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model](http://arxiv.org/abs/2503.23463v1)** | 2025-03-30 |  |
 | **[CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](http://arxiv.org/abs/2503.22020v1)** | 2025-03-27 | <details><summary>Proje...</summary><p>Project website: https://cot-vla.github.io/</p></details> |
 | **[GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](http://arxiv.org/abs/2503.14734v2)** | 2025-03-27 | <details><summary>Autho...</summary><p>Authors are listed alphabetically. Project leads are Linxi "Jim" Fan and Yuke Zhu. For more information, see https://developer.nvidia.com/isaac/gr00t</p></details> |
@@ -40,12 +41,12 @@ labels: documentation
 | **[A Self-Correcting Vision-Language-Action Model for Fast and Slow System Manipulation](http://arxiv.org/abs/2405.17418v2)** | 2025-03-19 |  |
 | **[MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation](http://arxiv.org/abs/2503.13446v1)** | 2025-03-17 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Project Page: https://gary3410.github.io/momanipVLA/</p></details> |
 | **[HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](http://arxiv.org/abs/2503.10631v2)** | 2025-03-17 |  |
-| **[ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis](http://arxiv.org/abs/2503.14526v1)** | 2025-03-15 | <details><summary>Websi...</summary><p>Website: https://yuffish.github.io/rebot/</p></details> |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation](http://arxiv.org/abs/2503.02881v2)** | 2025-04-01 |  |
+| **[Exploration and Adaptation in Non-Stationary Tasks with Diffusion Policies](http://arxiv.org/abs/2504.00280v1)** | 2025-03-31 | 7 pages, 1 figure |
 | **[Empirical Analysis of Sim-and-Real Cotraining Of Diffusion Policies For Planar Pushing from Pixels](http://arxiv.org/abs/2503.22634v1)** | 2025-03-28 | <details><summary>9 pag...</summary><p>9 pages, 15 figures, In Submission to IROS 2025</p></details> |
 | **[ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation](http://arxiv.org/abs/2406.01586v2)** | 2025-03-26 | <details><summary>https...</summary><p>https://manicm-fast.github.io/</p></details> |
 | **[Inference-Time Policy Steering through Human Interactions](http://arxiv.org/abs/2411.16627v2)** | 2025-03-26 | ICRA 2025 |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Robotic Compliant Object Prying Using Diffusion Policy Guided by Vision and Force Observations](http://arxiv.org/abs/2503.03998v2)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted to IEEE RA-L. (C) 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media. 8 pages with 9 figures</p></details> |
 | **[PANDORA: Diffusion Policy Learning for Dexterous Robotic Piano Playing](http://arxiv.org/abs/2503.14545v1)** | 2025-03-17 |  |
 | **[HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](http://arxiv.org/abs/2503.10631v2)** | 2025-03-17 |  |
-| **[Brain-inspired Action Generation with Spiking Transformer Diffusion Policy Model](http://arxiv.org/abs/2411.09953v2)** | 2025-03-17 | <details><summary>10 pa...</summary><p>10 pages, 4 figures and 2 tables, conference submission</p></details> |
 
