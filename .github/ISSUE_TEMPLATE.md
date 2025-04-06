@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 03, 2025
+title: Latest 15 Papers - April 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement](http://arxiv.org/abs/2504.01934v1)** | 2025-04-02 |  |
+| **[ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement](http://arxiv.org/abs/2504.01934v2)** | 2025-04-03 |  |
+| **[The Plot Thickens: Quantitative Part-by-Part Exploration of MLLM Visualization Literacy](http://arxiv.org/abs/2504.02217v1)** | 2025-04-03 | 11 pages, 8 figures |
 | **[Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning](http://arxiv.org/abs/2504.01805v1)** | 2025-04-02 |  |
 | **[QG-VTC: Question-Guided Visual Token Compression in MLLMs for Efficient VQA](http://arxiv.org/abs/2504.00654v1)** | 2025-04-01 |  |
 | **[LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents](http://arxiv.org/abs/2503.10200v2)** | 2025-04-01 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation](http://arxiv.org/abs/2411.16425v2)** | 2025-03-26 | 10 pages |
 | **[LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning?](http://arxiv.org/abs/2503.19990v1)** | 2025-03-25 | 12 pages, 7 figures |
 | **[Visual Position Prompt for MLLM based Visual Grounding](http://arxiv.org/abs/2503.15426v2)** | 2025-03-24 |  |
-| **[HiLM-D: Enhancing MLLMs with Multi-Scale High-Resolution Details for Autonomous Driving](http://arxiv.org/abs/2309.05186v2)** | 2025-03-24 | Accepted by IJCV |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
