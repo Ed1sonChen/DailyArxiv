@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 07, 2025
+title: Latest 15 Papers - April 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance](http://arxiv.org/abs/2502.18778v3)** | 2025-04-07 |  |
+| **[OrderChain: A General Prompting Paradigm to Improve Ordinal Understanding Ability of MLLM](http://arxiv.org/abs/2504.04801v1)** | 2025-04-07 |  |
+| **[OCC-MLLM-CoT-Alpha: Towards Multi-stage Occlusion Recognition Based on Large Language Models via 3D-Aware Supervision and Chain-of-Thoughts Guidance](http://arxiv.org/abs/2504.04781v1)** | 2025-04-07 | <details><summary>This ...</summary><p>This work has been accepted to the Multimodal Algorithmic Reasoning (MAR) Workshop at CVPR 2025</p></details> |
+| **[MLLM-as-a-Judge for Image Safety without Human Labeling](http://arxiv.org/abs/2501.00192v2)** | 2025-04-06 |  |
 | **[3D Spatial Understanding in MLLMs: Disambiguation and Evaluation](http://arxiv.org/abs/2412.06613v2)** | 2025-04-04 | ICRA 2025 |
 | **[ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement](http://arxiv.org/abs/2504.01934v2)** | 2025-04-03 |  |
 | **[The Plot Thickens: Quantitative Part-by-Part Exploration of MLLM Visualization Literacy](http://arxiv.org/abs/2504.02217v1)** | 2025-04-03 | 11 pages, 8 figures |
@@ -18,10 +22,6 @@ labels: documentation
 | **[STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?](http://arxiv.org/abs/2503.23765v1)** | 2025-03-31 |  |
 | **[Will Pre-Training Ever End? A First Step Toward Next-Generation Foundation MLLMs via Self-Improving Systematic Cognition](http://arxiv.org/abs/2503.12303v5)** | 2025-03-31 | <details><summary>40 pa...</summary><p>40 pages. Preprint, work in progress</p></details> |
 | **[Video-R1: Reinforcing Video Reasoning in MLLMs](http://arxiv.org/abs/2503.21776v1)** | 2025-03-27 | <details><summary>Proje...</summary><p>Project page: https://github.com/tulerfeng/Video-R1</p></details> |
-| **[FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs](http://arxiv.org/abs/2503.21457v1)** | 2025-03-27 | Accepted by CVPR2025 |
-| **[Instruction-Oriented Preference Alignment for Enhancing Multi-Modal Comprehension Capability of MLLMs](http://arxiv.org/abs/2503.20309v1)** | 2025-03-26 | Technical report |
-| **[TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation](http://arxiv.org/abs/2411.16425v2)** | 2025-03-26 | 10 pages |
-| **[LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning?](http://arxiv.org/abs/2503.19990v1)** | 2025-03-25 | 12 pages, 7 figures |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Speech-to-Trajectory: Learning Human-Like Verbal Guidance for Robot Motion](http://arxiv.org/abs/2504.05084v1)** | 2025-04-07 |  |
+| **[Tool-as-Interface: Learning Robot Policies from Human Tool Usage through Imitation Learning](http://arxiv.org/abs/2504.04612v1)** | 2025-04-06 | <details><summary>Proje...</summary><p>Project Page: https://tool-as-interface.github.io. 17 pages, 14 figures</p></details> |
 | **[Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation](http://arxiv.org/abs/2503.02881v2)** | 2025-04-01 |  |
 | **[Exploration and Adaptation in Non-Stationary Tasks with Diffusion Policies](http://arxiv.org/abs/2504.00280v1)** | 2025-03-31 | 7 pages, 1 figure |
 | **[Empirical Analysis of Sim-and-Real Cotraining Of Diffusion Policies For Planar Pushing from Pixels](http://arxiv.org/abs/2503.22634v1)** | 2025-03-28 | <details><summary>9 pag...</summary><p>9 pages, 15 figures, In Submission to IROS 2025</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[CCDP: Composition of Conditional Diffusion Policies with Guided Sampling](http://arxiv.org/abs/2503.15386v1)** | 2025-03-19 |  |
 | **[The Pitfalls of Imitation Learning when Actions are Continuous](http://arxiv.org/abs/2503.09722v2)** | 2025-03-19 | <details><summary>98 pa...</summary><p>98 pages, 2 figures, updated introduction</p></details> |
 | **[Robotic Compliant Object Prying Using Diffusion Policy Guided by Vision and Force Observations](http://arxiv.org/abs/2503.03998v2)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted to IEEE RA-L. (C) 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media. 8 pages with 9 figures</p></details> |
-| **[PANDORA: Diffusion Policy Learning for Dexterous Robotic Piano Playing](http://arxiv.org/abs/2503.14545v1)** | 2025-03-17 |  |
-| **[HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](http://arxiv.org/abs/2503.10631v2)** | 2025-03-17 |  |
 
