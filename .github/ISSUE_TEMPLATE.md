@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 09, 2025
+title: Latest 15 Papers - April 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning](http://arxiv.org/abs/2504.06538v1)** | 2025-04-09 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 3 tables, 24 equations</p></details> |
 | **[Evolution 6.0: Evolving Robotic Capabilities Through Generative Design](http://arxiv.org/abs/2502.17034v4)** | 2025-04-04 | Submitted to IROS |
 | **[Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning](http://arxiv.org/abs/2504.00907v2)** | 2025-04-02 |  |
 | **[OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model](http://arxiv.org/abs/2503.23463v1)** | 2025-03-30 |  |
@@ -40,11 +41,30 @@ labels: documentation
 | **[Diffusion Transformer Policy](http://arxiv.org/abs/2410.15959v6)** | 2025-03-23 | <details><summary>prepr...</summary><p>preprint; New Project Page: https://robodita.github.io; revert unsuitable replacement</p></details> |
 | **[A Self-Correcting Vision-Language-Action Model for Fast and Slow System Manipulation](http://arxiv.org/abs/2405.17418v2)** | 2025-03-19 |  |
 | **[MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation](http://arxiv.org/abs/2503.13446v1)** | 2025-03-17 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Project Page: https://gary3410.github.io/momanipVLA/</p></details> |
-| **[HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](http://arxiv.org/abs/2503.10631v2)** | 2025-03-17 |  |
+
+## robot
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation](http://arxiv.org/abs/2504.06961v1)** | 2025-04-09 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 (Conference on Computer Vision and Pattern Recognition)</p></details> |
+| **[A Centralized Planning and Distributed Execution Method for Shape Filling with Homogeneous Mobile Robots](http://arxiv.org/abs/2503.22522v2)** | 2025-04-09 |  |
+| **[Adaptive Human-Robot Collaborative Missions using Hybrid Task Planning](http://arxiv.org/abs/2504.06746v1)** | 2025-04-09 |  |
+| **[Software Reconfiguration in Robotics](http://arxiv.org/abs/2310.01039v2)** | 2025-04-09 |  |
+| **[Ice-Breakers, Turn-Takers and Fun-Makers: Exploring Robots for Groups with Teenagers](http://arxiv.org/abs/2504.06718v1)** | 2025-04-09 |  |
+| **[SDHN: Skewness-Driven Hypergraph Networks for Enhanced Localized Multi-Robot Coordination](http://arxiv.org/abs/2504.06684v1)** | 2025-04-09 |  |
+| **[Setup-Invariant Augmented Reality for Teaching by Demonstration with Surgical Robots](http://arxiv.org/abs/2504.06677v1)** | 2025-04-09 | <details><summary>12 pa...</summary><p>12 pages, 10 figures; Open-source code, see https://github.com/AlexandreBanks6/dV-STEAR_Public.git; Supplementary movies, see https://github.com/AlexandreBanks6/dVSTEAR_Supplemental_Files.git</p></details> |
+| **[A Multi-Modal Interaction Framework for Efficient Human-Robot Collaborative Shelf Picking](http://arxiv.org/abs/2504.06593v1)** | 2025-04-09 |  |
+| **[OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning](http://arxiv.org/abs/2504.06538v1)** | 2025-04-09 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 3 tables, 24 equations</p></details> |
+| **[Holistic Fusion: Task- and Setup-Agnostic Robot Localization and State Estimation with Factor Graphs](http://arxiv.org/abs/2504.06479v1)** | 2025-04-08 | <details><summary>21 pa...</summary><p>21 pages, 25 figures, 9 tables, journal submission</p></details> |
+| **[Semantically Safe Robot Manipulation: From Semantic Scene Understanding to Motion Safeguards](http://arxiv.org/abs/2410.15185v2)** | 2025-04-08 | 9 pages, 6 figures |
+| **[Classifying Subjective Time Perception in a Multi-robot Control Scenario Using Eye-tracking Information](http://arxiv.org/abs/2504.06442v1)** | 2025-04-08 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Extended Version: Multi-Robot Motion Planning with Cooperative Localization](http://arxiv.org/abs/2504.06429v1)** | 2025-04-08 | <details><summary>Submi...</summary><p>Submitted to IROS 2025</p></details> |
+| **[Comparing Self-Disclosure Themes and Semantics to a Human, a Robot, and a Disembodied Agent](http://arxiv.org/abs/2504.06374v1)** | 2025-04-08 |  |
+| **[Underwater Robotic Simulators Review for Autonomous System Development](http://arxiv.org/abs/2504.06245v1)** | 2025-04-08 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 2 tables</p></details> |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Semantically Safe Robot Manipulation: From Semantic Scene Understanding to Motion Safeguards](http://arxiv.org/abs/2410.15185v2)** | 2025-04-08 | 9 pages, 6 figures |
 | **[Speech-to-Trajectory: Learning Human-Like Verbal Guidance for Robot Motion](http://arxiv.org/abs/2504.05084v1)** | 2025-04-07 |  |
 | **[Tool-as-Interface: Learning Robot Policies from Human Tool Usage through Imitation Learning](http://arxiv.org/abs/2504.04612v1)** | 2025-04-06 | <details><summary>Proje...</summary><p>Project Page: https://tool-as-interface.github.io. 17 pages, 14 figures</p></details> |
 | **[Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation](http://arxiv.org/abs/2503.02881v2)** | 2025-04-01 |  |
@@ -59,5 +79,4 @@ labels: documentation
 | **[AffordDP: Generalizable Diffusion Policy with Transferable Affordance](http://arxiv.org/abs/2412.03142v2)** | 2025-03-20 |  |
 | **[CCDP: Composition of Conditional Diffusion Policies with Guided Sampling](http://arxiv.org/abs/2503.15386v1)** | 2025-03-19 |  |
 | **[The Pitfalls of Imitation Learning when Actions are Continuous](http://arxiv.org/abs/2503.09722v2)** | 2025-03-19 | <details><summary>98 pa...</summary><p>98 pages, 2 figures, updated introduction</p></details> |
-| **[Robotic Compliant Object Prying Using Diffusion Policy Guided by Vision and Force Observations](http://arxiv.org/abs/2503.03998v2)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted to IEEE RA-L. (C) 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media. 8 pages with 9 figures</p></details> |
 
