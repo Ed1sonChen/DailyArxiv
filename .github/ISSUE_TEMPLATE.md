@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 13, 2025
+title: Latest 15 Papers - April 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation](http://arxiv.org/abs/2503.13947v2)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
+| **[POEM: Precise Object-level Editing via MLLM control](http://arxiv.org/abs/2504.08111v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted to SCIA 2025</p></details> |
 | **[Law of Vision Representation in MLLMs](http://arxiv.org/abs/2408.16357v2)** | 2025-04-09 | <details><summary>The c...</summary><p>The code is available at https://github.com/bronyayang/Law_of_Vision_Representation_in_MLLMs</p></details> |
 | **[STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?](http://arxiv.org/abs/2503.23765v2)** | 2025-04-09 |  |
 | **[M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance](http://arxiv.org/abs/2502.18778v3)** | 2025-04-07 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[QG-VTC: Question-Guided Visual Token Compression in MLLMs for Efficient VQA](http://arxiv.org/abs/2504.00654v1)** | 2025-04-01 |  |
 | **[LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents](http://arxiv.org/abs/2503.10200v2)** | 2025-04-01 |  |
 | **[BeMERC: Behavior-Aware MLLM-based Framework for Multimodal Emotion Recognition in Conversation](http://arxiv.org/abs/2503.23990v1)** | 2025-03-31 |  |
-| **[Boosting MLLM Reasoning with Text-Debiased Hint-GRPO](http://arxiv.org/abs/2503.23905v1)** | 2025-03-31 |  |
-| **[Will Pre-Training Ever End? A First Step Toward Next-Generation Foundation MLLMs via Self-Improving Systematic Cognition](http://arxiv.org/abs/2503.12303v5)** | 2025-03-31 | <details><summary>40 pa...</summary><p>40 pages. Preprint, work in progress</p></details> |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Echo: An Open-Source, Low-Cost Teleoperation System with Force Feedback for Dataset Collection in Robot Learning](http://arxiv.org/abs/2504.07939v1)** | 2025-04-10 |  |
-| **[Enhancing Human-Robot Interaction in Healthcare: A Study on Nonverbal Communication Cues and Trust Dynamics with NAO Robot Caregivers](http://arxiv.org/abs/2503.16469v2)** | 2025-04-10 | <details><summary>The d...</summary><p>The dataset in this manuscript was created for purpose of class project (pretend) and I did not take the ethical review board's permission. Therefore, I was not permitted to submit this project to any public platform, as doing so would be considered an academic violation. I humbly request that paper be withdrawn from arXiv as soon as possible. Otherwise, I may face academic misconduct consequence</p></details> |
-| **[Execution Semantics of Behavior Trees in Robotic Applications](http://arxiv.org/abs/2408.00090v2)** | 2025-04-10 | 25 pages, 2 figures |
-| **[Hiden Topics in Robotic Process Automation -- an Approach based on AI](http://arxiv.org/abs/2404.05836v2)** | 2025-04-10 | 27 pages, 9 figures |
-| **[Efficient Swept Volume-Based Trajectory Generation for Arbitrary-Shaped Ground Robot Navigation](http://arxiv.org/abs/2504.07554v1)** | 2025-04-10 |  |
-| **[Extended URDF: Accounting for parallel mechanism in robot description](http://arxiv.org/abs/2504.04767v2)** | 2025-04-10 |  |
-| **[Optimal Robot Formations: Balancing Range-Based Observability and User-Defined Configurations](http://arxiv.org/abs/2403.00988v2)** | 2025-04-10 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, submitted to IEEE International Conference on Intelligent Robots and Systems 2024</p></details> |
-| **[Adaptive Vision-Guided Robotic Arm Control for Precision Pruning in Dynamic Orchard Environments](http://arxiv.org/abs/2504.07309v1)** | 2025-04-09 |  |
-| **[Data-Enabled Neighboring Extremal: Case Study on Model-Free Trajectory Tracking for Robotic Arm](http://arxiv.org/abs/2504.07292v1)** | 2025-04-09 |  |
-| **[Expectations, Explanations, and Embodiment: Attempts at Robot Failure Recovery](http://arxiv.org/abs/2504.07266v1)** | 2025-04-09 |  |
-| **[Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation](http://arxiv.org/abs/2504.06961v1)** | 2025-04-09 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 (Conference on Computer Vision and Pattern Recognition)</p></details> |
-| **[A Centralized Planning and Distributed Execution Method for Shape Filling with Homogeneous Mobile Robots](http://arxiv.org/abs/2503.22522v2)** | 2025-04-09 |  |
-| **[Adaptive Human-Robot Collaborative Missions using Hybrid Task Planning](http://arxiv.org/abs/2504.06746v1)** | 2025-04-09 |  |
-| **[Software Reconfiguration in Robotics](http://arxiv.org/abs/2310.01039v2)** | 2025-04-09 |  |
-| **[Ice-Breakers, Turn-Takers and Fun-Makers: Exploring Robots for Groups with Teenagers](http://arxiv.org/abs/2504.06718v1)** | 2025-04-09 |  |
+| **[Performance Evaluation of Trajectory Tracking Controllers for a Quadruped Robot Leg](http://arxiv.org/abs/2504.08698v1)** | 2025-04-11 | <details><summary>Publi...</summary><p>Published in IEEE Xplore</p></details> |
+| **[Pobogot -- An Open-Hardware Open-Source Low Cost Robot for Swarm Robotics](http://arxiv.org/abs/2504.08686v1)** | 2025-04-11 |  |
+| **[Safe Flow Matching: Robot Motion Planning with Control Barrier Functions](http://arxiv.org/abs/2504.08661v1)** | 2025-04-11 |  |
+| **[MBE-ARI: A Multimodal Dataset Mapping Bi-directional Engagement in Animal-Robot Interaction](http://arxiv.org/abs/2504.08646v1)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted to ICRA 2025</p></details> |
+| **[Tactile sensing enables vertical obstacle negotiation for elongate many-legged robots](http://arxiv.org/abs/2504.08615v1)** | 2025-04-11 | Accepted by RSS 2025 |
+| **[FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment](http://arxiv.org/abs/2504.08603v1)** | 2025-04-11 | 11 pages, 5 figures |
+| **[Enabling Safety for Aerial Robots: Planning and Control Architectures](http://arxiv.org/abs/2504.08601v1)** | 2025-04-11 | <details><summary>2025 ...</summary><p>2025 ICRA Workshop on 25 years of Aerial Robotics: Challenges and Opportunities</p></details> |
+| **[Diffusion Models for Robotic Manipulation: A Survey](http://arxiv.org/abs/2504.08438v1)** | 2025-04-11 | <details><summary>28 pa...</summary><p>28 pages, 1 figure, 2 tables</p></details> |
+| **[Human strategies for correcting `human-robot' errors during a laundry sorting task](http://arxiv.org/abs/2504.08395v1)** | 2025-04-11 |  |
+| **[Learning Bipedal Locomotion on Gear-Driven Humanoid Robot Using Foot-Mounted IMUs](http://arxiv.org/abs/2504.00614v2)** | 2025-04-11 | <details><summary>Proje...</summary><p>Project Page: https://sony.github.io/learning-feet-imu-locomotion/</p></details> |
+| **[Enhancing Human-Robot Interaction in Healthcare: A Study on Nonverbal Communication Cues and Trust Dynamics with NAO Robot Caregivers](http://arxiv.org/abs/2503.16469v3)** | 2025-04-11 | <details><summary>The d...</summary><p>The dataset used in this manuscript was created for the purpose of a class project and does not represent actual research data reviewed through a formal ethical process. Therefore, I was not permitted to submit this project to any public platform, as doing so would be considered an academic violation</p></details> |
+| **[Leveraging Passive Compliance of Soft Robotics for Physical Human-Robot Collaborative Manipulation](http://arxiv.org/abs/2504.08184v1)** | 2025-04-11 | <details><summary>22 pa...</summary><p>22 pages, 10 figures, to be published in ACM Transactions on Human-Robot Interactions</p></details> |
+| **[Distributed Resilience-Aware Control in Multi-Robot Networks](http://arxiv.org/abs/2504.03120v2)** | 2025-04-10 | <details><summary>Submi...</summary><p>Submitted to 2025 IEEE Conference on Decision and Control (CDC)</p></details> |
+| **[Maintaining Strong r-Robustness in Reconfigurable Multi-Robot Networks using Control Barrier Functions](http://arxiv.org/abs/2409.14675v3)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted and will appear at 2025 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
+| **[External-Wrench Estimation for Aerial Robots Exploiting a Learned Model](http://arxiv.org/abs/2504.08156v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted at ICUAS 2025</p></details> |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
