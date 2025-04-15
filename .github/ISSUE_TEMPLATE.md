@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 14, 2025
+title: Latest 15 Papers - April 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Future of MLLM Prompting is Adaptive: A Comprehensive Experimental Evaluation of Prompt Engineering Methods for Robust Multimodal Performance](http://arxiv.org/abs/2504.10179v1)** | 2025-04-14 |  |
+| **[CameraBench: Benchmarking Visual Reasoning in MLLMs via Photography](http://arxiv.org/abs/2504.10090v1)** | 2025-04-14 |  |
 | **[Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation](http://arxiv.org/abs/2503.13947v2)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
 | **[POEM: Precise Object-level Editing via MLLM control](http://arxiv.org/abs/2504.08111v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted to SCIA 2025</p></details> |
 | **[Law of Vision Representation in MLLMs](http://arxiv.org/abs/2408.16357v2)** | 2025-04-09 | <details><summary>The c...</summary><p>The code is available at https://github.com/bronyayang/Law_of_Vision_Representation_in_MLLMs</p></details> |
@@ -20,12 +22,13 @@ labels: documentation
 | **[The Plot Thickens: Quantitative Part-by-Part Exploration of MLLM Visualization Literacy](http://arxiv.org/abs/2504.02217v1)** | 2025-04-03 | 11 pages, 8 figures |
 | **[Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning](http://arxiv.org/abs/2504.01805v1)** | 2025-04-02 |  |
 | **[QG-VTC: Question-Guided Visual Token Compression in MLLMs for Efficient VQA](http://arxiv.org/abs/2504.00654v1)** | 2025-04-01 |  |
-| **[LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents](http://arxiv.org/abs/2503.10200v2)** | 2025-04-01 |  |
-| **[BeMERC: Behavior-Aware MLLM-based Framework for Multimodal Emotion Recognition in Conversation](http://arxiv.org/abs/2503.23990v1)** | 2025-03-31 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](http://arxiv.org/abs/2504.10458v1)** | 2025-04-14 |  |
+| **[MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation](http://arxiv.org/abs/2503.20384v2)** | 2025-04-14 |  |
+| **[ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](http://arxiv.org/abs/2502.05450v2)** | 2025-04-14 |  |
 | **[OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning](http://arxiv.org/abs/2504.06538v1)** | 2025-04-09 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 3 tables, 24 equations</p></details> |
 | **[Evolution 6.0: Evolving Robotic Capabilities Through Generative Design](http://arxiv.org/abs/2502.17034v4)** | 2025-04-04 | Submitted to IROS |
 | **[Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning](http://arxiv.org/abs/2504.00907v2)** | 2025-04-02 |  |
@@ -33,37 +36,35 @@ labels: documentation
 | **[CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](http://arxiv.org/abs/2503.22020v1)** | 2025-03-27 | <details><summary>Proje...</summary><p>Project website: https://cot-vla.github.io/</p></details> |
 | **[GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](http://arxiv.org/abs/2503.14734v2)** | 2025-03-27 | <details><summary>Autho...</summary><p>Authors are listed alphabetically. Project leads are Linxi "Jim" Fan and Yuke Zhu. For more information, see https://developer.nvidia.com/isaac/gr00t</p></details> |
 | **[OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction](http://arxiv.org/abs/2503.03734v3)** | 2025-03-26 |  |
-| **[MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation](http://arxiv.org/abs/2503.20384v1)** | 2025-03-26 |  |
 | **[Gemini Robotics: Bringing AI into the Physical World](http://arxiv.org/abs/2503.20020v1)** | 2025-03-25 |  |
 | **[Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy](http://arxiv.org/abs/2503.19757v1)** | 2025-03-25 | <details><summary>Prepr...</summary><p>Preprint; https://robodita.github.io;</p></details> |
 | **[DataPlatter: Boosting Robotic Manipulation Generalization with Minimal Costly Data](http://arxiv.org/abs/2503.19516v1)** | 2025-03-25 |  |
 | **[RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World](http://arxiv.org/abs/2412.00171v3)** | 2025-03-25 | 17 pages, 16 figures |
 | **[Diffusion Transformer Policy](http://arxiv.org/abs/2410.15959v6)** | 2025-03-23 | <details><summary>prepr...</summary><p>preprint; New Project Page: https://robodita.github.io; revert unsuitable replacement</p></details> |
-| **[A Self-Correcting Vision-Language-Action Model for Fast and Slow System Manipulation](http://arxiv.org/abs/2405.17418v2)** | 2025-03-19 |  |
-| **[MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation](http://arxiv.org/abs/2503.13446v1)** | 2025-03-17 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Project Page: https://gary3410.github.io/momanipVLA/</p></details> |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Performance Evaluation of Trajectory Tracking Controllers for a Quadruped Robot Leg](http://arxiv.org/abs/2504.08698v1)** | 2025-04-11 | <details><summary>Publi...</summary><p>Published in IEEE Xplore</p></details> |
-| **[Pobogot -- An Open-Hardware Open-Source Low Cost Robot for Swarm Robotics](http://arxiv.org/abs/2504.08686v1)** | 2025-04-11 |  |
-| **[Safe Flow Matching: Robot Motion Planning with Control Barrier Functions](http://arxiv.org/abs/2504.08661v1)** | 2025-04-11 |  |
-| **[MBE-ARI: A Multimodal Dataset Mapping Bi-directional Engagement in Animal-Robot Interaction](http://arxiv.org/abs/2504.08646v1)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted to ICRA 2025</p></details> |
-| **[Tactile sensing enables vertical obstacle negotiation for elongate many-legged robots](http://arxiv.org/abs/2504.08615v1)** | 2025-04-11 | Accepted by RSS 2025 |
-| **[FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment](http://arxiv.org/abs/2504.08603v1)** | 2025-04-11 | 11 pages, 5 figures |
-| **[Enabling Safety for Aerial Robots: Planning and Control Architectures](http://arxiv.org/abs/2504.08601v1)** | 2025-04-11 | <details><summary>2025 ...</summary><p>2025 ICRA Workshop on 25 years of Aerial Robotics: Challenges and Opportunities</p></details> |
-| **[Diffusion Models for Robotic Manipulation: A Survey](http://arxiv.org/abs/2504.08438v1)** | 2025-04-11 | <details><summary>28 pa...</summary><p>28 pages, 1 figure, 2 tables</p></details> |
-| **[Human strategies for correcting `human-robot' errors during a laundry sorting task](http://arxiv.org/abs/2504.08395v1)** | 2025-04-11 |  |
-| **[Learning Bipedal Locomotion on Gear-Driven Humanoid Robot Using Foot-Mounted IMUs](http://arxiv.org/abs/2504.00614v2)** | 2025-04-11 | <details><summary>Proje...</summary><p>Project Page: https://sony.github.io/learning-feet-imu-locomotion/</p></details> |
-| **[Enhancing Human-Robot Interaction in Healthcare: A Study on Nonverbal Communication Cues and Trust Dynamics with NAO Robot Caregivers](http://arxiv.org/abs/2503.16469v3)** | 2025-04-11 | <details><summary>The d...</summary><p>The dataset used in this manuscript was created for the purpose of a class project and does not represent actual research data reviewed through a formal ethical process. Therefore, I was not permitted to submit this project to any public platform, as doing so would be considered an academic violation</p></details> |
-| **[Leveraging Passive Compliance of Soft Robotics for Physical Human-Robot Collaborative Manipulation](http://arxiv.org/abs/2504.08184v1)** | 2025-04-11 | <details><summary>22 pa...</summary><p>22 pages, 10 figures, to be published in ACM Transactions on Human-Robot Interactions</p></details> |
-| **[Distributed Resilience-Aware Control in Multi-Robot Networks](http://arxiv.org/abs/2504.03120v2)** | 2025-04-10 | <details><summary>Submi...</summary><p>Submitted to 2025 IEEE Conference on Decision and Control (CDC)</p></details> |
-| **[Maintaining Strong r-Robustness in Reconfigurable Multi-Robot Networks using Control Barrier Functions](http://arxiv.org/abs/2409.14675v3)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted and will appear at 2025 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
-| **[External-Wrench Estimation for Aerial Robots Exploiting a Learned Model](http://arxiv.org/abs/2504.08156v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted at ICUAS 2025</p></details> |
+| **[Intelligent Framework for Human-Robot Collaboration: Dynamic Ergonomics and Adaptive Decision-Making](http://arxiv.org/abs/2503.07901v2)** | 2025-04-14 | <details><summary>15 pa...</summary><p>15 pagine, 8figure, 3 tabelle, formato conferenza IEEE</p></details> |
+| **[Teacher Motion Priors: Enhancing Robot Locomotion over Challenging Terrain](http://arxiv.org/abs/2504.10390v1)** | 2025-04-14 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 6 tables</p></details> |
+| **[Motion Control in Multi-Rotor Aerial Robots Using Deep Reinforcement Learning](http://arxiv.org/abs/2502.05996v2)** | 2025-04-14 |  |
+| **[Siamese Network with Dual Attention for EEG-Driven Social Learning: Bridging the Human-Robot Gap in Long-Tail Autonomous Driving](http://arxiv.org/abs/2504.10296v1)** | 2025-04-14 | 50 pages, 18 figures |
+| **[Ankle Exoskeletons in Walking and Load-Carrying Tasks: Insights into Biomechanics and Human-Robot Interaction](http://arxiv.org/abs/2504.10294v1)** | 2025-04-14 |  |
+| **[Look-to-Touch: A Vision-Enhanced Proximity and Tactile Sensor for Distance and Geometry Perception in Robotic Manipulation](http://arxiv.org/abs/2504.10280v1)** | 2025-04-14 |  |
+| **[Shoulder Range of Motion Rehabilitation Robot Incorporating Scapulohumeral Rhythm for Frozen Shoulder](http://arxiv.org/abs/2504.10163v1)** | 2025-04-14 | <details><summary>This ...</summary><p>This is a preprint of a manuscript that has been submitted for publication</p></details> |
+| **[MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation](http://arxiv.org/abs/2503.20384v2)** | 2025-04-14 |  |
+| **[EmbodiedAgent: A Scalable Hierarchical Approach to Overcome Practical Challenge in Multi-Robot Control](http://arxiv.org/abs/2504.10030v1)** | 2025-04-14 |  |
+| **[Velocity-free task-space regulator for robot manipulators with external disturbances](http://arxiv.org/abs/2503.02634v2)** | 2025-04-14 |  |
+| **[GenTe: Generative Real-world Terrains for General Legged Robot Locomotion Control](http://arxiv.org/abs/2504.09997v1)** | 2025-04-14 |  |
+| **[Walk along: An Experiment on Controlling the Mobile Robot 'Spot' with Voice and Gestures](http://arxiv.org/abs/2407.11218v5)** | 2025-04-14 |  |
+| **[Dynamic-Dark SLAM: RGB-Thermal Cooperative Robot Vision Strategy for Multi-Person Tracking in Both Well-Lit and Low-Light Scenes](http://arxiv.org/abs/2503.12768v2)** | 2025-04-14 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, technical report</p></details> |
+| **[Robust Output-Feedback MPC for Nonlinear Systems with Applications to Robotic Exploration](http://arxiv.org/abs/2504.09768v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted for publication in L-CSS</p></details> |
+| **[Adapting Robot's Explanation for Failures Based on Observed Human Behavior in Human-Robot Collaboration](http://arxiv.org/abs/2504.09717v1)** | 2025-04-13 | <details><summary>Under...</summary><p>Under review, Manuscript in submission for IROS 2025</p></details> |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Task-specific Conditional Diffusion Policies: Shortcut Model Acceleration and SO(3) Optimization](http://arxiv.org/abs/2504.09927v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 Workshop on 2nd MEIS</p></details> |
 | **[DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving](http://arxiv.org/abs/2411.15139v3)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 as Highlight. Code & demo & model are available at https://github.com/hustvl/DiffusionDrive</p></details> |
 | **[Semantically Safe Robot Manipulation: From Semantic Scene Understanding to Motion Safeguards](http://arxiv.org/abs/2410.15185v2)** | 2025-04-08 | 9 pages, 6 figures |
 | **[Speech-to-Trajectory: Learning Human-Like Verbal Guidance for Robot Motion](http://arxiv.org/abs/2504.05084v1)** | 2025-04-07 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Real-Time Diffusion Policies for Games: Enhancing Consistency Policies with Q-Ensembles](http://arxiv.org/abs/2503.16978v1)** | 2025-03-21 |  |
 | **[AffordDP: Generalizable Diffusion Policy with Transferable Affordance](http://arxiv.org/abs/2412.03142v2)** | 2025-03-20 |  |
 | **[CCDP: Composition of Conditional Diffusion Policies with Guided Sampling](http://arxiv.org/abs/2503.15386v1)** | 2025-03-19 |  |
-| **[The Pitfalls of Imitation Learning when Actions are Continuous](http://arxiv.org/abs/2503.09722v2)** | 2025-03-19 | <details><summary>98 pa...</summary><p>98 pages, 2 figures, updated introduction</p></details> |
 
