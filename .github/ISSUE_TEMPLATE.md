@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 16, 2025
+title: Latest 15 Papers - April 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AnomalyR1: A GRPO-based End-to-end MLLM for Industrial Anomaly Detection](http://arxiv.org/abs/2504.11914v1)** | 2025-04-16 |  |
 | **[Dopamine Audiobook: A Training-free MLLM Agent for Emotional and Human-like Audiobook Generation](http://arxiv.org/abs/2504.11002v1)** | 2025-04-15 |  |
 | **[Foundation Models for Remote Sensing: An Analysis of MLLMs for Object Localization](http://arxiv.org/abs/2504.10727v1)** | 2025-04-14 | <details><summary>26 pa...</summary><p>26 pages, CVPR MORSE Workshop 2025</p></details> |
 | **[The Future of MLLM Prompting is Adaptive: A Comprehensive Experimental Evaluation of Prompt Engineering Methods for Robust Multimodal Performance](http://arxiv.org/abs/2504.10179v1)** | 2025-04-14 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[MLLM-as-a-Judge for Image Safety without Human Labeling](http://arxiv.org/abs/2501.00192v2)** | 2025-04-06 |  |
 | **[3D Spatial Understanding in MLLMs: Disambiguation and Evaluation](http://arxiv.org/abs/2412.06613v2)** | 2025-04-04 | ICRA 2025 |
 | **[ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement](http://arxiv.org/abs/2504.01934v2)** | 2025-04-03 |  |
-| **[The Plot Thickens: Quantitative Part-by-Part Exploration of MLLM Visualization Literacy](http://arxiv.org/abs/2504.02217v1)** | 2025-04-03 | 11 pages, 8 figures |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)](http://arxiv.org/abs/2409.02920v3)** | 2025-04-16 | <details><summary>Proje...</summary><p>Project page: https://robotwin-benchmark.github.io/early-version/</p></details> |
+| **[An Extended Generalized Prandtl-Ishlinskii Hysteresis Model for I2RIS Robot](http://arxiv.org/abs/2504.12114v1)** | 2025-04-16 | <details><summary>Submi...</summary><p>Submitted to the 5th Modeling, Estimation and Control Conference (MECC 2025)</p></details> |
+| **[Stochastic Trajectory Optimization for Robotic Skill Acquisition From a Suboptimal Demonstration](http://arxiv.org/abs/2408.03131v3)** | 2025-04-16 |  |
+| **[Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments](http://arxiv.org/abs/2504.11901v1)** | 2025-04-16 | <details><summary>Under...</summary><p>Under review at The International Journal of Robotics Research (IJRR)</p></details> |
+| **[A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space](http://arxiv.org/abs/2504.11170v2)** | 2025-04-16 | 20 pages, 11 figures |
+| **[Towards Forceful Robotic Foundation Models: a Literature Survey](http://arxiv.org/abs/2504.11827v1)** | 2025-04-16 | 20 pages, 9 figures |
+| **[RoboMorph: Evolving Robot Morphology using Large Language Models](http://arxiv.org/abs/2407.08626v2)** | 2025-04-16 |  |
+| **[Steerable rolling of a 1-DoF robot using an internal pendulum](http://arxiv.org/abs/2504.11748v1)** | 2025-04-16 | <details><summary>2 pag...</summary><p>2 pages, submitted to 2nd Unconventional Robots Workshop: Rethinking Robotic Systems Beyond Convention at IEEE ICRA 2025</p></details> |
+| **[Inversion of biological strategies in engineering technology: in case underwater soft robot](http://arxiv.org/abs/2504.11722v1)** | 2025-04-16 | 26 pages, 8 figures |
 | **[Train Robots in a JIF: Joint Inverse and Forward Dynamics with Human and Robot Demonstrations](http://arxiv.org/abs/2503.12297v2)** | 2025-04-15 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, submission to RSS 2025</p></details> |
 | **[RoboComm: A DID-based scalable and privacy-preserving Robot-to-Robot interaction over state channels](http://arxiv.org/abs/2504.09517v2)** | 2025-04-15 | <details><summary>resol...</summary><p>resolved overlapping text from another article</p></details> |
 | **[Improving Swimming Performance in Soft Robotic Fish with Distributed Muscles and Embedded Kinematic Sensing](http://arxiv.org/abs/2504.11377v1)** | 2025-04-15 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. To be published in the Proceedings of the 8th IEEE - RAS International Conference on Soft Robotics</p></details> |
 | **[MonoRollBot: 3-DOF Spherical Robot with Underactuated Single Compliant Actuator Design](http://arxiv.org/abs/2411.04264v3)** | 2025-04-15 | <details><summary>6 pag...</summary><p>6 pages, 11 figures, accepted at IEEE RoboSoft 2025</p></details> |
 | **[Next-Future: Sample-Efficient Policy Learning for Robotic-Arm Tasks](http://arxiv.org/abs/2504.11247v1)** | 2025-04-15 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, 6 tables</p></details> |
-| **[A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space](http://arxiv.org/abs/2504.11170v1)** | 2025-04-15 | 20 pages, 11 figures |
 | **[The Robotability Score: Enabling Harmonious Robot Navigation on Urban Streets](http://arxiv.org/abs/2504.11163v1)** | 2025-04-15 | Accepted to CHI '25 |
-| **[Acquisition of high-quality images for camera calibration in robotics applications via speech prompts](http://arxiv.org/abs/2504.11031v1)** | 2025-04-15 | 8 pages, 6 figures |
-| **[ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping](http://arxiv.org/abs/2504.10857v1)** | 2025-04-15 | <details><summary>Publi...</summary><p>Published at CVPR 2025, Webpage: https://sh8.io/#/zerograsp</p></details> |
-| **[Following Is All You Need: Robot Crowd Navigation Using People As Planners](http://arxiv.org/abs/2504.10828v1)** | 2025-04-15 |  |
-| **[CurricuLLM: Automatic Task Curricula Design for Learning Complex Robot Skills using Large Language Models](http://arxiv.org/abs/2409.18382v2)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted to ICRA 2025</p></details> |
-| **[Intelligent Framework for Human-Robot Collaboration: Dynamic Ergonomics and Adaptive Decision-Making](http://arxiv.org/abs/2503.07901v2)** | 2025-04-14 | <details><summary>15 pa...</summary><p>15 pagine, 8figure, 3 tabelle, formato conferenza IEEE</p></details> |
-| **[Teacher Motion Priors: Enhancing Robot Locomotion over Challenging Terrain](http://arxiv.org/abs/2504.10390v1)** | 2025-04-14 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 6 tables</p></details> |
-| **[Motion Control in Multi-Rotor Aerial Robots Using Deep Reinforcement Learning](http://arxiv.org/abs/2502.05996v2)** | 2025-04-14 |  |
-| **[Siamese Network with Dual Attention for EEG-Driven Social Learning: Bridging the Human-Robot Gap in Long-Tail Autonomous Driving](http://arxiv.org/abs/2504.10296v1)** | 2025-04-14 | 50 pages, 18 figures |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
