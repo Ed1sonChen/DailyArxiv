@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2025
+title: Latest 15 Papers - April 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,7 +26,7 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](http://arxiv.org/abs/2504.10458v2)** | 2025-04-15 |  |
+| **[GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](http://arxiv.org/abs/2504.10458v3)** | 2025-04-18 |  |
 | **[MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation](http://arxiv.org/abs/2503.20384v2)** | 2025-04-14 |  |
 | **[ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](http://arxiv.org/abs/2502.05450v2)** | 2025-04-14 |  |
 | **[OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning](http://arxiv.org/abs/2504.06538v1)** | 2025-04-09 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 3 tables, 24 equations</p></details> |
@@ -45,6 +45,14 @@ labels: documentation
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Green Robotic Mixed Reality with Gaussian Splatting](http://arxiv.org/abs/2504.13697v1)** | 2025-04-18 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, accepted by IEEE INFOCOM 2025 Workshop on Networked Robotics and Communication Systems</p></details> |
+| **[Magnecko: Design and Control of a Quadrupedal Magnetic Climbing Robot](http://arxiv.org/abs/2504.13672v1)** | 2025-04-18 | <details><summary>Climb...</summary><p>Climbing and Walking Robots (CLAWAR 2024)</p></details> |
+| **[Performance Analysis of a Mass-Spring-Damper Deformable Linear Object Model in Robotic Simulation Frameworks](http://arxiv.org/abs/2504.13659v1)** | 2025-04-18 |  |
+| **[Robot Navigation in Dynamic Environments using Acceleration Obstacles](http://arxiv.org/abs/2504.13637v1)** | 2025-04-18 | 6 pages, 13 figures |
+| **[On the Importance of Tactile Sensing for Imitation Learning: A Case Study on Robotic Match Lighting](http://arxiv.org/abs/2504.13618v1)** | 2025-04-18 |  |
+| **[Hysteresis-Aware Neural Network Modeling and Whole-Body Reinforcement Learning Control of Soft Robots](http://arxiv.org/abs/2504.13582v1)** | 2025-04-18 |  |
+| **[Stochastic Trajectory Optimization for Robotic Skill Acquisition From a Suboptimal Demonstration](http://arxiv.org/abs/2408.03131v4)** | 2025-04-18 |  |
+| **[Integration of a Graph-Based Path Planner and Mixed-Integer MPC for Robot Navigation in Cluttered Environments](http://arxiv.org/abs/2504.13372v1)** | 2025-04-17 |  |
 | **[Long Range Navigator (LRN): Extending robot planning horizons beyond metric maps](http://arxiv.org/abs/2504.13149v1)** | 2025-04-17 | 10 pages, 9 figures |
 | **[Learning Diverse Robot Striking Motions with Diffusion Models and Kinematically Constrained Gradient Guidance](http://arxiv.org/abs/2409.15528v2)** | 2025-04-17 | ICRA 2025 |
 | **[Relevance for Human Robot Collaboration](http://arxiv.org/abs/2409.07753v4)** | 2025-04-17 | under review |
@@ -52,14 +60,6 @@ labels: documentation
 | **[Adaptive Task Space Non-Singular Terminal Super-Twisting Sliding Mode Control of a 7-DOF Robotic Manipulator](http://arxiv.org/abs/2504.13056v1)** | 2025-04-17 | 10 pages, 8 figures |
 | **[Scalable Multi-Robot Motion Planning Using Guidance-Informed Hypergraphs](http://arxiv.org/abs/2311.10176v3)** | 2025-04-17 | <details><summary>This ...</summary><p>This work has been submitted for review</p></details> |
 | **[Minimum-Violation Temporal Logic Planning for Heterogeneous Robots under Robot Skill Failures](http://arxiv.org/abs/2410.17188v2)** | 2025-04-17 |  |
-| **[Krysalis Hand: A Lightweight, High-Payload, 18-DoF Anthropomorphic End-Effector for Robotic Learning and Dexterous Manipulation](http://arxiv.org/abs/2504.12967v1)** | 2025-04-17 |  |
-| **[Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation](http://arxiv.org/abs/2504.12908v1)** | 2025-04-17 | 17 pages, 7 figures |
-| **[Robotic Optimization of Powdered Beverages Leveraging Computer Vision and Bayesian Optimization](http://arxiv.org/abs/2409.11499v2)** | 2025-04-17 |  |
-| **[Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments](http://arxiv.org/abs/2504.11901v2)** | 2025-04-17 | <details><summary>Causa...</summary><p>Causal Discovery and Inference - Robot Autonomy - Human-Robot Spatial Interaction - Decision-Making</p></details> |
-| **[Embodied Neuromorphic Control Applied on a 7-DOF Robotic Manipulator](http://arxiv.org/abs/2504.12702v1)** | 2025-04-17 |  |
-| **[Embedding high-resolution touch across robotic hands enables adaptive human-like grasping](http://arxiv.org/abs/2412.14482v2)** | 2025-04-17 |  |
-| **[A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation](http://arxiv.org/abs/2504.12636v1)** | 2025-04-17 |  |
-| **[Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration](http://arxiv.org/abs/2504.12609v1)** | 2025-04-17 | 15 pages, 13 figures |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
