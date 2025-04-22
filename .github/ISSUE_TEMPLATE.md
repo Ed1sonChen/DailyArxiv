@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 21, 2025
+title: Latest 15 Papers - April 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs](http://arxiv.org/abs/2504.15280v1)** | 2025-04-21 | <details><summary>Proje...</summary><p>Project page: https://danielchyeh.github.io/All-Angles-Bench/</p></details> |
+| **[STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?](http://arxiv.org/abs/2503.23765v3)** | 2025-04-21 |  |
+| **[A Call for New Recipes to Enhance Spatial Reasoning in MLLMs](http://arxiv.org/abs/2504.15037v1)** | 2025-04-21 |  |
 | **[CameraBench: Benchmarking Visual Reasoning in MLLMs via Photography](http://arxiv.org/abs/2504.10090v2)** | 2025-04-17 |  |
 | **[EarthGPT-X: Enabling MLLMs to Flexibly and Comprehensively Understand Multi-Source Remote Sensing Imagery](http://arxiv.org/abs/2504.12795v1)** | 2025-04-17 |  |
 | **[Look Before You Decide: Prompting Active Deduction of MLLMs for Assumptive Reasoning](http://arxiv.org/abs/2404.12966v5)** | 2025-04-17 |  |
@@ -17,11 +20,8 @@ labels: documentation
 | **[Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation](http://arxiv.org/abs/2503.13947v2)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
 | **[POEM: Precise Object-level Editing via MLLM control](http://arxiv.org/abs/2504.08111v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted to SCIA 2025</p></details> |
 | **[Law of Vision Representation in MLLMs](http://arxiv.org/abs/2408.16357v2)** | 2025-04-09 | <details><summary>The c...</summary><p>The code is available at https://github.com/bronyayang/Law_of_Vision_Representation_in_MLLMs</p></details> |
-| **[STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?](http://arxiv.org/abs/2503.23765v2)** | 2025-04-09 |  |
 | **[M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance](http://arxiv.org/abs/2502.18778v3)** | 2025-04-07 |  |
 | **[OrderChain: A General Prompting Paradigm to Improve Ordinal Understanding Ability of MLLM](http://arxiv.org/abs/2504.04801v1)** | 2025-04-07 |  |
-| **[OCC-MLLM-CoT-Alpha: Towards Multi-stage Occlusion Recognition Based on Large Language Models via 3D-Aware Supervision and Chain-of-Thoughts Guidance](http://arxiv.org/abs/2504.04781v1)** | 2025-04-07 | <details><summary>This ...</summary><p>This work has been accepted to the Multimodal Algorithmic Reasoning (MAR) Workshop at CVPR 2025</p></details> |
-| **[MLLM-as-a-Judge for Image Safety without Human Labeling](http://arxiv.org/abs/2501.00192v2)** | 2025-04-06 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
@@ -45,25 +45,26 @@ labels: documentation
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Green Robotic Mixed Reality with Gaussian Splatting](http://arxiv.org/abs/2504.13697v1)** | 2025-04-18 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, accepted by IEEE INFOCOM 2025 Workshop on Networked Robotics and Communication Systems</p></details> |
-| **[Magnecko: Design and Control of a Quadrupedal Magnetic Climbing Robot](http://arxiv.org/abs/2504.13672v1)** | 2025-04-18 | <details><summary>Climb...</summary><p>Climbing and Walking Robots (CLAWAR 2024)</p></details> |
-| **[Performance Analysis of a Mass-Spring-Damper Deformable Linear Object Model in Robotic Simulation Frameworks](http://arxiv.org/abs/2504.13659v1)** | 2025-04-18 |  |
-| **[Robot Navigation in Dynamic Environments using Acceleration Obstacles](http://arxiv.org/abs/2504.13637v1)** | 2025-04-18 | 6 pages, 13 figures |
-| **[On the Importance of Tactile Sensing for Imitation Learning: A Case Study on Robotic Match Lighting](http://arxiv.org/abs/2504.13618v1)** | 2025-04-18 |  |
-| **[Hysteresis-Aware Neural Network Modeling and Whole-Body Reinforcement Learning Control of Soft Robots](http://arxiv.org/abs/2504.13582v1)** | 2025-04-18 |  |
-| **[Stochastic Trajectory Optimization for Robotic Skill Acquisition From a Suboptimal Demonstration](http://arxiv.org/abs/2408.03131v4)** | 2025-04-18 |  |
-| **[Integration of a Graph-Based Path Planner and Mixed-Integer MPC for Robot Navigation in Cluttered Environments](http://arxiv.org/abs/2504.13372v1)** | 2025-04-17 |  |
-| **[Long Range Navigator (LRN): Extending robot planning horizons beyond metric maps](http://arxiv.org/abs/2504.13149v1)** | 2025-04-17 | 10 pages, 9 figures |
-| **[Learning Diverse Robot Striking Motions with Diffusion Models and Kinematically Constrained Gradient Guidance](http://arxiv.org/abs/2409.15528v2)** | 2025-04-17 | ICRA 2025 |
-| **[Relevance for Human Robot Collaboration](http://arxiv.org/abs/2409.07753v4)** | 2025-04-17 | under review |
-| **[RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins](http://arxiv.org/abs/2504.13059v1)** | 2025-04-17 | <details><summary>CVPR ...</summary><p>CVPR 2025 Highlight. 22 pages. Project page: https://robotwin-benchmark.github.io/</p></details> |
-| **[Adaptive Task Space Non-Singular Terminal Super-Twisting Sliding Mode Control of a 7-DOF Robotic Manipulator](http://arxiv.org/abs/2504.13056v1)** | 2025-04-17 | 10 pages, 8 figures |
-| **[Scalable Multi-Robot Motion Planning Using Guidance-Informed Hypergraphs](http://arxiv.org/abs/2311.10176v3)** | 2025-04-17 | <details><summary>This ...</summary><p>This work has been submitted for review</p></details> |
-| **[Minimum-Violation Temporal Logic Planning for Heterogeneous Robots under Robot Skill Failures](http://arxiv.org/abs/2410.17188v2)** | 2025-04-17 |  |
+| **[Cascade IPG Observer for Underwater Robot State Estimation](http://arxiv.org/abs/2504.15235v1)** | 2025-04-21 | <details><summary>ICRA ...</summary><p>ICRA 2025 (International Conference on Robotics and Automation), Atlanta, USA</p></details> |
+| **[A Genetic Fuzzy-Enabled Framework on Robotic Manipulation for In-Space Servicing](http://arxiv.org/abs/2504.15226v1)** | 2025-04-21 |  |
+| **[SPARK-Remote: A Cost-Effective System for Remote Bimanual Robot Teleoperation](http://arxiv.org/abs/2504.05488v2)** | 2025-04-21 |  |
+| **[Precision Robotic Spot-Spraying: Reducing Herbicide Use and Enhancing Environmental Outcomes in Sugarcane](http://arxiv.org/abs/2401.13931v2)** | 2025-04-21 | <details><summary>36 pa...</summary><p>36 pages, 17 figures, 4 tables. Published at the Computers and Electronics in Agriculture journal</p></details> |
+| **[Tactile sensing enables vertical obstacle negotiation for elongate many-legged robots](http://arxiv.org/abs/2504.08615v2)** | 2025-04-21 | Accepted by RSS 2025 |
+| **[A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation](http://arxiv.org/abs/2504.12636v2)** | 2025-04-21 |  |
+| **[Safe Autonomous Environmental Contact for Soft Robots using Control Barrier Functions](http://arxiv.org/abs/2504.14755v1)** | 2025-04-20 | 10 pages, 10 figures |
+| **[Latent Representations for Visual Proprioception in Inexpensive Robots](http://arxiv.org/abs/2504.14634v1)** | 2025-04-20 |  |
+| **[RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots](http://arxiv.org/abs/2504.14604v1)** | 2025-04-20 |  |
+| **[K2MUSE: A human lower limb multimodal dataset under diverse conditions for facilitating rehabilitation robotics](http://arxiv.org/abs/2504.14602v1)** | 2025-04-20 | <details><summary>23 pa...</summary><p>23 pages, 13 figures,4 tables</p></details> |
+| **[Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction](http://arxiv.org/abs/2504.14588v1)** | 2025-04-20 | Accepted by CVPR2025 |
+| **[Going Down the Abstraction Stream with Augmented Reality and Tangible Robots: the Case of Vector Instruction](http://arxiv.org/abs/2504.14562v1)** | 2025-04-20 |  |
+| **[ExFace: Expressive Facial Control for Humanoid Robots with Diffusion Transformers and Bootstrap Training](http://arxiv.org/abs/2504.14477v1)** | 2025-04-20 |  |
+| **[Experience-based Refinement of Task Planning Knowledge in Autonomous Robots](http://arxiv.org/abs/2504.14259v1)** | 2025-04-19 |  |
+| **[Collision Induced Binding and Transport of Shape Changing Robot Pairs](http://arxiv.org/abs/2504.14170v1)** | 2025-04-19 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, submitted to PRL</p></details> |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction](http://arxiv.org/abs/2504.14588v1)** | 2025-04-20 | Accepted by CVPR2025 |
 | **[The Pitfalls of Imitation Learning when Actions are Continuous](http://arxiv.org/abs/2503.09722v3)** | 2025-04-15 | <details><summary>98 pa...</summary><p>98 pages, 2 figures, updated proof sketch</p></details> |
 | **[Efficient Task-specific Conditional Diffusion Policies: Shortcut Model Acceleration and SO(3) Optimization](http://arxiv.org/abs/2504.09927v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 Workshop on 2nd MEIS</p></details> |
 | **[DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving](http://arxiv.org/abs/2411.15139v3)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 as Highlight. Code & demo & model are available at https://github.com/hustvl/DiffusionDrive</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Diff-DAgger: Uncertainty Estimation with Diffusion Policy for Robotic Manipulation](http://arxiv.org/abs/2410.14868v4)** | 2025-03-24 | <details><summary>Proje...</summary><p>Project website: diffdagger.github.io 8 pages, 6 figures, accepted by International Conference on Robotics and Automation (ICRA) 2025</p></details> |
 | **[Discrete Policy: Learning Disentangled Action Space for Multi-Task Robotic Manipulation](http://arxiv.org/abs/2409.18707v4)** | 2025-03-21 | Accept to ICRA 2025 |
 | **[Real-Time Diffusion Policies for Games: Enhancing Consistency Policies with Q-Ensembles](http://arxiv.org/abs/2503.16978v1)** | 2025-03-21 |  |
-| **[AffordDP: Generalizable Diffusion Policy with Transferable Affordance](http://arxiv.org/abs/2412.03142v2)** | 2025-03-20 |  |
 
