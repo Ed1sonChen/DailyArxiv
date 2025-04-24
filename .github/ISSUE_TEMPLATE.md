@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2025
+title: Latest 15 Papers - April 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -45,25 +45,26 @@ labels: documentation
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset](http://arxiv.org/abs/2403.12945v2)** | 2025-04-22 | <details><summary>Proje...</summary><p>Project website: https://droid-dataset.github.io/</p></details> |
-| **[Robot Data Curation with Mutual Information Estimators](http://arxiv.org/abs/2502.08623v3)** | 2025-04-22 | <details><summary>Video...</summary><p>Videos and code at https://jhejna.github.io/demonstration-info. Published at RSS 2025</p></details> |
-| **[SAR4SLPs: An Asynchronous Survey of Speech-Language Pathologists' Perspectives on Socially Assistive Robots](http://arxiv.org/abs/2504.16055v1)** | 2025-04-22 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 2 tables</p></details> |
-| **[Beyond Attention: Investigating the Threshold Where Objective Robot Exclusion Becomes Subjective](http://arxiv.org/abs/2504.15886v1)** | 2025-04-22 |  |
-| **[CaRoSaC: A Reinforcement Learning-Based Kinematic Control of Cable-Driven Parallel Robots by Addressing Cable Sag through Simulation](http://arxiv.org/abs/2504.15740v1)** | 2025-04-22 | <details><summary>8 Pag...</summary><p>8 Pages, 16 figures, Accepted for publication at IEEE ROBOTICS AND AUTOMATION LETTERS [VOL. 10, NO. 6, JUNE 2025]</p></details> |
-| **[Symbolic Runtime Verification and Adaptive Decision-Making for Robot-Assisted Dressing](http://arxiv.org/abs/2504.15666v1)** | 2025-04-22 |  |
-| **[SPECI: Skill Prompts based Hierarchical Continual Imitation Learning for Robot Manipulation](http://arxiv.org/abs/2504.15561v1)** | 2025-04-22 |  |
-| **[MRTA-Sim: A Modular Simulator for Multi-Robot Allocation, Planning, and Control in Open-World Environments](http://arxiv.org/abs/2504.15418v1)** | 2025-04-21 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, 3 tables</p></details> |
-| **[Cascade IPG Observer for Underwater Robot State Estimation](http://arxiv.org/abs/2504.15235v1)** | 2025-04-21 | <details><summary>ICRA ...</summary><p>ICRA 2025 (International Conference on Robotics and Automation), Atlanta, USA</p></details> |
-| **[A Genetic Fuzzy-Enabled Framework on Robotic Manipulation for In-Space Servicing](http://arxiv.org/abs/2504.15226v1)** | 2025-04-21 |  |
-| **[SPARK-Remote: A Cost-Effective System for Remote Bimanual Robot Teleoperation](http://arxiv.org/abs/2504.05488v2)** | 2025-04-21 |  |
-| **[Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions](http://arxiv.org/abs/2504.15327v1)** | 2025-04-21 | <details><summary>24 pa...</summary><p>24 pages, 7 figures, submitted to IEEE</p></details> |
-| **[Precision Robotic Spot-Spraying: Reducing Herbicide Use and Enhancing Environmental Outcomes in Sugarcane](http://arxiv.org/abs/2401.13931v2)** | 2025-04-21 | <details><summary>36 pa...</summary><p>36 pages, 17 figures, 4 tables. Published at the Computers and Electronics in Agriculture journal</p></details> |
-| **[Tactile sensing enables vertical obstacle negotiation for elongate many-legged robots](http://arxiv.org/abs/2504.08615v2)** | 2025-04-21 | Accepted by RSS 2025 |
-| **[A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation](http://arxiv.org/abs/2504.12636v2)** | 2025-04-21 |  |
+| **[MorphoNavi: Aerial-Ground Robot Navigation with Object Oriented Mapping in Digital Twin](http://arxiv.org/abs/2504.16914v1)** | 2025-04-23 |  |
+| **[Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions](http://arxiv.org/abs/2504.15327v2)** | 2025-04-23 | 41 pages, 7 figures |
+| **[Graph2Nav: 3D Object-Relation Graph Generation to Robot Navigation](http://arxiv.org/abs/2504.16782v1)** | 2025-04-23 |  |
+| **[Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics](http://arxiv.org/abs/2501.10100v2)** | 2025-04-23 |  |
+| **[Offline Robotic World Model: Learning Robotic Policies without a Physics Simulator](http://arxiv.org/abs/2504.16680v1)** | 2025-04-23 |  |
+| **[Nav-SCOPE: Swarm Robot Cooperative Perception and Coordinated Navigation](http://arxiv.org/abs/2409.10049v2)** | 2025-04-23 | 8 pages, 8 figures |
+| **[PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands](http://arxiv.org/abs/2504.16649v1)** | 2025-04-23 | <details><summary>accep...</summary><p>accepted by Robotics: Science and Systems(RSS) 2025</p></details> |
+| **[ManipDreamer: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance](http://arxiv.org/abs/2504.16464v1)** | 2025-04-23 | 9 pages, 3 figures |
+| **[Consistency Matters: Defining Demonstration Data Quality Metrics in Robot Learning from Demonstration](http://arxiv.org/abs/2412.14309v2)** | 2025-04-23 |  |
+| **[CEMSSL: Conditional Embodied Self-Supervised Learning is All You Need for High-precision Multi-solution Inverse Kinematics of Robot Arms](http://arxiv.org/abs/2306.12718v2)** | 2025-04-23 |  |
+| **[Embodied Self-Supervised Learning (EMSSL) with Sampling and Training Coordination for Robot Arm Inverse Kinematics Model Learning](http://arxiv.org/abs/2302.13346v2)** | 2025-04-23 |  |
+| **[Fast and Modular Whole-Body Lagrangian Dynamics of Legged Robots with Changing Morphology](http://arxiv.org/abs/2504.16383v1)** | 2025-04-23 |  |
+| **[Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration](http://arxiv.org/abs/2504.12609v2)** | 2025-04-22 | 15 pages, 13 figures |
+| **[Mass-Adaptive Admittance Control for Robotic Manipulators](http://arxiv.org/abs/2504.16224v1)** | 2025-04-22 | 6 pages, 7 figures |
+| **[Semantic Segmentation and Scene Reconstruction of RGB-D Image Frames: An End-to-End Modular Pipeline for Robotic Applications](http://arxiv.org/abs/2410.17988v2)** | 2025-04-22 |  |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation](http://arxiv.org/abs/2503.02881v3)** | 2025-04-23 | <details><summary>Accep...</summary><p>Accepted to RSS 2025. Project page: https://reactive-diffusion-policy.github.io</p></details> |
 | **[Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction](http://arxiv.org/abs/2504.14588v1)** | 2025-04-20 | Accepted by CVPR2025 |
 | **[The Pitfalls of Imitation Learning when Actions are Continuous](http://arxiv.org/abs/2503.09722v3)** | 2025-04-15 | <details><summary>98 pa...</summary><p>98 pages, 2 figures, updated proof sketch</p></details> |
 | **[Efficient Task-specific Conditional Diffusion Policies: Shortcut Model Acceleration and SO(3) Optimization](http://arxiv.org/abs/2504.09927v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 Workshop on 2nd MEIS</p></details> |
@@ -71,7 +72,6 @@ labels: documentation
 | **[Semantically Safe Robot Manipulation: From Semantic Scene Understanding to Motion Safeguards](http://arxiv.org/abs/2410.15185v2)** | 2025-04-08 | 9 pages, 6 figures |
 | **[Speech-to-Trajectory: Learning Human-Like Verbal Guidance for Robot Motion](http://arxiv.org/abs/2504.05084v1)** | 2025-04-07 |  |
 | **[Tool-as-Interface: Learning Robot Policies from Human Tool Usage through Imitation Learning](http://arxiv.org/abs/2504.04612v1)** | 2025-04-06 | <details><summary>Proje...</summary><p>Project Page: https://tool-as-interface.github.io. 17 pages, 14 figures</p></details> |
-| **[Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation](http://arxiv.org/abs/2503.02881v2)** | 2025-04-01 |  |
 | **[Exploration and Adaptation in Non-Stationary Tasks with Diffusion Policies](http://arxiv.org/abs/2504.00280v1)** | 2025-03-31 | 7 pages, 1 figure |
 | **[Empirical Analysis of Sim-and-Real Cotraining Of Diffusion Policies For Planar Pushing from Pixels](http://arxiv.org/abs/2503.22634v1)** | 2025-03-28 | <details><summary>9 pag...</summary><p>9 pages, 15 figures, In Submission to IROS 2025</p></details> |
 | **[ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation](http://arxiv.org/abs/2406.01586v2)** | 2025-03-26 | <details><summary>https...</summary><p>https://manicm-fast.github.io/</p></details> |
