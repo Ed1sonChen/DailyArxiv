@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 24, 2025
+title: Latest 15 Papers - April 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning](http://arxiv.org/abs/2412.15576v4)** | 2025-04-24 | <details><summary>Accep...</summary><p>Accepted to ICRA 2025; Github page: https://quart-online.github.io</p></details> |
 | **[$π_{0.5}$: a Vision-Language-Action Model with Open-World Generalization](http://arxiv.org/abs/2504.16054v1)** | 2025-04-22 |  |
 | **[Few-Shot Vision-Language Action-Incremental Policy Learning](http://arxiv.org/abs/2504.15517v1)** | 2025-04-22 |  |
 | **[GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](http://arxiv.org/abs/2504.10458v3)** | 2025-04-18 |  |
@@ -40,26 +41,25 @@ labels: documentation
 | **[OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction](http://arxiv.org/abs/2503.03734v3)** | 2025-03-26 |  |
 | **[Gemini Robotics: Bringing AI into the Physical World](http://arxiv.org/abs/2503.20020v1)** | 2025-03-25 |  |
 | **[Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy](http://arxiv.org/abs/2503.19757v1)** | 2025-03-25 | <details><summary>Prepr...</summary><p>Preprint; https://robodita.github.io;</p></details> |
-| **[DataPlatter: Boosting Robotic Manipulation Generalization with Minimal Costly Data](http://arxiv.org/abs/2503.19516v1)** | 2025-03-25 |  |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MorphoNavi: Aerial-Ground Robot Navigation with Object Oriented Mapping in Digital Twin](http://arxiv.org/abs/2504.16914v1)** | 2025-04-23 |  |
-| **[Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions](http://arxiv.org/abs/2504.15327v2)** | 2025-04-23 | 41 pages, 7 figures |
-| **[Graph2Nav: 3D Object-Relation Graph Generation to Robot Navigation](http://arxiv.org/abs/2504.16782v1)** | 2025-04-23 |  |
-| **[Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics](http://arxiv.org/abs/2501.10100v2)** | 2025-04-23 |  |
-| **[Offline Robotic World Model: Learning Robotic Policies without a Physics Simulator](http://arxiv.org/abs/2504.16680v1)** | 2025-04-23 |  |
-| **[Nav-SCOPE: Swarm Robot Cooperative Perception and Coordinated Navigation](http://arxiv.org/abs/2409.10049v2)** | 2025-04-23 | 8 pages, 8 figures |
-| **[PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands](http://arxiv.org/abs/2504.16649v1)** | 2025-04-23 | <details><summary>accep...</summary><p>accepted by Robotics: Science and Systems(RSS) 2025</p></details> |
-| **[ManipDreamer: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance](http://arxiv.org/abs/2504.16464v1)** | 2025-04-23 | 9 pages, 3 figures |
-| **[Consistency Matters: Defining Demonstration Data Quality Metrics in Robot Learning from Demonstration](http://arxiv.org/abs/2412.14309v2)** | 2025-04-23 |  |
-| **[CEMSSL: Conditional Embodied Self-Supervised Learning is All You Need for High-precision Multi-solution Inverse Kinematics of Robot Arms](http://arxiv.org/abs/2306.12718v2)** | 2025-04-23 |  |
-| **[Embodied Self-Supervised Learning (EMSSL) with Sampling and Training Coordination for Robot Arm Inverse Kinematics Model Learning](http://arxiv.org/abs/2302.13346v2)** | 2025-04-23 |  |
-| **[Fast and Modular Whole-Body Lagrangian Dynamics of Legged Robots with Changing Morphology](http://arxiv.org/abs/2504.16383v1)** | 2025-04-23 |  |
-| **[Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration](http://arxiv.org/abs/2504.12609v2)** | 2025-04-22 | 15 pages, 13 figures |
-| **[Mass-Adaptive Admittance Control for Robotic Manipulators](http://arxiv.org/abs/2504.16224v1)** | 2025-04-22 | 6 pages, 7 figures |
-| **[Semantic Segmentation and Scene Reconstruction of RGB-D Image Frames: An End-to-End Modular Pipeline for Robotic Applications](http://arxiv.org/abs/2410.17988v2)** | 2025-04-22 |  |
+| **[Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation](http://arxiv.org/abs/2504.17784v1)** | 2025-04-24 | <details><summary>Publi...</summary><p>Published at Robotics: Science and Systems (RSS) 2025</p></details> |
+| **[Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control](http://arxiv.org/abs/2504.17771v1)** | 2025-04-24 | <details><summary>Accep...</summary><p>Accepted to ICRA 2025. Project page: https://dreamstarring.github.io/HAMLET/</p></details> |
+| **[Robotic Task Ambiguity Resolution via Natural Language Interaction](http://arxiv.org/abs/2504.17748v1)** | 2025-04-24 |  |
+| **[Robot Pouring: Identifying Causes of Spillage and Selecting Alternative Action Parameters Using Probabilistic Actual Causation](http://arxiv.org/abs/2502.09395v2)** | 2025-04-24 | 20 pages, 13 figures |
+| **[Unifying Complementarity Constraints and Control Barrier Functions for Safe Whole-Body Robot Control](http://arxiv.org/abs/2504.17647v1)** | 2025-04-24 |  |
+| **[CoPAL: Corrective Planning of Robot Actions with Large Language Models](http://arxiv.org/abs/2310.07263v3)** | 2025-04-24 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Robotics and Automation (ICRA) 2024</p></details> |
+| **[To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions](http://arxiv.org/abs/2403.12533v3)** | 2025-04-24 | <details><summary>IEEE/...</summary><p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024</p></details> |
+| **[Empirical Comparison of Four Stereoscopic Depth Sensing Cameras for Robotics Applications](http://arxiv.org/abs/2501.07421v2)** | 2025-04-24 |  |
+| **[Latent Representations for Visual Proprioception in Inexpensive Robots](http://arxiv.org/abs/2504.14634v2)** | 2025-04-24 |  |
+| **[Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics](http://arxiv.org/abs/2501.10100v3)** | 2025-04-24 |  |
+| **[Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot](http://arxiv.org/abs/2504.17249v1)** | 2025-04-24 | <details><summary>Accep...</summary><p>Accepted in Robotics: Science and Systems (RSS) 2025</p></details> |
+| **[Robotic Grinding Skills Learning Based on Geodesic Length Dynamic Motion Primitives](http://arxiv.org/abs/2504.17216v1)** | 2025-04-24 |  |
+| **[MAT-DiSMech: A Discrete Differential Geometry-based Computational Tool for Simulation of Rods, Shells, and Soft Robots](http://arxiv.org/abs/2504.17186v1)** | 2025-04-24 | <details><summary>Total...</summary><p>Total 25 pages, 8 figures, open-source code available at https://github.com/StructuresComp/dismech-matlab</p></details> |
+| **[RABBIT: A Robot-Assisted Bed Bathing System with Multimodal Perception and Integrated Compliance](http://arxiv.org/abs/2401.15159v2)** | 2025-04-23 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 19th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI)</p></details> |
+| **[SE(3)-Equivariant Robot Learning and Control: A Tutorial Survey](http://arxiv.org/abs/2503.09829v3)** | 2025-04-23 | <details><summary>Accep...</summary><p>Accepted to International Journcal of Control, Automation and Systems (IJCAS)</p></details> |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
