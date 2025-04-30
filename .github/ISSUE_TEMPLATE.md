@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 29, 2025
+title: Latest 15 Papers - April 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -45,25 +45,26 @@ labels: documentation
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Real-Time Imitation of Human Head Motions, Blinks and Emotions by Nao Robot: A Closed-Loop Approach](http://arxiv.org/abs/2504.19985v1)** | 2025-04-28 |  |
-| **[Tendon-Actuated Concentric Tube Endonasal Robot (TACTER)](http://arxiv.org/abs/2504.19948v1)** | 2025-04-28 | 11 pages, 8 figures |
-| **[LMV-RPA: Large Model Voting-based Robotic Process Automation](http://arxiv.org/abs/2412.17965v2)** | 2025-04-28 | <details><summary>12 pa...</summary><p>12 pages, 1 figures, 1 algorithm</p></details> |
-| **[Do You Know the Way? Human-in-the-Loop Understanding for Fast Traversability Estimation in Mobile Robotics](http://arxiv.org/abs/2504.19851v1)** | 2025-04-28 | <details><summary>Accep...</summary><p>Accepted by RA-L. Code is available at https://github.com/andreschreiber/CHUNGUS</p></details> |
-| **[Human-Centered AI and Autonomy in Robotics: Insights from a Bibliometric Study](http://arxiv.org/abs/2504.19848v1)** | 2025-04-28 | <details><summary>Inter...</summary><p>International Joint Conference on Neural Network 2025 - Accepted</p></details> |
-| **[Train Robots in a JIF: Joint Inverse and Forward Dynamics with Human and Robot Demonstrations](http://arxiv.org/abs/2503.12297v3)** | 2025-04-28 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, submission to RSS 2025</p></details> |
-| **[Enhancing Robustness in Language-Driven Robotics: A Modular Approach to Failure Reduction](http://arxiv.org/abs/2411.05474v2)** | 2025-04-28 | <details><summary>Submi...</summary><p>Submitted to ICRA 2025</p></details> |
-| **[RoTipBot: Robotic Handling of Thin and Flexible Objects using Rotatable Tactile Sensors](http://arxiv.org/abs/2406.09332v2)** | 2025-04-28 | <details><summary>18 pa...</summary><p>18 pages, 19 figures. Accepted by T-RO</p></details> |
-| **[Hector UI: A Flexible Human-Robot User Interface for (Semi-)Autonomous Rescue and Inspection Robots](http://arxiv.org/abs/2504.19728v1)** | 2025-04-28 |  |
-| **[Tensegrity-based Robot Leg Design with Variable Stiffness](http://arxiv.org/abs/2504.19685v1)** | 2025-04-28 |  |
-| **[GPA-RAM: Grasp-Pretraining Augmented Robotic Attention Mamba for Spatial Task Learning](http://arxiv.org/abs/2504.19683v1)** | 2025-04-28 |  |
-| **[Robot Motion Planning using One-Step Diffusion with Noise-Optimized Approximate Motions](http://arxiv.org/abs/2504.19652v1)** | 2025-04-28 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. Under peer review</p></details> |
-| **[Smart Placement, Faster Robots -- A Comparison of Algorithms for Robot Base-Pose Optimization](http://arxiv.org/abs/2504.19577v1)** | 2025-04-28 | <details><summary>7 pag...</summary><p>7 pages, 4 Figures, 2 Tables Find visualizations and source code at https://cobra.cps.cit.tum.de/tools/rbo</p></details> |
-| **[Category-Level and Open-Set Object Pose Estimation for Robotics](http://arxiv.org/abs/2504.19572v1)** | 2025-04-28 | <details><summary>Accep...</summary><p>Accepted at Austrian Robotics Workshop 2025</p></details> |
-| **[Video-Based Detection and Analysis of Errors in Robotic Surgical Training](http://arxiv.org/abs/2504.19571v1)** | 2025-04-28 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 1 table. Alex Geftler and Ilana Nisky contributed equally to this work</p></details> |
+| **[Opinion-Driven Decision-Making for Multi-Robot Navigation through Narrow Corridors](http://arxiv.org/abs/2504.20947v1)** | 2025-04-29 |  |
+| **[Hierarchical Temporal Logic Task and Motion Planning for Multi-Robot Systems](http://arxiv.org/abs/2504.18899v2)** | 2025-04-29 | <details><summary>Accep...</summary><p>Accepted by Robotics: Science and Systems (RSS 2025)</p></details> |
+| **[SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings](http://arxiv.org/abs/2504.20808v1)** | 2025-04-29 |  |
+| **[Confidence-based Intent Prediction for Teleoperation in Bimanual Robotic Suturing](http://arxiv.org/abs/2504.20761v1)** | 2025-04-29 |  |
+| **[Identifying Uncertainty in Self-Adaptive Robotics with Large Language Models](http://arxiv.org/abs/2504.20684v1)** | 2025-04-29 |  |
+| **[Multi-Sensor Fusion for Quadruped Robot State Estimation using Invariant Filtering and Smoothing](http://arxiv.org/abs/2504.20615v1)** | 2025-04-29 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters</p></details> |
+| **[Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation](http://arxiv.org/abs/2504.19322v2)** | 2025-04-29 | <details><summary>To be...</summary><p>To be published in the proceedings of Robotics: Science and Systems (RSS) 2025</p></details> |
+| **[SPARK Hand: Scooping-Pinching Adaptive Robotic Hand with Kempe Mechanism for Vertical Passive Grasp in Environmental Constraints](http://arxiv.org/abs/2504.20506v1)** | 2025-04-29 |  |
+| **[SAS-Prompt: Large Language Models as Numerical Optimizers for Robot Self-Improvement](http://arxiv.org/abs/2504.20459v1)** | 2025-04-29 | ICRA 2025 |
+| **[Estimation of Tissue Deformation and Interactive Force in Robotic Surgery through Vision-based Learning](http://arxiv.org/abs/2504.20373v1)** | 2025-04-29 |  |
+| **[TTTFusion: A Test-Time Training-Based Strategy for Multimodal Medical Image Fusion in Surgical Robots](http://arxiv.org/abs/2504.20362v1)** | 2025-04-29 |  |
+| **[NMPC-based Unified Posture Manipulation and Thrust Vectoring for Agile and Fault-Tolerant Flight of a Morphing Aerial Robot](http://arxiv.org/abs/2504.20326v1)** | 2025-04-29 |  |
+| **[System Identification of Thrust and Torque Characteristics for a Bipedal Robot with Integrated Propulsion](http://arxiv.org/abs/2504.20313v1)** | 2025-04-28 | Master's Thesis |
+| **[SOLAQUA: SINTEF Ocean Large Aquaculture Robotics Dataset](http://arxiv.org/abs/2504.01790v2)** | 2025-04-28 |  |
+| **[Mobile Robot Navigation Using Hand-Drawn Maps: A Vision Language Model Approach](http://arxiv.org/abs/2502.00114v2)** | 2025-04-28 | 8 pages, 8 figures |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PRISM-DP: Spatial Pose-based Observations for Diffusion-Policies via Segmentation, Mesh Generation, and Pose Tracking](http://arxiv.org/abs/2504.20359v1)** | 2025-04-29 |  |
 | **[Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success](http://arxiv.org/abs/2502.19645v2)** | 2025-04-28 | <details><summary>Accep...</summary><p>Accepted to Robotics: Science and Systems (RSS) 2025. Project website: https://openvla-oft.github.io/</p></details> |
 | **[PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies](http://arxiv.org/abs/2504.19341v1)** | 2025-04-27 | <details><summary>Nomin...</summary><p>Nominated for the best paper award at ICRA 2025</p></details> |
 | **[You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations](http://arxiv.org/abs/2501.14208v2)** | 2025-04-27 | accepted by RSS 2025 |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Semantically Safe Robot Manipulation: From Semantic Scene Understanding to Motion Safeguards](http://arxiv.org/abs/2410.15185v2)** | 2025-04-08 | 9 pages, 6 figures |
 | **[Speech-to-Trajectory: Learning Human-Like Verbal Guidance for Robot Motion](http://arxiv.org/abs/2504.05084v1)** | 2025-04-07 |  |
 | **[Tool-as-Interface: Learning Robot Policies from Human Tool Usage through Imitation Learning](http://arxiv.org/abs/2504.04612v1)** | 2025-04-06 | <details><summary>Proje...</summary><p>Project Page: https://tool-as-interface.github.io. 17 pages, 14 figures</p></details> |
-| **[Exploration and Adaptation in Non-Stationary Tasks with Diffusion Policies](http://arxiv.org/abs/2504.00280v1)** | 2025-03-31 | 7 pages, 1 figure |
 
