@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 30, 2025
+title: Latest 15 Papers - May 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2504.21277v1)** | 2025-04-30 |  |
 | **[Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs](http://arxiv.org/abs/2504.15280v2)** | 2025-04-27 | <details><summary>Proje...</summary><p>Project page: https://danielchyeh.github.io/All-Angles-Bench/</p></details> |
 | **[ZipR1: Reinforcing Token Sparsity in MLLMs](http://arxiv.org/abs/2504.18579v1)** | 2025-04-23 | work in process |
 | **[STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?](http://arxiv.org/abs/2503.23765v3)** | 2025-04-21 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation](http://arxiv.org/abs/2503.13947v2)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
 | **[POEM: Precise Object-level Editing via MLLM control](http://arxiv.org/abs/2504.08111v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted to SCIA 2025</p></details> |
 | **[Law of Vision Representation in MLLMs](http://arxiv.org/abs/2408.16357v2)** | 2025-04-09 | <details><summary>The c...</summary><p>The code is available at https://github.com/bronyayang/Law_of_Vision_Representation_in_MLLMs</p></details> |
-| **[M2-omni: Advancing Omni-MLLM for Comprehensive Modality Support with Competitive Performance](http://arxiv.org/abs/2502.18778v3)** | 2025-04-07 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neuro-Symbolic Generation of Explanations for Robot Policies with Weighted Signal Temporal Logic](http://arxiv.org/abs/2504.21841v1)** | 2025-04-30 |  |
+| **[An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation](http://arxiv.org/abs/2504.21826v1)** | 2025-04-30 |  |
+| **[LLM-based Interactive Imitation Learning for Robotic Manipulation](http://arxiv.org/abs/2504.21769v1)** | 2025-04-30 | <details><summary>To be...</summary><p>To be published in IJCNN 2025 proceedings</p></details> |
+| **[Whleaper: A 10-DOF Flexible Bipedal Wheeled Robot](http://arxiv.org/abs/2504.21767v1)** | 2025-04-30 |  |
+| **[LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics](http://arxiv.org/abs/2504.21716v1)** | 2025-04-30 | <details><summary>Accep...</summary><p>Accepted at Austrian Robotics Workshop 2025</p></details> |
+| **[Robotic Trail Maker Platform for Rehabilitation in Neurological Conditions: Clinical Use Cases](http://arxiv.org/abs/2504.19230v2)** | 2025-04-30 | <details><summary>The f...</summary><p>The first three authors are co-first authors. This manuscript is under review with the IEEE Transactions on Neural Systems and Rehabilitation Engineering</p></details> |
+| **[LRBO2: Improved 3D Vision Based Hand-Eye Calibration for Collaborative Robot Arm](http://arxiv.org/abs/2504.21619v1)** | 2025-04-30 |  |
+| **[Leveraging Systems and Control Theory for Social Robotics: A Model-Based Behavioral Control Approach to Human-Robot Interaction](http://arxiv.org/abs/2504.21548v1)** | 2025-04-30 |  |
+| **[RoboGround: Robotic Manipulation with Grounded Vision-Language Priors](http://arxiv.org/abs/2504.21530v1)** | 2025-04-30 |  |
+| **[SimPRIVE: a Simulation framework for Physical Robot Interaction with Virtual Environments](http://arxiv.org/abs/2504.21454v1)** | 2025-04-30 | <details><summary>Submi...</summary><p>Submitted to IEEE ITSC 2025</p></details> |
+| **[Improving Grip Stability Using Passive Compliant Microspine Arrays for Soft Robots in Unstructured Terrain](http://arxiv.org/abs/2502.12347v2)** | 2025-04-30 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA) 2025</p></details> |
+| **[A Koopman Operator-based NMPC Framework for Mobile Robot Navigation under Uncertainty](http://arxiv.org/abs/2504.21215v1)** | 2025-04-29 |  |
+| **[SPARK-Remote: A Cost-Effective System for Remote Bimanual Robot Teleoperation](http://arxiv.org/abs/2504.05488v3)** | 2025-04-29 |  |
 | **[Opinion-Driven Decision-Making for Multi-Robot Navigation through Narrow Corridors](http://arxiv.org/abs/2504.20947v1)** | 2025-04-29 |  |
 | **[Hierarchical Temporal Logic Task and Motion Planning for Multi-Robot Systems](http://arxiv.org/abs/2504.18899v2)** | 2025-04-29 | <details><summary>Accep...</summary><p>Accepted by Robotics: Science and Systems (RSS 2025)</p></details> |
-| **[SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings](http://arxiv.org/abs/2504.20808v1)** | 2025-04-29 |  |
-| **[Confidence-based Intent Prediction for Teleoperation in Bimanual Robotic Suturing](http://arxiv.org/abs/2504.20761v1)** | 2025-04-29 |  |
-| **[Identifying Uncertainty in Self-Adaptive Robotics with Large Language Models](http://arxiv.org/abs/2504.20684v1)** | 2025-04-29 |  |
-| **[Multi-Sensor Fusion for Quadruped Robot State Estimation using Invariant Filtering and Smoothing](http://arxiv.org/abs/2504.20615v1)** | 2025-04-29 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters</p></details> |
-| **[Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation](http://arxiv.org/abs/2504.19322v2)** | 2025-04-29 | <details><summary>To be...</summary><p>To be published in the proceedings of Robotics: Science and Systems (RSS) 2025</p></details> |
-| **[SPARK Hand: Scooping-Pinching Adaptive Robotic Hand with Kempe Mechanism for Vertical Passive Grasp in Environmental Constraints](http://arxiv.org/abs/2504.20506v1)** | 2025-04-29 |  |
-| **[SAS-Prompt: Large Language Models as Numerical Optimizers for Robot Self-Improvement](http://arxiv.org/abs/2504.20459v1)** | 2025-04-29 | ICRA 2025 |
-| **[Estimation of Tissue Deformation and Interactive Force in Robotic Surgery through Vision-based Learning](http://arxiv.org/abs/2504.20373v1)** | 2025-04-29 |  |
-| **[TTTFusion: A Test-Time Training-Based Strategy for Multimodal Medical Image Fusion in Surgical Robots](http://arxiv.org/abs/2504.20362v1)** | 2025-04-29 |  |
-| **[NMPC-based Unified Posture Manipulation and Thrust Vectoring for Agile and Fault-Tolerant Flight of a Morphing Aerial Robot](http://arxiv.org/abs/2504.20326v1)** | 2025-04-29 |  |
-| **[System Identification of Thrust and Torque Characteristics for a Bipedal Robot with Integrated Propulsion](http://arxiv.org/abs/2504.20313v1)** | 2025-04-28 | Master's Thesis |
-| **[SOLAQUA: SINTEF Ocean Large Aquaculture Robotics Dataset](http://arxiv.org/abs/2504.01790v2)** | 2025-04-28 |  |
-| **[Mobile Robot Navigation Using Hand-Drawn Maps: A Vision Language Model Approach](http://arxiv.org/abs/2502.00114v2)** | 2025-04-28 | 8 pages, 8 figures |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
