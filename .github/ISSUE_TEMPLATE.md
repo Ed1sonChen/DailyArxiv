@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 01, 2025
+title: Latest 15 Papers - May 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -45,6 +45,12 @@ labels: documentation
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robotic Visual Instruction](http://arxiv.org/abs/2505.00693v1)** | 2025-05-01 |  |
+| **[Robot localization aided by quantum algorithms](http://arxiv.org/abs/2502.00077v2)** | 2025-05-01 | <details><summary>20 pa...</summary><p>20 pages, 18 figures. Preprint</p></details> |
+| **[Holistic Optimization of Modular Robots](http://arxiv.org/abs/2505.00400v1)** | 2025-05-01 | <details><summary>13 Pa...</summary><p>13 Pages, 7 figures, 6 tables</p></details> |
+| **[RoboBERT: An End-to-end Multimodal Robotic Manipulation Model](http://arxiv.org/abs/2502.07837v2)** | 2025-05-01 |  |
+| **[Multi-segment Soft Robot Control via Deep Koopman-based Model Predictive Control](http://arxiv.org/abs/2505.00354v1)** | 2025-05-01 |  |
+| **[Achieving Human Level Competitive Robot Table Tennis](http://arxiv.org/abs/2408.03906v3)** | 2025-05-01 |  |
 | **[Neuro-Symbolic Generation of Explanations for Robot Policies with Weighted Signal Temporal Logic](http://arxiv.org/abs/2504.21841v1)** | 2025-04-30 |  |
 | **[An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation](http://arxiv.org/abs/2504.21826v1)** | 2025-04-30 |  |
 | **[LLM-based Interactive Imitation Learning for Robotic Manipulation](http://arxiv.org/abs/2504.21769v1)** | 2025-04-30 | <details><summary>To be...</summary><p>To be published in IJCNN 2025 proceedings</p></details> |
@@ -54,17 +60,12 @@ labels: documentation
 | **[LRBO2: Improved 3D Vision Based Hand-Eye Calibration for Collaborative Robot Arm](http://arxiv.org/abs/2504.21619v1)** | 2025-04-30 |  |
 | **[Leveraging Systems and Control Theory for Social Robotics: A Model-Based Behavioral Control Approach to Human-Robot Interaction](http://arxiv.org/abs/2504.21548v1)** | 2025-04-30 |  |
 | **[RoboGround: Robotic Manipulation with Grounded Vision-Language Priors](http://arxiv.org/abs/2504.21530v1)** | 2025-04-30 |  |
-| **[SimPRIVE: a Simulation framework for Physical Robot Interaction with Virtual Environments](http://arxiv.org/abs/2504.21454v1)** | 2025-04-30 | <details><summary>Submi...</summary><p>Submitted to IEEE ITSC 2025</p></details> |
-| **[Improving Grip Stability Using Passive Compliant Microspine Arrays for Soft Robots in Unstructured Terrain](http://arxiv.org/abs/2502.12347v2)** | 2025-04-30 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA) 2025</p></details> |
-| **[A Koopman Operator-based NMPC Framework for Mobile Robot Navigation under Uncertainty](http://arxiv.org/abs/2504.21215v1)** | 2025-04-29 |  |
-| **[SPARK-Remote: A Cost-Effective System for Remote Bimanual Robot Teleoperation](http://arxiv.org/abs/2504.05488v3)** | 2025-04-29 |  |
-| **[Opinion-Driven Decision-Making for Multi-Robot Navigation through Narrow Corridors](http://arxiv.org/abs/2504.20947v1)** | 2025-04-29 |  |
-| **[Hierarchical Temporal Logic Task and Motion Planning for Multi-Robot Systems](http://arxiv.org/abs/2504.18899v2)** | 2025-04-29 | <details><summary>Accep...</summary><p>Accepted by Robotics: Science and Systems (RSS 2025)</p></details> |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PRISM-DP: Spatial Pose-based Observations for Diffusion-Policies via Segmentation, Mesh Generation, and Pose Tracking](http://arxiv.org/abs/2504.20359v1)** | 2025-04-29 |  |
+| **[RoboBERT: An End-to-end Multimodal Robotic Manipulation Model](http://arxiv.org/abs/2502.07837v2)** | 2025-05-01 |  |
+| **[PRISM-DP: Spatial Pose-based Observations for Diffusion-Policies via Segmentation, Mesh Generation, and Pose Tracking](http://arxiv.org/abs/2504.20359v2)** | 2025-05-01 |  |
 | **[Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success](http://arxiv.org/abs/2502.19645v2)** | 2025-04-28 | <details><summary>Accep...</summary><p>Accepted to Robotics: Science and Systems (RSS) 2025. Project website: https://openvla-oft.github.io/</p></details> |
 | **[PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies](http://arxiv.org/abs/2504.19341v1)** | 2025-04-27 | <details><summary>Nomin...</summary><p>Nominated for the best paper award at ICRA 2025</p></details> |
 | **[You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations](http://arxiv.org/abs/2501.14208v2)** | 2025-04-27 | accepted by RSS 2025 |
@@ -78,5 +79,4 @@ labels: documentation
 | **[DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving](http://arxiv.org/abs/2411.15139v3)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 as Highlight. Code & demo & model are available at https://github.com/hustvl/DiffusionDrive</p></details> |
 | **[Semantically Safe Robot Manipulation: From Semantic Scene Understanding to Motion Safeguards](http://arxiv.org/abs/2410.15185v2)** | 2025-04-08 | 9 pages, 6 figures |
 | **[Speech-to-Trajectory: Learning Human-Like Verbal Guidance for Robot Motion](http://arxiv.org/abs/2504.05084v1)** | 2025-04-07 |  |
-| **[Tool-as-Interface: Learning Robot Policies from Human Tool Usage through Imitation Learning](http://arxiv.org/abs/2504.04612v1)** | 2025-04-06 | <details><summary>Proje...</summary><p>Project Page: https://tool-as-interface.github.io. 17 pages, 14 figures</p></details> |
 
