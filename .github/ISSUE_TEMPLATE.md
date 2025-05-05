@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 04, 2025
+title: Latest 15 Papers - May 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -8,6 +8,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2504.21277v1)** | 2025-04-30 |  |
+| **[Zoomer: Adaptive Image Focus Optimization for Black-box MLLM](http://arxiv.org/abs/2505.00742v1)** | 2025-04-30 |  |
 | **[Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs](http://arxiv.org/abs/2504.15280v2)** | 2025-04-27 | <details><summary>Proje...</summary><p>Project page: https://danielchyeh.github.io/All-Angles-Bench/</p></details> |
 | **[ZipR1: Reinforcing Token Sparsity in MLLMs](http://arxiv.org/abs/2504.18579v1)** | 2025-04-23 | work in process |
 | **[STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?](http://arxiv.org/abs/2503.23765v3)** | 2025-04-21 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[The Future of MLLM Prompting is Adaptive: A Comprehensive Experimental Evaluation of Prompt Engineering Methods for Robust Multimodal Performance](http://arxiv.org/abs/2504.10179v1)** | 2025-04-14 |  |
 | **[Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation](http://arxiv.org/abs/2503.13947v2)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
 | **[POEM: Precise Object-level Editing via MLLM control](http://arxiv.org/abs/2504.08111v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted to SCIA 2025</p></details> |
-| **[Law of Vision Representation in MLLMs](http://arxiv.org/abs/2408.16357v2)** | 2025-04-09 | <details><summary>The c...</summary><p>The code is available at https://github.com/bronyayang/Law_of_Vision_Representation_in_MLLMs</p></details> |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
@@ -45,25 +45,26 @@ labels: documentation
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Robotic Visual Instruction](http://arxiv.org/abs/2505.00693v1)** | 2025-05-01 |  |
-| **[Robot localization aided by quantum algorithms](http://arxiv.org/abs/2502.00077v2)** | 2025-05-01 | <details><summary>20 pa...</summary><p>20 pages, 18 figures. Preprint</p></details> |
-| **[Holistic Optimization of Modular Robots](http://arxiv.org/abs/2505.00400v1)** | 2025-05-01 | <details><summary>13 Pa...</summary><p>13 Pages, 7 figures, 6 tables</p></details> |
-| **[RoboBERT: An End-to-end Multimodal Robotic Manipulation Model](http://arxiv.org/abs/2502.07837v2)** | 2025-05-01 |  |
-| **[Multi-segment Soft Robot Control via Deep Koopman-based Model Predictive Control](http://arxiv.org/abs/2505.00354v1)** | 2025-05-01 |  |
-| **[Achieving Human Level Competitive Robot Table Tennis](http://arxiv.org/abs/2408.03906v3)** | 2025-05-01 |  |
-| **[Neuro-Symbolic Generation of Explanations for Robot Policies with Weighted Signal Temporal Logic](http://arxiv.org/abs/2504.21841v1)** | 2025-04-30 |  |
-| **[An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation](http://arxiv.org/abs/2504.21826v1)** | 2025-04-30 |  |
-| **[LLM-based Interactive Imitation Learning for Robotic Manipulation](http://arxiv.org/abs/2504.21769v1)** | 2025-04-30 | <details><summary>To be...</summary><p>To be published in IJCNN 2025 proceedings</p></details> |
-| **[Whleaper: A 10-DOF Flexible Bipedal Wheeled Robot](http://arxiv.org/abs/2504.21767v1)** | 2025-04-30 |  |
-| **[LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics](http://arxiv.org/abs/2504.21716v1)** | 2025-04-30 | <details><summary>Accep...</summary><p>Accepted at Austrian Robotics Workshop 2025</p></details> |
-| **[Robotic Trail Maker Platform for Rehabilitation in Neurological Conditions: Clinical Use Cases](http://arxiv.org/abs/2504.19230v2)** | 2025-04-30 | <details><summary>The f...</summary><p>The first three authors are co-first authors. This manuscript is under review with the IEEE Transactions on Neural Systems and Rehabilitation Engineering</p></details> |
-| **[LRBO2: Improved 3D Vision Based Hand-Eye Calibration for Collaborative Robot Arm](http://arxiv.org/abs/2504.21619v1)** | 2025-04-30 |  |
-| **[Leveraging Systems and Control Theory for Social Robotics: A Model-Based Behavioral Control Approach to Human-Robot Interaction](http://arxiv.org/abs/2504.21548v1)** | 2025-04-30 |  |
-| **[RoboGround: Robotic Manipulation with Grounded Vision-Language Priors](http://arxiv.org/abs/2504.21530v1)** | 2025-04-30 |  |
+| **[FoAR: Force-Aware Reactive Policy for Contact-Rich Robotic Manipulation](http://arxiv.org/abs/2411.15753v2)** | 2025-05-02 | <details><summary>Accep...</summary><p>Accepted to Robotics and Automation Letters. 9 pages, 5 figures</p></details> |
+| **[RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training](http://arxiv.org/abs/2411.17662v2)** | 2025-05-02 |  |
+| **[AirExo-2: Scaling up Generalizable Robotic Imitation Learning with Low-Cost Exoskeletons](http://arxiv.org/abs/2503.03081v2)** | 2025-05-02 |  |
+| **[Dynamic Robot Tool Use with Vision Language Models](http://arxiv.org/abs/2505.01399v1)** | 2025-05-02 | <details><summary>In su...</summary><p>In submission and under review</p></details> |
+| **[An Efficient Real-Time Planning Method for Swarm Robotics Based on an Optimal Virtual Tube](http://arxiv.org/abs/2505.01380v1)** | 2025-05-02 | 18 pages, 21 figures |
+| **[Desired Impedance Allocation for Robotic Systems](http://arxiv.org/abs/2505.01308v1)** | 2025-05-02 | <details><summary>This ...</summary><p>This work has been submitted for possible publication in IEEE</p></details> |
+| **[ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow](http://arxiv.org/abs/2505.01288v1)** | 2025-05-02 |  |
+| **[Rethinking Latent Redundancy in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation](http://arxiv.org/abs/2502.02853v3)** | 2025-05-02 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
+| **[Real-time Two-tape Control System in Vine robots](http://arxiv.org/abs/2505.00969v1)** | 2025-05-02 | <details><summary>6 pag...</summary><p>6 pages 8 figures; submitted to IROS2025</p></details> |
+| **[Autonomous Embodied Agents: When Robotics Meets Deep Learning Reasoning](http://arxiv.org/abs/2505.00935v1)** | 2025-05-02 | Ph.D. Dissertation |
+| **[Optimal Design of a Walking Robot: Analytical, Numerical, and Machine Learning Methods for Multicriteria Synthesis](http://arxiv.org/abs/2505.00923v1)** | 2025-05-01 |  |
+| **[Closed-Loop Long-Horizon Robotic Planning via Equilibrium Sequence Modeling](http://arxiv.org/abs/2410.01440v5)** | 2025-05-01 | ICML 2025 |
+| **[IK Seed Generator for Dual-Arm Human-like Physicality Robot with Mobile Base](http://arxiv.org/abs/2505.00871v1)** | 2025-05-01 | <details><summary>8 pag...</summary><p>8 pages, 12 figures, 4 tables</p></details> |
+| **[Caging in Time: A Framework for Robust Object Manipulation under Uncertainties and Limited Robot Perception](http://arxiv.org/abs/2410.16481v4)** | 2025-05-01 | <details><summary>22 pa...</summary><p>22 pages, 26 figures, video available at: https://www.youtube.com/watch?v=Ag_jTzazuSM</p></details> |
+| **[Leveraging Symmetry to Accelerate Learning of Trajectory Tracking Controllers for Free-Flying Robotic Systems](http://arxiv.org/abs/2409.11238v3)** | 2025-05-01 | <details><summary>The f...</summary><p>The first three authors contributed equally to this work. This updated version reflects the final version to appear at IEEE International Conference on Robotics and Automation (ICRA) 2025</p></details> |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast Flow-based Visuomotor Policies via Conditional Optimal Transport Couplings](http://arxiv.org/abs/2505.01179v1)** | 2025-05-02 |  |
 | **[RoboBERT: An End-to-end Multimodal Robotic Manipulation Model](http://arxiv.org/abs/2502.07837v2)** | 2025-05-01 |  |
 | **[PRISM-DP: Spatial Pose-based Observations for Diffusion-Policies via Segmentation, Mesh Generation, and Pose Tracking](http://arxiv.org/abs/2504.20359v2)** | 2025-05-01 |  |
 | **[Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success](http://arxiv.org/abs/2502.19645v2)** | 2025-04-28 | <details><summary>Accep...</summary><p>Accepted to Robotics: Science and Systems (RSS) 2025. Project website: https://openvla-oft.github.io/</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Efficient Task-specific Conditional Diffusion Policies: Shortcut Model Acceleration and SO(3) Optimization](http://arxiv.org/abs/2504.09927v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 Workshop on 2nd MEIS</p></details> |
 | **[DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving](http://arxiv.org/abs/2411.15139v3)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 as Highlight. Code & demo & model are available at https://github.com/hustvl/DiffusionDrive</p></details> |
 | **[Semantically Safe Robot Manipulation: From Semantic Scene Understanding to Motion Safeguards](http://arxiv.org/abs/2410.15185v2)** | 2025-04-08 | 9 pages, 6 figures |
-| **[Speech-to-Trajectory: Learning Human-Like Verbal Guidance for Robot Motion](http://arxiv.org/abs/2504.05084v1)** | 2025-04-07 |  |
 
