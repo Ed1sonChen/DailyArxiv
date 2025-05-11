@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 08, 2025
+title: Latest 15 Papers - May 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vision-Language-Action Models: Concepts, Progress, Applications and Challenges](http://arxiv.org/abs/2505.04769v1)** | 2025-05-07 | <details><summary>36 pa...</summary><p>36 pages, 18 Figures, 4 Tables</p></details> |
 | **[OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation](http://arxiv.org/abs/2505.03912v1)** | 2025-05-06 |  |
 | **[Task Reconstruction and Extrapolation for $π_0$ using Text Latent](http://arxiv.org/abs/2505.03500v1)** | 2025-05-06 |  |
 | **[GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data](http://arxiv.org/abs/2505.03233v1)** | 2025-05-06 |  |
@@ -40,30 +41,30 @@ labels: documentation
 | **[GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](http://arxiv.org/abs/2504.10458v3)** | 2025-04-18 |  |
 | **[MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation](http://arxiv.org/abs/2503.20384v2)** | 2025-04-14 |  |
 | **[ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](http://arxiv.org/abs/2502.05450v2)** | 2025-04-14 |  |
-| **[OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning](http://arxiv.org/abs/2504.06538v1)** | 2025-04-09 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 3 tables, 24 equations</p></details> |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An End-to-End Framework for Optimizing Foot Trajectory and Force in Dry Adhesion Legged Wall-Climbing Robots](http://arxiv.org/abs/2504.19448v2)** | 2025-05-08 |  |
+| **[Fast Whole-Body Strain Regulation in Continuum Robots](http://arxiv.org/abs/2312.06039v3)** | 2025-05-08 |  |
+| **[CottonSim: Development of an autonomous visual-guided robotic cotton-picking system in the Gazebo](http://arxiv.org/abs/2505.05317v1)** | 2025-05-08 | <details><summary>45 pa...</summary><p>45 pages, 15 figures, 4 tables</p></details> |
+| **[Visual Affordances: Enabling Robots to Understand Object Functionality](http://arxiv.org/abs/2505.05074v1)** | 2025-05-08 | <details><summary>24 pa...</summary><p>24 pages, 12 figures, 10 tables. Project website at https://apicis.github.io/aff-survey/</p></details> |
+| **[FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment](http://arxiv.org/abs/2504.08603v2)** | 2025-05-08 | 11 pages, 5 figures |
+| **[CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations](http://arxiv.org/abs/2505.04999v1)** | 2025-05-08 | <details><summary>Laten...</summary><p>Latent Action Models, Self-supervised Pretraining, Learning from Videos</p></details> |
+| **[SatAOI: Delimitating Area of Interest for Swing-Arm Troweling Robot for Construction](http://arxiv.org/abs/2505.04871v1)** | 2025-05-08 |  |
+| **[FieldNet: Efficient Real-Time Shadow Removal for Enhanced Vision in Field Robotics](http://arxiv.org/abs/2403.08142v2)** | 2025-05-08 | <details><summary>22 pa...</summary><p>22 pages, 9 figures, 8 tables. Published at Expert Systems with Applications</p></details> |
+| **[Simplification of Robotic System Model Analysis by Petri Net Meta-Model Property Transfer](http://arxiv.org/abs/2407.06454v4)** | 2025-05-07 | 16 pages |
+| **[Fitts' List Revisited: An Empirical Study on Function Allocation in a Two-Agent Physical Human-Robot Collaborative Position/Force Task](http://arxiv.org/abs/2505.04722v1)** | 2025-05-07 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, under review for publication in IEEE Robotics and Automation Letters (RA-L)</p></details> |
 | **[Stow: Robotic Packing of Items into Fabric Pods](http://arxiv.org/abs/2505.04572v1)** | 2025-05-07 |  |
 | **[Accelerating Audio Research with Robotic Dummy Heads](http://arxiv.org/abs/2505.04548v1)** | 2025-05-07 | WASPAA 2025 |
 | **[Model-Based AI planning and Execution Systems for Robotics](http://arxiv.org/abs/2505.04493v1)** | 2025-05-07 |  |
 | **[Estimating Dynamic Soft Continuum Robot States From Boundaries](http://arxiv.org/abs/2505.04491v1)** | 2025-05-07 |  |
 | **[Multi-Robot Motion Planning with Diffusion Models](http://arxiv.org/abs/2410.03072v2)** | 2025-05-07 | <details><summary>The f...</summary><p>The first three authors contributed equally to this work. Published at ICLR 2025</p></details> |
-| **[RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation](http://arxiv.org/abs/2505.01709v2)** | 2025-05-07 | <details><summary>proje...</summary><p>project page: https://abliao.github.io/RoBridge/</p></details> |
-| **[Low Resolution Next Best View for Robot Packing](http://arxiv.org/abs/2505.04228v1)** | 2025-05-07 | <details><summary>Paper...</summary><p>Paper accepted at IFAC ROBOTICS 2025</p></details> |
-| **[Beyond Task Performance: Human Experience in Human-Robot Collaboration](http://arxiv.org/abs/2505.04182v1)** | 2025-05-07 |  |
-| **[SCU-Hand: Soft Conical Universal Robotic Hand for Scooping Granular Media from Containers of Various Sizes](http://arxiv.org/abs/2505.04162v1)** | 2025-05-07 | <details><summary>2025 ...</summary><p>2025 IEEE International Conference on Robotics and Automation (ICRA2025). Preprint. Accepted January 2025</p></details> |
-| **[Scalable Aerial GNSS Localization for Marine Robots](http://arxiv.org/abs/2505.04095v1)** | 2025-05-07 | <details><summary>Inter...</summary><p>International Conference on Robotics and Automation 2025 Workshop Robots in the Wild</p></details> |
-| **[Online Controller Synthesis for Robot Collision Avoidance: A Case Study](http://arxiv.org/abs/2502.05667v2)** | 2025-05-06 | <details><summary>The c...</summary><p>The collaborators disagree to publish on this platform</p></details> |
-| **[Human-Robot Interaction and Perceived Irrationality: A Study of Trust Dynamics and Error Acknowledgment](http://arxiv.org/abs/2403.14293v2)** | 2025-05-06 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 1 table, Ongoing Research</p></details> |
-| **[MIHRaGe: A Mixed-Reality Interface for Human-Robot Interaction via Gaze-Oriented Control](http://arxiv.org/abs/2505.03929v1)** | 2025-05-06 |  |
-| **[Omnidirectional vision sensors based on catadioptric systems with discrete infrared photoreceptors for swarm robotics](http://arxiv.org/abs/2505.03920v1)** | 2025-05-06 | 24 pages, 12 figures |
-| **[PyRoki: A Modular Toolkit for Robot Kinematic Optimization](http://arxiv.org/abs/2505.03728v1)** | 2025-05-06 | <details><summary>First...</summary><p>First two authors contributed equally. Code is available at https://pyroki-toolkit.github.io</p></details> |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models](http://arxiv.org/abs/2503.01876v2)** | 2025-05-08 |  |
 | **[Close-Fitting Dressing Assistance Based on State Estimation of Feet and Garments with Semantic-based Visual Attention](http://arxiv.org/abs/2505.03400v1)** | 2025-05-06 |  |
 | **[ToMCAT: Theory-of-Mind for Cooperative Agents in Teams via Multiagent Diffusion Policies](http://arxiv.org/abs/2502.18438v2)** | 2025-05-06 | <details><summary>Appea...</summary><p>Appears in Proc. of the Adaptive and Learning Agents Workshop (ALA 2025), ala-workshop.github.io</p></details> |
 | **[Fast Flow-based Visuomotor Policies via Conditional Optimal Transport Couplings](http://arxiv.org/abs/2505.01179v1)** | 2025-05-02 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation](http://arxiv.org/abs/2503.02881v3)** | 2025-04-23 | <details><summary>Accep...</summary><p>Accepted to RSS 2025. Project page: https://reactive-diffusion-policy.github.io</p></details> |
 | **[Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction](http://arxiv.org/abs/2504.14588v1)** | 2025-04-20 | Accepted by CVPR2025 |
 | **[The Pitfalls of Imitation Learning when Actions are Continuous](http://arxiv.org/abs/2503.09722v3)** | 2025-04-15 | <details><summary>98 pa...</summary><p>98 pages, 2 figures, updated proof sketch</p></details> |
-| **[Efficient Task-specific Conditional Diffusion Policies: Shortcut Model Acceleration and SO(3) Optimization](http://arxiv.org/abs/2504.09927v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 Workshop on 2nd MEIS</p></details> |
 
