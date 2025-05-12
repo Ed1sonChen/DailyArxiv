@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 11, 2025
+title: Latest 15 Papers - May 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills](http://arxiv.org/abs/2505.06176v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted at SIGGRAPH 2025 [ACM Transactions on Graphics]; Project website: https://monetgpt.github.io</p></details> |
 | **[RTV-Bench: Benchmarking MLLM Continuous Perception, Understanding and Reasoning through Real-Time Video](http://arxiv.org/abs/2505.02064v2)** | 2025-05-06 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 5 tables</p></details> |
 | **[MLLM-Enhanced Face Forgery Detection: A Vision-Language Fusion Solution](http://arxiv.org/abs/2505.02013v1)** | 2025-05-04 |  |
 | **[Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2504.21277v1)** | 2025-04-30 |  |
@@ -21,11 +22,13 @@ labels: documentation
 | **[AnomalyR1: A GRPO-based End-to-end MLLM for Industrial Anomaly Detection](http://arxiv.org/abs/2504.11914v1)** | 2025-04-16 |  |
 | **[Dopamine Audiobook: A Training-free MLLM Agent for Emotional and Human-like Audiobook Generation](http://arxiv.org/abs/2504.11002v1)** | 2025-04-15 |  |
 | **[Foundation Models for Remote Sensing: An Analysis of MLLMs for Object Localization](http://arxiv.org/abs/2504.10727v1)** | 2025-04-14 | <details><summary>26 pa...</summary><p>26 pages, CVPR MORSE Workshop 2025</p></details> |
-| **[The Future of MLLM Prompting is Adaptive: A Comprehensive Experimental Evaluation of Prompt Engineering Methods for Robust Multimodal Performance](http://arxiv.org/abs/2504.10179v1)** | 2025-04-14 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniVLA: Learning to Act Anywhere with Task-centric Latent Actions](http://arxiv.org/abs/2505.06111v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted to RSS 2025. Code is available at https://github.com/OpenDriveLab/UniVLA</p></details> |
+| **[3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks](http://arxiv.org/abs/2505.05800v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted at the 1st Workshop on 3D LLM/VLA, CVPR 2025</p></details> |
+| **[Benchmarking Vision, Language, & Action Models in Procedurally Generated, Open Ended Action Environments](http://arxiv.org/abs/2505.05540v1)** | 2025-05-08 | 16 pages, 26 figures |
 | **[Vision-Language-Action Models: Concepts, Progress, Applications and Challenges](http://arxiv.org/abs/2505.04769v1)** | 2025-05-07 | <details><summary>36 pa...</summary><p>36 pages, 18 Figures, 4 Tables</p></details> |
 | **[OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation](http://arxiv.org/abs/2505.03912v1)** | 2025-05-06 |  |
 | **[Task Reconstruction and Extrapolation for $π_0$ using Text Latent](http://arxiv.org/abs/2505.03500v1)** | 2025-05-06 |  |
@@ -38,32 +41,30 @@ labels: documentation
 | **[QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning](http://arxiv.org/abs/2412.15576v4)** | 2025-04-24 | <details><summary>Accep...</summary><p>Accepted to ICRA 2025; Github page: https://quart-online.github.io</p></details> |
 | **[$π_{0.5}$: a Vision-Language-Action Model with Open-World Generalization](http://arxiv.org/abs/2504.16054v1)** | 2025-04-22 |  |
 | **[Few-Shot Vision-Language Action-Incremental Policy Learning](http://arxiv.org/abs/2504.15517v1)** | 2025-04-22 |  |
-| **[GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](http://arxiv.org/abs/2504.10458v3)** | 2025-04-18 |  |
-| **[MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation](http://arxiv.org/abs/2503.20384v2)** | 2025-04-14 |  |
-| **[ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](http://arxiv.org/abs/2502.05450v2)** | 2025-04-14 |  |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An End-to-End Framework for Optimizing Foot Trajectory and Force in Dry Adhesion Legged Wall-Climbing Robots](http://arxiv.org/abs/2504.19448v2)** | 2025-05-08 |  |
-| **[Fast Whole-Body Strain Regulation in Continuum Robots](http://arxiv.org/abs/2312.06039v3)** | 2025-05-08 |  |
-| **[CottonSim: Development of an autonomous visual-guided robotic cotton-picking system in the Gazebo](http://arxiv.org/abs/2505.05317v1)** | 2025-05-08 | <details><summary>45 pa...</summary><p>45 pages, 15 figures, 4 tables</p></details> |
-| **[Visual Affordances: Enabling Robots to Understand Object Functionality](http://arxiv.org/abs/2505.05074v1)** | 2025-05-08 | <details><summary>24 pa...</summary><p>24 pages, 12 figures, 10 tables. Project website at https://apicis.github.io/aff-survey/</p></details> |
-| **[FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment](http://arxiv.org/abs/2504.08603v2)** | 2025-05-08 | 11 pages, 5 figures |
-| **[CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations](http://arxiv.org/abs/2505.04999v1)** | 2025-05-08 | <details><summary>Laten...</summary><p>Latent Action Models, Self-supervised Pretraining, Learning from Videos</p></details> |
-| **[SatAOI: Delimitating Area of Interest for Swing-Arm Troweling Robot for Construction](http://arxiv.org/abs/2505.04871v1)** | 2025-05-08 |  |
-| **[FieldNet: Efficient Real-Time Shadow Removal for Enhanced Vision in Field Robotics](http://arxiv.org/abs/2403.08142v2)** | 2025-05-08 | <details><summary>22 pa...</summary><p>22 pages, 9 figures, 8 tables. Published at Expert Systems with Applications</p></details> |
-| **[Simplification of Robotic System Model Analysis by Petri Net Meta-Model Property Transfer](http://arxiv.org/abs/2407.06454v4)** | 2025-05-07 | 16 pages |
-| **[Fitts' List Revisited: An Empirical Study on Function Allocation in a Two-Agent Physical Human-Robot Collaborative Position/Force Task](http://arxiv.org/abs/2505.04722v1)** | 2025-05-07 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, under review for publication in IEEE Robotics and Automation Letters (RA-L)</p></details> |
-| **[Stow: Robotic Packing of Items into Fabric Pods](http://arxiv.org/abs/2505.04572v1)** | 2025-05-07 |  |
-| **[Accelerating Audio Research with Robotic Dummy Heads](http://arxiv.org/abs/2505.04548v1)** | 2025-05-07 | WASPAA 2025 |
-| **[Model-Based AI planning and Execution Systems for Robotics](http://arxiv.org/abs/2505.04493v1)** | 2025-05-07 |  |
-| **[Estimating Dynamic Soft Continuum Robot States From Boundaries](http://arxiv.org/abs/2505.04491v1)** | 2025-05-07 |  |
-| **[Multi-Robot Motion Planning with Diffusion Models](http://arxiv.org/abs/2410.03072v2)** | 2025-05-07 | <details><summary>The f...</summary><p>The first three authors contributed equally to this work. Published at ICLR 2025</p></details> |
+| **[Learning-based adaption of robotic friction models](http://arxiv.org/abs/2310.16688v2)** | 2025-05-09 |  |
+| **[Parameter-Free Segmentation of Robot Movements with Cross-Correlation Using Different Similarity Metrics](http://arxiv.org/abs/2505.06100v1)** | 2025-05-09 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. Accepted to UR 2025. Code available at https://github.com/PeARL-robotics/PFCS</p></details> |
+| **[Robot Learning Using Multi-Coordinate Elastic Maps](http://arxiv.org/abs/2505.06092v1)** | 2025-05-09 | <details><summary>7 pag...</summary><p>7 pages, 6 figures. Accepted to UR 2025. Code available at: https://github.com/brenhertel/MC-Elmap, Accompanying video at: https://youtu.be/KU-ldkTa9UE</p></details> |
+| **[3D Hand-Eye Calibration for Collaborative Robot Arm: Look at Robot Base Once](http://arxiv.org/abs/2504.21619v2)** | 2025-05-09 | updated |
+| **[Adaptive Robot Localization with Ultra-wideband Novelty Detection](http://arxiv.org/abs/2505.05903v1)** | 2025-05-09 |  |
+| **[A Learning Framework for Diverse Legged Robot Locomotion Using Barrier-Based Style Rewards](http://arxiv.org/abs/2409.15780v4)** | 2025-05-09 | <details><summary>7 pag...</summary><p>7 pages, Videos at https://youtu.be/JV2_HfTlOKI, IEEE International Conference on Robotics and Automation (ICRA) 2025</p></details> |
+| **[Augmented Body Communicator: Enhancing daily body expression for people with upper limb limitations through LLM and a robotic arm](http://arxiv.org/abs/2505.05832v1)** | 2025-05-09 |  |
+| **[Oh F**k! How Do People Feel about Robots that Leverage Profanity?](http://arxiv.org/abs/2505.05831v1)** | 2025-05-09 | <details><summary>Under...</summary><p>Under review for the 2025 IEEE RO-MAN Conference</p></details> |
+| **[Unsupervised Anomaly Detection for Autonomous Robots via Mahalanobis SVDD with Audio-IMU Fusion](http://arxiv.org/abs/2505.05811v1)** | 2025-05-09 |  |
+| **[Human-Robot Collaboration for the Remote Control of Mobile Humanoid Robots with Torso-Arm Coordination](http://arxiv.org/abs/2505.05773v1)** | 2025-05-09 | <details><summary>This ...</summary><p>This work has been accepted for publication in 2025 IEEE International Conference on Robotics and Automation (ICRA 2025). The final published version will be available via IEEE Xplore</p></details> |
+| **[Multi-Agent Systems for Robotic Autonomy with LLMs](http://arxiv.org/abs/2505.05762v1)** | 2025-05-09 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables, submitted for publication</p></details> |
+| **[Towards Embodiment Scaling Laws in Robot Locomotion](http://arxiv.org/abs/2505.05753v1)** | 2025-05-09 | <details><summary>32 pa...</summary><p>32 pages. Project website: https://embodiment-scaling-laws.github.io/</p></details> |
+| **[Physics-informed Temporal Difference Metric Learning for Robot Motion Planning](http://arxiv.org/abs/2505.05691v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
+| **[Open-Source, Cost-Aware Kinematically Feasible Planning for Mobile and Surface Robotics](http://arxiv.org/abs/2401.13078v2)** | 2025-05-08 |  |
+| **[Zippy: The smallest power-autonomous bipedal robot](http://arxiv.org/abs/2505.05686v1)** | 2025-05-08 |  |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Demystifying Diffusion Policies: Action Memorization and Simple Lookup Table Alternatives](http://arxiv.org/abs/2505.05787v1)** | 2025-05-09 |  |
 | **[Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models](http://arxiv.org/abs/2503.01876v2)** | 2025-05-08 |  |
 | **[Close-Fitting Dressing Assistance Based on State Estimation of Feet and Garments with Semantic-based Visual Attention](http://arxiv.org/abs/2505.03400v1)** | 2025-05-06 |  |
 | **[ToMCAT: Theory-of-Mind for Cooperative Agents in Teams via Multiagent Diffusion Policies](http://arxiv.org/abs/2502.18438v2)** | 2025-05-06 | <details><summary>Appea...</summary><p>Appears in Proc. of the Adaptive and Learning Agents Workshop (ALA 2025), ala-workshop.github.io</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Enhancing Exploration with Diffusion Policies in Hybrid Off-Policy RL: Application to Non-Prehensile Manipulation](http://arxiv.org/abs/2411.14913v2)** | 2025-04-25 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters (RA-L)</p></details> |
 | **[Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation](http://arxiv.org/abs/2503.02881v3)** | 2025-04-23 | <details><summary>Accep...</summary><p>Accepted to RSS 2025. Project page: https://reactive-diffusion-policy.github.io</p></details> |
 | **[Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction](http://arxiv.org/abs/2504.14588v1)** | 2025-04-20 | Accepted by CVPR2025 |
-| **[The Pitfalls of Imitation Learning when Actions are Continuous](http://arxiv.org/abs/2503.09722v3)** | 2025-04-15 | <details><summary>98 pa...</summary><p>98 pages, 2 figures, updated proof sketch</p></details> |
 
