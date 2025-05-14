@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 13, 2025
+title: Latest 15 Papers - May 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,11 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation](http://arxiv.org/abs/2505.08548v1)** | 2025-05-13 | Early version |
+| **[TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](http://arxiv.org/abs/2409.12514v5)** | 2025-05-13 | add more citations |
+| **[DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](http://arxiv.org/abs/2502.05855v2)** | 2025-05-13 | <details><summary>The w...</summary><p>The webpage is at https://dex-vla.github.io/</p></details> |
+| **[UAV-VLA: Vision-Language-Action System for Large Scale Aerial Mission Generation](http://arxiv.org/abs/2501.05014v2)** | 2025-05-13 | HRI 2025 |
+| **[Training Strategies for Efficient Embodied Reasoning](http://arxiv.org/abs/2505.08243v1)** | 2025-05-13 |  |
 | **[Pixel Motion as Universal Representation for Robot Control](http://arxiv.org/abs/2505.07817v1)** | 2025-05-12 |  |
 | **[ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning](http://arxiv.org/abs/2505.07395v1)** | 2025-05-12 |  |
 | **[HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation](http://arxiv.org/abs/2502.05485v4)** | 2025-05-10 | <details><summary>updat...</summary><p>update related work and results on VQA benchmarks</p></details> |
@@ -36,34 +41,34 @@ labels: documentation
 | **[Benchmarking Vision, Language, & Action Models in Procedurally Generated, Open Ended Action Environments](http://arxiv.org/abs/2505.05540v1)** | 2025-05-08 | 16 pages, 26 figures |
 | **[Vision-Language-Action Models: Concepts, Progress, Applications and Challenges](http://arxiv.org/abs/2505.04769v1)** | 2025-05-07 | <details><summary>36 pa...</summary><p>36 pages, 18 Figures, 4 Tables</p></details> |
 | **[OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation](http://arxiv.org/abs/2505.03912v1)** | 2025-05-06 |  |
-| **[Task Reconstruction and Extrapolation for $π_0$ using Text Latent](http://arxiv.org/abs/2505.03500v1)** | 2025-05-06 |  |
-| **[GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data](http://arxiv.org/abs/2505.03233v1)** | 2025-05-06 |  |
-| **[Automated Data Curation Using GPS & NLP to Generate Instruction-Action Pairs for Autonomous Vehicle Vision-Language Navigation Datasets](http://arxiv.org/abs/2505.03174v1)** | 2025-05-06 |  |
-| **[CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation](http://arxiv.org/abs/2505.02166v1)** | 2025-05-04 | CVPR 2025 |
-| **[Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions](http://arxiv.org/abs/2505.02152v1)** | 2025-05-04 |  |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Pixel Motion as Universal Representation for Robot Control](http://arxiv.org/abs/2505.07817v1)** | 2025-05-12 |  |
-| **[DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies](http://arxiv.org/abs/2505.07813v1)** | 2025-05-12 | <details><summary>In RS...</summary><p>In RSS 2025. Website at https://dexwild.github.io</p></details> |
-| **[AcoustoBots: A swarm of robots for acoustophoretic multimodal interactions](http://arxiv.org/abs/2505.07808v1)** | 2025-05-12 |  |
-| **[Privacy Risks of Robot Vision: A User Study on Image Modalities and Resolution](http://arxiv.org/abs/2505.07766v1)** | 2025-05-12 |  |
-| **[Hybrid Control Strategies for Safe and Adaptive Robot-Assisted Dressing](http://arxiv.org/abs/2505.07710v1)** | 2025-05-12 |  |
-| **[Intuitive Human-Robot Interfaces Leveraging on Autonomy Features for the Control of Highly-redundant Robots](http://arxiv.org/abs/2505.07668v1)** | 2025-05-12 |  |
-| **[ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow](http://arxiv.org/abs/2505.01288v2)** | 2025-05-12 |  |
-| **[Heterogeneous Multi-robot Task Allocation for Long-Endurance Missions in Dynamic Scenarios](http://arxiv.org/abs/2411.02062v2)** | 2025-05-12 | 20 pages, 10 figures |
-| **[TPT-Bench: A Large-Scale, Long-Term and Robot-Egocentric Dataset for Benchmarking Target Person Tracking](http://arxiv.org/abs/2505.07446v1)** | 2025-05-12 | <details><summary>Under...</summary><p>Under review. web: https://medlartea.github.io/tpt-bench/</p></details> |
-| **[Rethinking Latent Redundancy in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation](http://arxiv.org/abs/2502.02853v4)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
-| **[LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics](http://arxiv.org/abs/2505.07417v1)** | 2025-05-12 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, conference</p></details> |
-| **[ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning](http://arxiv.org/abs/2505.07395v1)** | 2025-05-12 |  |
-| **[Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments](http://arxiv.org/abs/2504.11901v3)** | 2025-05-12 | <details><summary>Causa...</summary><p>Causal Discovery and Inference - Robot Autonomy - Human-Robot Spatial Interaction - Decision-Making</p></details> |
-| **[Stiffness-based Analytic Centre Method for Cable-Driven Parallel Robots](http://arxiv.org/abs/2505.07348v1)** | 2025-05-12 | Conference paper |
-| **[Autonomous Robotic Pruning in Orchards and Vineyards: a Review](http://arxiv.org/abs/2505.07318v1)** | 2025-05-12 |  |
+| **[A Social Robot with Inner Speech for Dietary Guidance](http://arxiv.org/abs/2505.08664v1)** | 2025-05-13 |  |
+| **[Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness](http://arxiv.org/abs/2505.08627v1)** | 2025-05-13 |  |
+| **[Beyond Predefined Actions: Integrating Behavior Trees and Dynamic Movement Primitives for Robot Learning from Demonstration](http://arxiv.org/abs/2505.08625v1)** | 2025-05-13 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, accepted (not yet published) at IAS19 2025 conference</p></details> |
+| **[From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation](http://arxiv.org/abs/2505.08548v1)** | 2025-05-13 | Early version |
+| **[Achieving Scalable Robot Autonomy via neurosymbolic planning using lightweight local LLM](http://arxiv.org/abs/2505.08492v1)** | 2025-05-13 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 4 tables, accepted at IAS 2025</p></details> |
+| **[TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](http://arxiv.org/abs/2409.12514v5)** | 2025-05-13 | add more citations |
+| **[DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](http://arxiv.org/abs/2502.05855v2)** | 2025-05-13 | <details><summary>The w...</summary><p>The webpage is at https://dex-vla.github.io/</p></details> |
+| **[HMR-ODTA: Online Diverse Task Allocation for a Team of Heterogeneous Mobile Robots](http://arxiv.org/abs/2505.08419v1)** | 2025-05-13 |  |
+| **[ORACLE-Grasp: Zero-Shot Task-Oriented Robotic Grasping using Large Multimodal Models](http://arxiv.org/abs/2505.08417v1)** | 2025-05-13 |  |
+| **[Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression](http://arxiv.org/abs/2412.03293v2)** | 2025-05-13 | <details><summary>The p...</summary><p>The project page is available at: http://diffusion-vla.github.io</p></details> |
+| **[Adaptive Diffusion Policy Optimization for Robotic Manipulation](http://arxiv.org/abs/2505.08376v1)** | 2025-05-13 |  |
+| **[MA-ROESL: Motion-aware Rapid Reward Optimization for Efficient Robot Skill Learning from Single Videos](http://arxiv.org/abs/2505.08367v1)** | 2025-05-13 |  |
+| **[ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Using Lightweight Polygon Maps](http://arxiv.org/abs/2409.14723v2)** | 2025-05-13 | 20 pages, 21 figures |
+| **[Fast Contact Detection via Fusion of Joint and Inertial Sensors for Parallel Robots in Human-Robot Collaboration](http://arxiv.org/abs/2505.08334v1)** | 2025-05-13 | <details><summary>Prepr...</summary><p>Preprint of a publication accepted for IEEE Robotics and Automation Letters</p></details> |
+| **[SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments](http://arxiv.org/abs/2505.08230v1)** | 2025-05-13 | 8 pages, 10 figures |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance](http://arxiv.org/abs/2505.08712v1)** | 2025-05-13 | 14 pages, 6 figures |
+| **[Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness](http://arxiv.org/abs/2505.08627v1)** | 2025-05-13 |  |
+| **[TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](http://arxiv.org/abs/2409.12514v5)** | 2025-05-13 | add more citations |
+| **[DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](http://arxiv.org/abs/2502.05855v2)** | 2025-05-13 | <details><summary>The w...</summary><p>The webpage is at https://dex-vla.github.io/</p></details> |
+| **[Adaptive Diffusion Policy Optimization for Robotic Manipulation](http://arxiv.org/abs/2505.08376v1)** | 2025-05-13 |  |
 | **[H$^{\mathbf{3}}$DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning](http://arxiv.org/abs/2505.07819v1)** | 2025-05-12 |  |
 | **[X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real](http://arxiv.org/abs/2505.07096v1)** | 2025-05-11 |  |
 | **[Demystifying Diffusion Policies: Action Memorization and Simple Lookup Table Alternatives](http://arxiv.org/abs/2505.05787v1)** | 2025-05-09 |  |
@@ -74,9 +79,4 @@ labels: documentation
 | **[RoboBERT: An End-to-end Multimodal Robotic Manipulation Model](http://arxiv.org/abs/2502.07837v2)** | 2025-05-01 |  |
 | **[PRISM-DP: Spatial Pose-based Observations for Diffusion-Policies via Segmentation, Mesh Generation, and Pose Tracking](http://arxiv.org/abs/2504.20359v2)** | 2025-05-01 |  |
 | **[Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success](http://arxiv.org/abs/2502.19645v2)** | 2025-04-28 | <details><summary>Accep...</summary><p>Accepted to Robotics: Science and Systems (RSS) 2025. Project website: https://openvla-oft.github.io/</p></details> |
-| **[PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies](http://arxiv.org/abs/2504.19341v1)** | 2025-04-27 | <details><summary>Nomin...</summary><p>Nominated for the best paper award at ICRA 2025</p></details> |
-| **[You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations](http://arxiv.org/abs/2501.14208v2)** | 2025-04-27 | accepted by RSS 2025 |
-| **[DDAT: Diffusion Policies Enforcing Dynamically Admissible Robot Trajectories](http://arxiv.org/abs/2502.15043v2)** | 2025-04-26 |  |
-| **[Dynamic Rank Adjustment in Diffusion Policies for Efficient and Flexible Training](http://arxiv.org/abs/2502.03822v3)** | 2025-04-26 | <details><summary>Accep...</summary><p>Accepted to Robotics: Science and Systems (RSS) 2025</p></details> |
-| **[Enhancing Exploration with Diffusion Policies in Hybrid Off-Policy RL: Application to Non-Prehensile Manipulation](http://arxiv.org/abs/2411.14913v2)** | 2025-04-25 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters (RA-L)</p></details> |
 
