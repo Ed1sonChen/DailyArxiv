@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2025
+title: Latest 15 Papers - May 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,9 +7,14 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts](http://arxiv.org/abs/2505.17476v1)** | 2025-05-23 |  |
+| **[Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents](http://arxiv.org/abs/2505.14418v2)** | 2025-05-23 | <details><summary>25 pa...</summary><p>25 pages, 10 figures, 12 Tables</p></details> |
+| **[FullFront: Benchmarking MLLMs Across the Full Front-End Engineering Workflow](http://arxiv.org/abs/2505.17399v1)** | 2025-05-23 |  |
+| **[STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?](http://arxiv.org/abs/2503.23765v4)** | 2025-05-22 |  |
 | **[GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning](http://arxiv.org/abs/2505.17022v1)** | 2025-05-22 | <details><summary>Githu...</summary><p>Github page refer to: https://github.com/gogoduan/GoT-R1</p></details> |
 | **[SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward](http://arxiv.org/abs/2505.17018v1)** | 2025-05-22 | <details><summary>Proje...</summary><p>Project page:https://github.com/kxfan2002/SophiaVL-R1</p></details> |
 | **[Backdoor Cleaning without External Guidance in MLLM Fine-tuning](http://arxiv.org/abs/2505.16916v1)** | 2025-05-22 |  |
+| **[OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning](http://arxiv.org/abs/2505.17163v1)** | 2025-05-22 |  |
 | **[MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents](http://arxiv.org/abs/2410.03450v2)** | 2025-05-22 | ICLR 2025 |
 | **[Seeing Far and Clearly: Mitigating Hallucinations in MLLMs with Attention Causal Decoding](http://arxiv.org/abs/2505.16652v1)** | 2025-05-22 | <details><summary>Clari...</summary><p>Clarification note for the CVPR 2025 paper (FarSight). Prepared by a subset of the original authors; remaining co-authors are acknowledged in the text</p></details> |
 | **[An Empirical Study on Configuring In-Context Learning Demonstrations for Unleashing MLLMs' Sentimental Perception Capability](http://arxiv.org/abs/2505.16193v1)** | 2025-05-22 |  |
@@ -17,15 +22,11 @@ labels: documentation
 | **[GRIT: Teaching MLLMs to Think with Images](http://arxiv.org/abs/2505.15879v1)** | 2025-05-21 |  |
 | **[BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation](http://arxiv.org/abs/2505.12620v2)** | 2025-05-21 |  |
 | **[SpaceR: Reinforcing MLLMs in Video Spatial Reasoning](http://arxiv.org/abs/2504.01805v2)** | 2025-05-21 |  |
-| **[Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning](http://arxiv.org/abs/2505.15154v1)** | 2025-05-21 |  |
-| **[Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2504.21277v2)** | 2025-05-21 |  |
-| **[Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents](http://arxiv.org/abs/2505.14418v1)** | 2025-05-20 | <details><summary>25 pa...</summary><p>25 pages, 10 figures, 12 Tables</p></details> |
-| **[ViC-Bench: Benchmarking Visual-Interleaved Chain-of-Thought Capability in MLLMs with Free-Style Intermediate State Representations](http://arxiv.org/abs/2505.14404v1)** | 2025-05-20 |  |
-| **[TCC-Bench: Benchmarking the Traditional Chinese Culture Understanding Capabilities of MLLMs](http://arxiv.org/abs/2505.11275v3)** | 2025-05-20 | Preprint |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ScanBot: Towards Intelligent Surface Scanning in Embodied Robotic Systems](http://arxiv.org/abs/2505.17295v1)** | 2025-05-22 | 17 pages, 11 figures |
 | **[Interactive Post-Training for Vision-Language-Action Models](http://arxiv.org/abs/2505.17016v1)** | 2025-05-22 | <details><summary>Proje...</summary><p>Project page: https://ariostgx.github.io/ript_vla/</p></details> |
 | **[Perceptual Quality Assessment for Embodied AI](http://arxiv.org/abs/2505.16815v1)** | 2025-05-22 |  |
 | **[InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](http://arxiv.org/abs/2505.13888v2)** | 2025-05-22 |  |
@@ -40,30 +41,30 @@ labels: documentation
 | **[Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation](http://arxiv.org/abs/2505.15098v1)** | 2025-05-21 |  |
 | **[ReVLA: Reverting Visual Domain Limitation of Robotic Foundation Models](http://arxiv.org/abs/2409.15250v3)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted at ICRA-2025, Atlanta</p></details> |
 | **[AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory](http://arxiv.org/abs/2505.14030v1)** | 2025-05-20 |  |
-| **[RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction](http://arxiv.org/abs/2505.12224v2)** | 2025-05-20 |  |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rotational Multi-material 3D Printing of Soft Robotic Matter with Asymmetrical Embedded Pneumatics](http://arxiv.org/abs/2505.18095v1)** | 2025-05-23 | <details><summary>33 pa...</summary><p>33 pages, 5 main text figures, 4 supporting text figures, 10 movies (movie repository link - https://drive.google.com/drive/folders/11SKVM-4viqbc-MqxsXlotrn01nusKMkY?usp=sharing)</p></details> |
+| **[ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Using Lightweight Polygon Maps](http://arxiv.org/abs/2409.14723v3)** | 2025-05-23 | 20 pages, 21 figures |
+| **[Is Single-View Mesh Reconstruction Ready for Robotics?](http://arxiv.org/abs/2505.17966v1)** | 2025-05-23 | 20 pages, 17 figures |
+| **[Embodied intelligent industrial robotics: Concepts and techniques](http://arxiv.org/abs/2505.09305v3)** | 2025-05-23 | <details><summary>62 pa...</summary><p>62 pages, 11 figures. The associated project can be found at https://github.com/jackyzengl/EIIR</p></details> |
+| **[Koopman Operators in Robot Learning](http://arxiv.org/abs/2408.04200v2)** | 2025-05-23 | Submitted to TRO |
+| **[CU-Multi: A Dataset for Multi-Robot Data Association](http://arxiv.org/abs/2505.17576v1)** | 2025-05-23 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 4 tables</p></details> |
+| **[DTRT: Enhancing Human Intent Estimation and Role Allocation for Physical Human-Robot Collaboration](http://arxiv.org/abs/2505.17490v1)** | 2025-05-23 |  |
+| **[Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets](http://arxiv.org/abs/2504.02792v3)** | 2025-05-23 |  |
+| **[ScanBot: Towards Intelligent Surface Scanning in Embodied Robotic Systems](http://arxiv.org/abs/2505.17295v1)** | 2025-05-22 | 17 pages, 11 figures |
 | **[CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning](http://arxiv.org/abs/2505.17006v1)** | 2025-05-22 | 18 pages, 7 figures |
 | **[MEbots: Integrating a RISC-V Virtual Platform with a Robotic Simulator for Energy-aware Design](http://arxiv.org/abs/2505.16682v1)** | 2025-05-22 |  |
 | **[Safe Uncertainty-Aware Learning of Robotic Suturing](http://arxiv.org/abs/2505.16596v1)** | 2025-05-22 |  |
 | **[Robo-Platform: A Robotic System for Recording Sensors and Controlling Robots](http://arxiv.org/abs/2409.16595v2)** | 2025-05-22 | <details><summary>Proje...</summary><p>Project repository: https://github.com/m-dayani/robo-platform Youtube Video: https://youtu.be/BTQ4yLB1bak Dataset: https://drive.google.com/drive/folders/1OZqdA1xa-SyJ64qL_TibqhtwhR1fWWrx?usp=sharing</p></details> |
 | **[Unified Multi-Rate Model Predictive Control for a Jet-Powered Humanoid Robot](http://arxiv.org/abs/2505.16478v1)** | 2025-05-22 | 8 pages, 6 figures |
 | **[Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration](http://arxiv.org/abs/2412.18292v4)** | 2025-05-22 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, Extended Version of accepted AAAI 2025 Paper</p></details> |
-| **[SpineWave: Harnessing Fish Rigid-Flexible Spinal Kinematics for Enhancing Biomimetic Robotic Locomotion](http://arxiv.org/abs/2505.16453v1)** | 2025-05-22 |  |
-| **[Policy Contrastive Decoding for Robotic Foundation Models](http://arxiv.org/abs/2505.13255v2)** | 2025-05-22 |  |
-| **[SEM: Enhancing Spatial Understanding for Robust Robot Manipulation](http://arxiv.org/abs/2505.16196v1)** | 2025-05-22 |  |
-| **[Strengthening Generative Robot Policies through Predictive World Modeling](http://arxiv.org/abs/2502.00622v2)** | 2025-05-22 | <details><summary>Websi...</summary><p>Website: https://computationalrobotics.seas.harvard.edu/GPC</p></details> |
-| **[Event-based Reconfiguration Control for Time-varying Formation of Robot Swarms in Narrow Spaces](http://arxiv.org/abs/2505.16087v1)** | 2025-05-22 |  |
-| **[Goal-conditioned dual-action imitation learning for dexterous dual-arm robot manipulation](http://arxiv.org/abs/2203.09749v3)** | 2025-05-21 | <details><summary>19 pa...</summary><p>19 pages, published in Transactions on Robotics (T-RO)</p></details> |
-| **[Gaze-based dual resolution deep imitation learning for high-precision dexterous robot manipulation](http://arxiv.org/abs/2102.01295v4)** | 2025-05-21 | <details><summary>8 pag...</summary><p>8 pages. The supplementary video can be found at: https://www.youtube.com/watch?v=ytpChcFqD5g Published in IEEE Robotics and Automation Letters. Replaced to add video url in the manuscript</p></details> |
-| **[Transformer-based deep imitation learning for dual-arm robot manipulation](http://arxiv.org/abs/2108.00385v3)** | 2025-05-21 | <details><summary>8 pag...</summary><p>8 pages. Accepted in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
-| **[Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios](http://arxiv.org/abs/2505.16055v1)** | 2025-05-21 |  |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic Manipulation of Deformable Objects in 3D: Simulation, Benchmark and Learning Strategy](http://arxiv.org/abs/2505.17434v1)** | 2025-05-23 | 11 pages, |
 | **[3D Equivariant Visuomotor Policy Learning via Spherical Projection](http://arxiv.org/abs/2505.16969v1)** | 2025-05-22 |  |
 | **[Safe Uncertainty-Aware Learning of Robotic Suturing](http://arxiv.org/abs/2505.16596v1)** | 2025-05-22 |  |
 | **[Cascaded Diffusion Models for Neural Motion Planning](http://arxiv.org/abs/2505.15157v1)** | 2025-05-21 | ICRA'25 |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Prior-Guided Diffusion Planning for Offline Reinforcement Learning](http://arxiv.org/abs/2505.10881v1)** | 2025-05-16 |  |
 | **[NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance](http://arxiv.org/abs/2505.08712v2)** | 2025-05-15 | <details><summary>Proje...</summary><p>Project Page: https://wzcai99.github.io/navigation-diffusion-policy.github.io/</p></details> |
 | **[Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps](http://arxiv.org/abs/2505.10482v1)** | 2025-05-15 | <details><summary>9 pag...</summary><p>9 pages for main text, 23 pages in total, submitted to Neurips, 13 figures</p></details> |
-| **[X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real](http://arxiv.org/abs/2505.07096v2)** | 2025-05-15 |  |
 
