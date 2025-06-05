@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 04, 2025
+title: Latest 15 Papers - June 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vision Remember: Alleviating Visual Forgetting in Efficient MLLM with Vision Feature Resample](http://arxiv.org/abs/2506.03928v1)** | 2025-06-04 |  |
 | **[Scaling and Beyond: Advancing Spatial Reasoning in MLLMs Requires New Recipes](http://arxiv.org/abs/2504.15037v2)** | 2025-06-03 |  |
 | **[MLLMs Need 3D-Aware Representation Supervision for Scene Understanding](http://arxiv.org/abs/2506.01946v1)** | 2025-06-02 |  |
 | **[MoDA: Modulation Adapter for Fine-Grained Visual Grounding in Instructional MLLMs](http://arxiv.org/abs/2506.01850v1)** | 2025-06-02 |  |
@@ -20,12 +21,13 @@ labels: documentation
 | **[anyECG-chat: A Generalist ECG-MLLM for Flexible ECG Input and Multi-Task Understanding](http://arxiv.org/abs/2506.00942v1)** | 2025-06-01 |  |
 | **[Affordance Benchmark for MLLMs](http://arxiv.org/abs/2506.00893v1)** | 2025-06-01 |  |
 | **[Improve MLLM Benchmark Efficiency through Interview](http://arxiv.org/abs/2506.00883v1)** | 2025-06-01 |  |
-| **[HEIE: MLLM-Based Hierarchical Explainable AIGC Image Implausibility Evaluator](http://arxiv.org/abs/2411.17261v2)** | 2025-05-30 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
-| **[Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors](http://arxiv.org/abs/2505.24625v1)** | 2025-05-30 |  |
+| **[HueManity: Probing Fine-Grained Visual Perception in MLLMs](http://arxiv.org/abs/2506.03194v1)** | 2025-05-31 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SwitchVLA: Execution-Aware Task Switching for Vision-Language-Action Models](http://arxiv.org/abs/2506.03574v1)** | 2025-06-04 | <details><summary>Websi...</summary><p>Website: https://switchvla.github.io</p></details> |
+| **[Adversarial Attacks on Robotic Vision Language Action Models](http://arxiv.org/abs/2506.03350v1)** | 2025-06-03 |  |
 | **[Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning](http://arxiv.org/abs/2506.01953v1)** | 2025-06-02 |  |
 | **[SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics](http://arxiv.org/abs/2506.01844v1)** | 2025-06-02 | <details><summary>24 pa...</summary><p>24 pages. Code and assets: https://github.com/huggingface/lerobot</p></details> |
 | **[Survey on Vision-Language-Action Models](http://arxiv.org/abs/2502.06851v3)** | 2025-06-02 | <details><summary>arXiv...</summary><p>arXiv admin note: This submission has been withdrawn due to serious violation of arXiv policies for acceptable submissions</p></details> |
@@ -39,27 +41,25 @@ labels: documentation
 | **[Towards a Generalizable Bimanual Foundation Policy via Flow-based Video Prediction](http://arxiv.org/abs/2505.24156v1)** | 2025-05-30 |  |
 | **[ChatVLA-2: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge](http://arxiv.org/abs/2505.21906v2)** | 2025-05-29 | <details><summary>Proje...</summary><p>Project page: https://chatvla-2.github.io/</p></details> |
 | **[Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models](http://arxiv.org/abs/2505.23757v1)** | 2025-05-29 | <details><summary>Proje...</summary><p>Project page: https://github.com/ahydchh/Impromptu-VLA</p></details> |
-| **[Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better](http://arxiv.org/abs/2505.23705v1)** | 2025-05-29 |  |
-| **[Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents](http://arxiv.org/abs/2505.23450v1)** | 2025-05-29 | 18 pages, 8 figures |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Object-centric 3D Motion Field for Robot Learning from Human Videos](http://arxiv.org/abs/2506.04227v1)** | 2025-06-04 | <details><summary>Proje...</summary><p>Project: https://zhaohengyin.github.io/3DMF</p></details> |
+| **[Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data](http://arxiv.org/abs/2506.04120v1)** | 2025-06-04 |  |
+| **[STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization](http://arxiv.org/abs/2506.03863v1)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted by ICML 2025 Spotlight</p></details> |
+| **[SEM: Enhancing Spatial Understanding for Robust Robot Manipulation](http://arxiv.org/abs/2505.16196v2)** | 2025-06-04 |  |
+| **[Understanding Physical Properties of Unseen Deformable Objects by Leveraging Large Language Models and Robot Actions](http://arxiv.org/abs/2506.03760v1)** | 2025-06-04 |  |
+| **[Diffusion-VLA: Generalizable and Interpretable Robot Foundation Model via Self-Generated Reasoning](http://arxiv.org/abs/2412.03293v3)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted by ICML 2025. The project page is available at: http://diffusion-vla.github.io</p></details> |
+| **[Multi Layered Autonomy and AI Ecologies in Robotic Art Installations](http://arxiv.org/abs/2506.02606v2)** | 2025-06-04 |  |
+| **[From Virtual Agents to Robot Teams: A Multi-Robot Framework Evaluation in High-Stakes Healthcare Context](http://arxiv.org/abs/2506.03546v1)** | 2025-06-04 |  |
+| **[EgoZero: Robot Learning from Smart Glasses](http://arxiv.org/abs/2505.20290v2)** | 2025-06-03 |  |
+| **[Design of Trimmed Helicoid Soft-Rigid Hybrid Robots](http://arxiv.org/abs/2506.03380v1)** | 2025-06-03 | <details><summary>7 pgs...</summary><p>7 pgs. 5 figs. Presented at IEEE Robosoft 2025</p></details> |
+| **[Adversarial Attacks on Robotic Vision Language Action Models](http://arxiv.org/abs/2506.03350v1)** | 2025-06-03 |  |
+| **[Collision- and Reachability-Aware Multi-Robot Control with Grounded LLM Planners](http://arxiv.org/abs/2505.20573v2)** | 2025-06-03 |  |
 | **[Beacon-Based Feedback Control for Parking an Active-Joint Center-Articulated Mobile Robot](http://arxiv.org/abs/2503.14727v2)** | 2025-06-03 | <details><summary>IEEE ...</summary><p>IEEE Conference - CCECE 2010</p></details> |
 | **[ORV: 4D Occupancy-centric Robot Video Generation](http://arxiv.org/abs/2506.03079v1)** | 2025-06-03 | <details><summary>Proje...</summary><p>Project page: https://orangesodahub.github.io/ORV/ ; Code: https://github.com/OrangeSodahub/ORV</p></details> |
 | **[HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting](http://arxiv.org/abs/2501.14147v2)** | 2025-06-03 |  |
-| **[EDEN: Entorhinal Driven Egocentric Navigation Toward Robotic Deployment](http://arxiv.org/abs/2506.03046v1)** | 2025-06-03 |  |
-| **[High-speed control and navigation for quadrupedal robots on complex and discrete terrain](http://arxiv.org/abs/2506.02835v1)** | 2025-06-03 |  |
-| **[Continual Learning and Lifting of Koopman Dynamics for Linear Control of Legged Robots](http://arxiv.org/abs/2411.14321v3)** | 2025-06-03 |  |
-| **[FF-SRL: High Performance GPU-Based Surgical Simulation For Robot Learning](http://arxiv.org/abs/2503.18616v2)** | 2025-06-03 |  |
-| **[HORUS: A Mixed Reality Interface for Managing Teams of Mobile Robots](http://arxiv.org/abs/2506.02622v1)** | 2025-06-03 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, conference paper submitted to IROS 2025</p></details> |
-| **[Rodrigues Network for Learning Robot Actions](http://arxiv.org/abs/2506.02618v1)** | 2025-06-03 |  |
-| **[Multi Layered Autonomy and AI Ecologies in Robotic Art Installations](http://arxiv.org/abs/2506.02606v1)** | 2025-06-03 |  |
-| **[Sign Language: Towards Sign Understanding for Robot Autonomy](http://arxiv.org/abs/2506.02556v1)** | 2025-06-03 |  |
-| **[Exploiting Local Observations for Robust Robot Learning](http://arxiv.org/abs/2309.14792v3)** | 2025-06-03 | 10 pages, 9 figures |
-| **[VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion](http://arxiv.org/abs/2502.01536v3)** | 2025-06-03 | <details><summary>Proje...</summary><p>Project Page: https://vr-robo.github.io/</p></details> |
-| **[SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation](http://arxiv.org/abs/2501.18564v3)** | 2025-06-03 | <details><summary>Inclu...</summary><p>Including Appendix, Project Page: https://sam2act.github.io</p></details> |
-| **[Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent](http://arxiv.org/abs/2506.02373v1)** | 2025-06-03 |  |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
