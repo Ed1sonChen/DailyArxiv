@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 15, 2025
+title: Latest 15 Papers - June 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,10 +7,12 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[New Dataset and Methods for Fine-Grained Compositional Referring Expression Comprehension via Specialist-MLLM Collaboration](http://arxiv.org/abs/2502.20104v3)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted by TPAMI 2025</p></details> |
+| **[Manager: Aggregating Insights from Unimodal Experts in Two-Tower VLMs and MLLMs](http://arxiv.org/abs/2506.11515v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). June 2025. DOI: https://doi.org/10.1109/TCSVT.2025.3578266</p></details> |
+| **[Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning](http://arxiv.org/abs/2506.10521v2)** | 2025-06-13 | 82 pages |
 | **[Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs](http://arxiv.org/abs/2506.10967v1)** | 2025-06-12 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, code: https://github.com/Theia-4869/CDPruner, project page: https://theia-4869.github.io/CDPruner</p></details> |
 | **[Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?](http://arxiv.org/abs/2506.10912v1)** | 2025-06-12 |  |
 | **[ViC-Bench: Benchmarking Visual-Interleaved Chain-of-Thought Capability in MLLMs with Free-Style Intermediate State Representations](http://arxiv.org/abs/2505.14404v2)** | 2025-06-12 |  |
-| **[Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning](http://arxiv.org/abs/2506.10521v1)** | 2025-06-12 | 82 pages |
 | **[MLLM-Based UI2Code Automation Guided by UI Layout Information](http://arxiv.org/abs/2506.10376v1)** | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted by the 34th International Symposium on Software Testing and Analysis (ISSTA 2025)</p></details> |
 | **[AD^2-Bench: A Hierarchical CoT Benchmark for MLLM in Autonomous Driving under Adverse Conditions](http://arxiv.org/abs/2506.09557v1)** | 2025-06-11 |  |
 | **[Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs](http://arxiv.org/abs/2506.07045v1)** | 2025-06-08 |  |
@@ -20,13 +22,11 @@ labels: documentation
 | **[Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps](http://arxiv.org/abs/2505.18675v2)** | 2025-06-07 |  |
 | **[Enhancing Robot Safety via MLLM-Based Semantic Interpretation of Failure Data](http://arxiv.org/abs/2506.06570v1)** | 2025-06-06 |  |
 | **[DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation](http://arxiv.org/abs/2506.06251v1)** | 2025-06-06 |  |
-| **[MATP-BENCH: Can MLLM Be a Good Automated Theorem Prover for Multimodal Problems?](http://arxiv.org/abs/2506.06034v1)** | 2025-06-06 | 29 pages |
-| **[Modality-Fair Preference Optimization for Trustworthy MLLM Alignment](http://arxiv.org/abs/2410.15334v2)** | 2025-06-06 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RationalVLA: A Rational Vision-Language-Action Model with Dual System](http://arxiv.org/abs/2506.10826v1)** | 2025-06-12 | 14 pages |
+| **[RationalVLA: A Rational Vision-Language-Action Model with Dual System](http://arxiv.org/abs/2506.10826v2)** | 2025-06-13 | 14 pages |
 | **[Robotic Policy Learning via Human-assisted Action Preference Optimization](http://arxiv.org/abs/2506.07127v2)** | 2025-06-12 |  |
 | **[EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models](http://arxiv.org/abs/2506.10100v1)** | 2025-06-11 |  |
 | **[SAFE: Multitask Failure Detection for Vision-Language-Action Models](http://arxiv.org/abs/2506.09937v1)** | 2025-06-11 | <details><summary>Proje...</summary><p>Project Page: https://vla-safe.github.io/</p></details> |
@@ -45,21 +45,21 @@ labels: documentation
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity](http://arxiv.org/abs/2506.11916v1)** | 2025-06-13 |  |
+| **[A Soft Robotic Module with Pneumatic Actuation and Enhanced Controllability Using a Shape Memory Alloy Wire](http://arxiv.org/abs/2506.05741v2)** | 2025-06-13 |  |
+| **[Extended Hybrid Zero Dynamics for Bipedal Walking of the Knee-less Robot SLIDER](http://arxiv.org/abs/2504.01165v2)** | 2025-06-13 | <details><summary>accep...</summary><p>accepted by CLAWAR 2025</p></details> |
+| **[Autonomous Robotic Radio Source Localization via a Novel Gaussian Mixture Filtering Approach](http://arxiv.org/abs/2503.10349v3)** | 2025-06-13 |  |
+| **[CIRO7.2: A Material Network with Circularity of -7.2 and Reinforcement-Learning-Controlled Robotic Disassembler](http://arxiv.org/abs/2506.11748v1)** | 2025-06-13 | To be submitted |
+| **[Dynamic Collaborative Material Distribution System for Intelligent Robots In Smart Manufacturing](http://arxiv.org/abs/2506.11723v1)** | 2025-06-13 |  |
+| **[Robot Context Protocol (RCP): A Runtime-Agnostic Interface for Agent-Aware Robot Control](http://arxiv.org/abs/2506.11650v1)** | 2025-06-13 |  |
+| **[OV-MAP : Open-Vocabulary Zero-Shot 3D Instance Segmentation Map for Robots](http://arxiv.org/abs/2506.11585v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted at IROS 2024</p></details> |
+| **[Control Architecture and Design for a Multi-robotic Visual Servoing System in Automated Manufacturing Environment](http://arxiv.org/abs/2506.11387v1)** | 2025-06-13 | <details><summary>272 p...</summary><p>272 pages, 171 figures, PhD dissertation, University of California, Davis, 2025. To be published in ProQuest ETD</p></details> |
+| **[Robotic System for Chemical Experiment Automation with Dual Demonstration of End-effector and Jig Operations](http://arxiv.org/abs/2506.11384v1)** | 2025-06-13 |  |
+| **[Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation](http://arxiv.org/abs/2506.11261v1)** | 2025-06-12 |  |
+| **[Learning Multimodal Latent Dynamics for Human-Robot Interaction](http://arxiv.org/abs/2311.16380v2)** | 2025-06-12 | <details><summary>Prepr...</summary><p>Preprint version of paper accepted at IEEE T-RO. Project website: https://sites.google.com/view/mild-hri</p></details> |
 | **[Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop](http://arxiv.org/abs/2506.10968v1)** | 2025-06-12 | <details><summary>Proje...</summary><p>Project page: https://www.eyerobot.net/</p></details> |
 | **[Passivity-Centric Safe Reinforcement Learning for Contact-Rich Robotic Tasks](http://arxiv.org/abs/2503.00287v2)** | 2025-06-12 | revision version |
 | **[Modeling Trust Dynamics in Robot-Assisted Delivery: Impact of Trust Repair Strategies](http://arxiv.org/abs/2506.10884v1)** | 2025-06-12 |  |
-| **[Data-Driven Prediction of Dynamic Interactions Between Robot Appendage and Granular Material](http://arxiv.org/abs/2506.10875v1)** | 2025-06-12 |  |
-| **[Human-Robot Navigation using Event-based Cameras and Reinforcement Learning](http://arxiv.org/abs/2506.10790v1)** | 2025-06-12 | <details><summary>https...</summary><p>https://ibugueno.github.io/hr-navigation-using-event-cameras-and-rl/</p></details> |
-| **[APEX: Action Priors Enable Efficient Exploration for Skill Imitation on Articulated Robots](http://arxiv.org/abs/2505.10022v2)** | 2025-06-12 |  |
-| **[Robotic Policy Learning via Human-assisted Action Preference Optimization](http://arxiv.org/abs/2506.07127v2)** | 2025-06-12 |  |
-| **[To what extent can current French mobile network support agricultural robots?](http://arxiv.org/abs/2505.10044v2)** | 2025-06-12 |  |
-| **[Safety-Ensured Robotic Control Framework for Cutting Task Automation in Endoscopic Submucosal Dissection](http://arxiv.org/abs/2503.08214v2)** | 2025-06-12 | <details><summary>This ...</summary><p>This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2025.3578607</p></details> |
-| **[Help or Hindrance: Understanding the Impact of Robot Communication in Action Teams](http://arxiv.org/abs/2506.08892v2)** | 2025-06-12 | <details><summary>This ...</summary><p>This is the author's original submitted version of the paper accepted to the 2025 IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). \c{opyright} 2025 IEEE. Personal use of this material is permitted. For any other use, please contact IEEE</p></details> |
-| **[Innovative Adaptive Imaged Based Visual Servoing Control of 6 DoFs Industrial Robot Manipulators](http://arxiv.org/abs/2506.10240v1)** | 2025-06-11 | <details><summary>22 pa...</summary><p>22 pages, 13 figures. To appear in: Innovative Adaptive Image-Based Visual Servoing Control of 6 DoFs Industrial Robot Manipulators, IntechOpen, 2024. For published version, see this http URL: https://doi.org/10.5772/intechopen.1004857</p></details> |
-| **[Exploring EEG Responses during Observation of Actions Performed by Human Actor and Humanoid Robot](http://arxiv.org/abs/2506.10170v1)** | 2025-06-11 |  |
-| **[Cybernetic Marionette: Channeling Collective Agency Through a Wearable Robot in a Live Dancer-Robot Duet](http://arxiv.org/abs/2506.10079v1)** | 2025-06-11 |  |
-| **[From Theory to Practice: Advancing Multi-Robot Path Planning Algorithms and Applications](http://arxiv.org/abs/2506.09914v1)** | 2025-06-11 | Ph.D. thesis |
-| **[Aucamp: An Underwater Camera-Based Multi-Robot Platform with Low-Cost, Distributed, and Robust Localization](http://arxiv.org/abs/2506.09876v1)** | 2025-06-11 |  |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
