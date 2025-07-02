@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2025
+title: Latest 15 Papers - July 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs](http://arxiv.org/abs/2506.23940v1)** | 2025-06-30 |  |
+| **[Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors](http://arxiv.org/abs/2505.24625v2)** | 2025-07-01 |  |
+| **[A Dataset for Enhancing MLLMs in Visualization Understanding and Reconstruction](http://arxiv.org/abs/2506.21319v2)** | 2025-07-01 |  |
+| **[Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs](http://arxiv.org/abs/2506.10967v2)** | 2025-07-01 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, code: https://github.com/Theia-4869/CDPruner, project page: https://theia-4869.github.io/CDPruner</p></details> |
+| **[R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning](http://arxiv.org/abs/2506.21980v2)** | 2025-07-01 | 7 pages, 2 figures |
+| **[Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs](http://arxiv.org/abs/2506.23940v2)** | 2025-07-01 |  |
 | **[VAP-Diffusion: Enriching Descriptions with MLLMs for Enhanced Medical Image Generation](http://arxiv.org/abs/2506.23641v1)** | 2025-06-30 |  |
 | **[Visual Position Prompt for MLLM based Visual Grounding](http://arxiv.org/abs/2503.15426v3)** | 2025-06-30 |  |
 | **[MMReason: An Open-Ended Multi-Modal Multi-Step Reasoning Benchmark for MLLMs Toward AGI](http://arxiv.org/abs/2506.23563v1)** | 2025-06-30 | Technical report |
 | **[OrderChain: Towards General Instruct-Tuning for Stimulating the Ordinal Understanding Ability of MLLM](http://arxiv.org/abs/2504.04801v2)** | 2025-06-30 |  |
 | **[Boosting MLLM Reasoning with Text-Debiased Hint-GRPO](http://arxiv.org/abs/2503.23905v2)** | 2025-06-27 |  |
 | **[MMBoundary: Advancing MLLM Knowledge Boundary Awareness through Reasoning Step Confidence Calibration](http://arxiv.org/abs/2505.23224v3)** | 2025-06-27 | 18 pages, ACL 2025 |
-| **[R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning](http://arxiv.org/abs/2506.21980v1)** | 2025-06-27 | 7 pages, 2 figures |
 | **[FOCUS: Internal MLLM Representations for Efficient Fine-Grained Visual Question Answering](http://arxiv.org/abs/2506.21710v1)** | 2025-06-26 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 | **[APO: Enhancing Reasoning Ability of MLLMs via Asymmetric Policy Optimization](http://arxiv.org/abs/2506.21655v1)** | 2025-06-26 |  |
 | **[Exploring the Design Space of 3D MLLMs for CT Report Generation](http://arxiv.org/abs/2506.21535v1)** | 2025-06-26 |  |
 | **[STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?](http://arxiv.org/abs/2503.23765v5)** | 2025-06-26 |  |
-| **[Taming the Untamed: Graph-Based Knowledge Retrieval and Reasoning for MLLMs to Conquer the Unknown](http://arxiv.org/abs/2506.17589v2)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning](http://arxiv.org/abs/2506.10521v3)** | 2025-06-25 | 82 pages |
-| **[VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning](http://arxiv.org/abs/2505.12434v2)** | 2025-06-25 | <details><summary>Code:...</summary><p>Code: https://github.com/QiWang98/VideoRFT</p></details> |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,10 @@ labels: documentation
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation](http://arxiv.org/abs/2506.23126v2)** | 2025-07-01 |  |
+| **[DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover](http://arxiv.org/abs/2506.23152v2)** | 2025-07-01 |  |
+| **[Autonomous Robotic Bone Micro-Milling System with Automatic Calibration and 3D Surface Fitting](http://arxiv.org/abs/2503.04038v2)** | 2025-07-01 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, submitted to RA-L</p></details> |
+| **[Generating and Customizing Robotic Arm Trajectories using Neural Networks](http://arxiv.org/abs/2506.20259v2)** | 2025-06-30 | <details><summary>The c...</summary><p>The code is released at https://github.com/andylucny/nico2/tree/main/generate</p></details> |
 | **[A Robot-Led Intervention for Emotion Regulation: From Expression to Reappraisal](http://arxiv.org/abs/2503.18243v2)** | 2025-06-30 |  |
 | **[Diffusion Models for Robotic Manipulation: A Survey](http://arxiv.org/abs/2504.08438v2)** | 2025-06-30 | <details><summary>28 pa...</summary><p>28 pages, 2 figure, 9 tables</p></details> |
 | **[World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation](http://arxiv.org/abs/2506.23919v1)** | 2025-06-30 |  |
@@ -56,16 +60,12 @@ labels: documentation
 | **[R4: rapid reproducible robotics research open hardware control system](http://arxiv.org/abs/2402.09833v3)** | 2025-06-29 |  |
 | **[Moving Matter: Using a Single, Simple Robot to Reconfigure a Connected Set of Building Blocks](http://arxiv.org/abs/2506.23333v1)** | 2025-06-29 | <details><summary>8 pag...</summary><p>8 pages, 12 figures. To appear in the proceedings of the 2025 IEEE 21st International Conference on Automation Science and Engineering (CASE 2025)</p></details> |
 | **[Simplifying Data-Driven Modeling of the Volume-Flow-Pressure Relationship in Hydraulic Soft Robotic Actuators](http://arxiv.org/abs/2506.23326v1)** | 2025-06-29 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover](http://arxiv.org/abs/2506.23152v1)** | 2025-06-29 |  |
-| **[ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation](http://arxiv.org/abs/2506.23126v1)** | 2025-06-29 |  |
-| **[Learning Motion Skills with Adaptive Assistive Curriculum Force in Humanoid Robots](http://arxiv.org/abs/2506.23125v1)** | 2025-06-29 | 8 pages, 8 figures |
-| **[Minimizing Acoustic Noise: Enhancing Quiet Locomotion for Quadruped Robots in Indoor Applications](http://arxiv.org/abs/2506.23114v1)** | 2025-06-29 | <details><summary>8 pag...</summary><p>8 pages,6 figures, IROS2025</p></details> |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover](http://arxiv.org/abs/2506.23152v2)** | 2025-07-01 |  |
 | **[Efficient Online Reinforcement Learning for Diffusion Policy](http://arxiv.org/abs/2502.00361v4)** | 2025-06-30 | 17 pages, 5 figures |
-| **[DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover](http://arxiv.org/abs/2506.23152v1)** | 2025-06-29 |  |
 | **[Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions](http://arxiv.org/abs/2506.21057v1)** | 2025-06-26 | IROS 2025 |
 | **[Steering Your Diffusion Policy with Latent Space Reinforcement Learning](http://arxiv.org/abs/2506.15799v2)** | 2025-06-25 |  |
 | **[DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy](http://arxiv.org/abs/2506.20668v1)** | 2025-06-25 | <details><summary>Prepr...</summary><p>Preprint(17 pages). Under Review</p></details> |
