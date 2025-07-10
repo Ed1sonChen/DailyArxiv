@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 09, 2025
+title: Latest 15 Papers - July 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds](http://arxiv.org/abs/2507.06484v1)** | 2025-07-09 | <details><summary>proje...</summary><p>project website: https://ai.stanford.edu/~sunfanyun/3d-generalist/</p></details> |
 | **[Hume: Introducing System-2 Thinking in Visual-Language-Action Model](http://arxiv.org/abs/2505.21432v4)** | 2025-07-08 |  |
 | **[NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving](http://arxiv.org/abs/2507.05227v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2025</p></details> |
 | **[VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](http://arxiv.org/abs/2507.05116v1)** | 2025-07-07 |  |
@@ -40,30 +41,31 @@ labels: documentation
 | **[VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](http://arxiv.org/abs/2507.01016v1)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding](http://arxiv.org/abs/2507.00416v1)** | 2025-07-01 |  |
 | **[A Survey on Vision-Language-Action Models for Autonomous Driving](http://arxiv.org/abs/2506.24044v1)** | 2025-06-30 |  |
-| **[4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration](http://arxiv.org/abs/2506.22242v1)** | 2025-06-27 |  |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TPT-Bench: A Large-Scale, Long-Term and Robot-Egocentric Dataset for Benchmarking Target Person Tracking](http://arxiv.org/abs/2505.07446v2)** | 2025-07-09 | <details><summary>Under...</summary><p>Under review. web: https://medlartea.github.io/tpt-bench/</p></details> |
+| **[Distributed Fault-Tolerant Multi-Robot Cooperative Localization in Adversarial Environments](http://arxiv.org/abs/2507.06750v1)** | 2025-07-09 | <details><summary>Accep...</summary><p>Accepted to IROS 2025 Conference</p></details> |
+| **[Diversifying Robot Locomotion Behaviors with Extrinsic Behavioral Curiosity](http://arxiv.org/abs/2410.06151v3)** | 2025-07-09 | <details><summary>22 pa...</summary><p>22 pages, conference paper</p></details> |
+| **[Integrating Perceptions: A Human-Centered Physical Safety Model for Human-Robot Interaction](http://arxiv.org/abs/2507.06700v1)** | 2025-07-09 | <details><summary>Accep...</summary><p>Accepted to IEEE RO-MAN 2025 Conference</p></details> |
+| **[Hierarchical Procedural Framework for Low-latency Robot-Assisted Hand-Object Interaction](http://arxiv.org/abs/2405.19531v3)** | 2025-07-09 | 6 pages, 5 figures |
+| **[Soft Robotics-Inspired Flexible Antenna Arrays](http://arxiv.org/abs/2507.06589v1)** | 2025-07-09 |  |
+| **[Hysteresis-Aware Neural Network Modeling and Whole-Body Reinforcement Learning Control of Soft Robots](http://arxiv.org/abs/2504.13582v2)** | 2025-07-09 | <details><summary>Updat...</summary><p>Updated author affiliation</p></details> |
+| **[KLEIYN : A Quadruped Robot with an Active Waist for Both Locomotion and Wall Climbing](http://arxiv.org/abs/2507.06562v1)** | 2025-07-09 | <details><summary>Accep...</summary><p>Accepted at IROS2025, website - https://keitayoneda.github.io/kleiyn-chimney-climbing/, YouTube - https://www.youtube.com/watch?v=vDmSfkazAvI</p></details> |
+| **[Evaluating Robots Like Human Infants: A Case Study of Learned Bipedal Locomotion](http://arxiv.org/abs/2507.06426v1)** | 2025-07-08 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, accepted into ICDL 2025 as a contributed paper</p></details> |
+| **[Learning to Evaluate Autonomous Behaviour in Human-Robot Interaction](http://arxiv.org/abs/2507.06404v1)** | 2025-07-08 |  |
+| **[Forex Trading Robot Using Fuzzy Logic](http://arxiv.org/abs/2507.06383v1)** | 2025-07-08 |  |
+| **[Humanoid World Models: Open World Foundation Models for Humanoid Robotics](http://arxiv.org/abs/2506.01182v2)** | 2025-07-08 |  |
 | **[EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow](http://arxiv.org/abs/2507.06224v1)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 | **[Is Diversity All You Need for Scalable Robotic Manipulation?](http://arxiv.org/abs/2507.06219v1)** | 2025-07-08 | <details><summary>Code ...</summary><p>Code is available at https://github.com/OpenDriveLab/AgiBot-World</p></details> |
 | **[Learning Agile Tensile Perching for Aerial Robots from Demonstrations](http://arxiv.org/abs/2507.06172v1)** | 2025-07-08 | 9 pages, 9 figures |
-| **[Evaluation of Habitat Robotics using Large Language Models](http://arxiv.org/abs/2507.06157v1)** | 2025-07-08 | <details><summary>6 pag...</summary><p>6 pages, IEEE HPEC submission</p></details> |
-| **[Learning-Augmented Model-Based Multi-Robot Planning for Time-Critical Search and Inspection Under Uncertainty](http://arxiv.org/abs/2507.06129v1)** | 2025-07-08 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, CASE 2025</p></details> |
-| **[The Nexus of AR/VR, AI, UI/UX, and Robotics Technologies in Enhancing Learning and Social Interaction for Children with Autism Spectrum Disorders: A Systematic Review](http://arxiv.org/abs/2409.18162v3)** | 2025-07-08 | none |
-| **[SCCRUB: Surface Cleaning Compliant Robot Utilizing Bristles](http://arxiv.org/abs/2507.06053v1)** | 2025-07-08 |  |
-| **[AURA-CVC: Autonomous Ultrasound-guided Robotic Assistance for Central Venous Catheterization](http://arxiv.org/abs/2507.05979v1)** | 2025-07-08 |  |
-| **[Detecting and Diagnosing Faults in Autonomous Robot Swarms with an Artificial Antibody Population Model](http://arxiv.org/abs/2412.19942v2)** | 2025-07-08 |  |
-| **[Holistic Construction Automation with Modular Robots: From High-Level Task Specification to Execution](http://arxiv.org/abs/2412.20867v2)** | 2025-07-08 | <details><summary>Appea...</summary><p>Appeared in IEEE Transactions on Automation Science and Engineering https://ieeexplore.ieee.org/document/11036791</p></details> |
-| **[Improving Trust Estimation in Human-Robot Collaboration Using Beta Reputation at Fine-grained Timescales](http://arxiv.org/abs/2411.01866v2)** | 2025-07-08 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 1 table, published in IEEE Robotics and Automation Letters (RA-L) 2025</p></details> |
-| **[On the Robotic Uncertainty of Fully Autonomous Traffic: From Stochastic Car-Following to Mobility-Safety Trade-Offs](http://arxiv.org/abs/2309.12611v3)** | 2025-07-08 |  |
-| **[Dynamics and multi-stability of a rotor-actuated Twistcar robot with passive steering joint](http://arxiv.org/abs/2507.04846v2)** | 2025-07-08 | <details><summary>Suppo...</summary><p>Supporting Information is available at https://yizhar.net.technion.ac.il/files/2025/06/SI-MATLAB-file-Anna-Z.zip</p></details> |
-| **[Hybrid Diffusion Policies with Projective Geometric Algebra for Efficient Robot Manipulation Learning](http://arxiv.org/abs/2507.05695v1)** | 2025-07-08 |  |
-| **[Integrating Diffusion-based Multi-task Learning with Online Reinforcement Learning for Robust Quadruped Robot Control](http://arxiv.org/abs/2507.05674v1)** | 2025-07-08 |  |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatial-Temporal Aware Visuomotor Diffusion Policy Learning](http://arxiv.org/abs/2507.06710v1)** | 2025-07-09 |  |
+| **[Latent Action Diffusion for Cross-Embodiment Manipulation](http://arxiv.org/abs/2506.14608v2)** | 2025-07-09 | 15 pages, 7 figures |
 | **[Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps](http://arxiv.org/abs/2505.10482v3)** | 2025-07-08 | <details><summary>9 pag...</summary><p>9 pages for main text, 23 pages in total, submitted to Neurips, 13 figures</p></details> |
 | **[Hybrid Diffusion Policies with Projective Geometric Algebra for Efficient Robot Manipulation Learning](http://arxiv.org/abs/2507.05695v1)** | 2025-07-08 |  |
 | **[A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation](http://arxiv.org/abs/2507.05331v1)** | 2025-07-07 |  |
@@ -77,6 +79,4 @@ labels: documentation
 | **[Efficient Online Reinforcement Learning for Diffusion Policy](http://arxiv.org/abs/2502.00361v4)** | 2025-06-30 | 17 pages, 5 figures |
 | **[Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions](http://arxiv.org/abs/2506.21057v1)** | 2025-06-26 | IROS 2025 |
 | **[Steering Your Diffusion Policy with Latent Space Reinforcement Learning](http://arxiv.org/abs/2506.15799v2)** | 2025-06-25 |  |
-| **[DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy](http://arxiv.org/abs/2506.20668v1)** | 2025-06-25 | <details><summary>Prepr...</summary><p>Preprint(17 pages). Under Review</p></details> |
-| **[Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models](http://arxiv.org/abs/2409.07163v2)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
 
