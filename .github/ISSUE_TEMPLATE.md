@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 20, 2025
+title: Latest 15 Papers - July 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Moodifier: MLLM-Enhanced Emotion-Driven Image Editing](http://arxiv.org/abs/2507.14024v1)** | 2025-07-18 |  |
 | **[LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents](http://arxiv.org/abs/2503.10200v4)** | 2025-07-17 | <details><summary>accep...</summary><p>accepted in ICCV 2025</p></details> |
 | **[STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?](http://arxiv.org/abs/2503.23765v6)** | 2025-07-17 |  |
 | **[Visual Position Prompt for MLLM based Visual Grounding](http://arxiv.org/abs/2503.15426v4)** | 2025-07-16 |  |
@@ -21,12 +22,12 @@ labels: documentation
 | **[EduFlow: Advancing MLLMs' Problem-Solving Proficiency through Multi-Stage, Multi-Perspective Critique](http://arxiv.org/abs/2507.09374v1)** | 2025-07-12 | 14 pages,4 figures |
 | **[Visual Semantic Description Generation with MLLMs for Image-Text Matching](http://arxiv.org/abs/2507.08590v1)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted by ICME2025 oral</p></details> |
 | **[Improving MLLM's Document Image Machine Translation via Synchronously Self-reviewing Its OCR Proficiency](http://arxiv.org/abs/2507.08309v1)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 Findings</p></details> |
-| **[M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning](http://arxiv.org/abs/2507.08306v1)** | 2025-07-11 | 31pages, 14 figures |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos](http://arxiv.org/abs/2507.12440v2)** | 2025-07-17 | <details><summary>More ...</summary><p>More videos can be found on our website: https://rchalyang.github.io/EgoVLA</p></details> |
+| **[EdgeVLA: Efficient Vision-Language-Action Models](http://arxiv.org/abs/2507.14049v1)** | 2025-07-18 |  |
+| **[EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos](http://arxiv.org/abs/2507.12440v3)** | 2025-07-18 | <details><summary>More ...</summary><p>More videos can be found on our website: https://rchalyang.github.io/EgoVLA</p></details> |
 | **[LaViPlan : Language-Guided Visual Path Planning with RLVR](http://arxiv.org/abs/2507.12911v1)** | 2025-07-17 | 11 pages, 6 figures |
 | **[DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge](http://arxiv.org/abs/2507.04447v2)** | 2025-07-17 |  |
 | **[AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation](http://arxiv.org/abs/2507.12768v1)** | 2025-07-17 |  |
@@ -40,26 +41,25 @@ labels: documentation
 | **[RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models](http://arxiv.org/abs/2506.17811v2)** | 2025-07-07 |  |
 | **[Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties](http://arxiv.org/abs/2507.04227v1)** | 2025-07-06 |  |
 | **[DexVLG: Dexterous Vision-Language-Grasp Model at Scale](http://arxiv.org/abs/2507.02747v1)** | 2025-07-03 |  |
-| **[TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control](http://arxiv.org/abs/2507.01424v2)** | 2025-07-03 |  |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluating Reinforcement Learning Algorithms for Navigation in Simulated Robotic Quadrupeds: A Comparative Study Inspired by Guide Dog Behaviour](http://arxiv.org/abs/2507.13277v1)** | 2025-07-17 |  |
-| **[A Roadmap for Climate-Relevant Robotics Research](http://arxiv.org/abs/2507.11623v2)** | 2025-07-17 |  |
-| **[Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot](http://arxiv.org/abs/2507.12273v2)** | 2025-07-17 |  |
-| **[Aligning Humans and Robots via Reinforcement Learning from Implicit Human Feedback](http://arxiv.org/abs/2507.13171v1)** | 2025-07-17 |  |
-| **[Robo-Platform: A Robotic System for Recording Sensors and Controlling Robots](http://arxiv.org/abs/2409.16595v3)** | 2025-07-17 | <details><summary>Proje...</summary><p>Project repository: https://github.com/m-dayani/robo-platform Youtube Video: https://youtu.be/BTQ4yLB1bak Dataset: https://drive.google.com/drive/folders/1OZqdA1xa-SyJ64qL_TibqhtwhR1fWWrx?usp=sharing</p></details> |
-| **[Human Demonstrations are Generalizable Knowledge for Robots](http://arxiv.org/abs/2312.02419v3)** | 2025-07-17 | <details><summary>accep...</summary><p>accepted for publication in lEEE/RSJ international Conference on Intelligent Robots and Systems (lROS 2025)</p></details> |
-| **[Efficient Online Learning and Adaptive Planning for Robotic Information Gathering Based on Streaming Data](http://arxiv.org/abs/2507.13053v1)** | 2025-07-17 |  |
-| **[Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication](http://arxiv.org/abs/2507.13052v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2025</p></details> |
-| **[What Can Robots Teach Us About Trust and Reliance? An interdisciplinary dialogue between Social Sciences and Social Robotics](http://arxiv.org/abs/2507.13041v1)** | 2025-07-17 |  |
-| **[GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial and Legged Odometry Fusion SLAM for Dynamic Legged Robotics](http://arxiv.org/abs/2503.14247v2)** | 2025-07-17 | 8 pages |
-| **[Force-Based Viscosity and Elasticity Measurements for Material Biomechanical Characterisation with a Collaborative Robotic Arm](http://arxiv.org/abs/2507.11133v2)** | 2025-07-17 |  |
-| **[DEMONSTRATE: Zero-shot Language to Robotic Control via Multi-task Demonstration Learning](http://arxiv.org/abs/2507.12855v1)** | 2025-07-17 |  |
-| **[Learning to Predict Mobile Robot Stability in Off-Road Environments](http://arxiv.org/abs/2507.12731v1)** | 2025-07-17 | <details><summary>Natha...</summary><p>Nathaniel Rose and Arif Ahmed contributed equally to this work. Accepted poster for RSS 2025 Workshop on Resilient Off-road Autonomous Robotics. 8 pages, 8 figures, 1 table</p></details> |
-| **[MoistureMapper: An Autonomous Mobile Robot for High-Resolution Soil Moisture Mapping at Scale](http://arxiv.org/abs/2507.12716v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted by 2025 IEEE 21st International Conference on Automation Science and Engineering. 8 pages, 10 figures, 2 tables</p></details> |
-| **[Learning Policies for Dynamic Coalition Formation in Multi-Robot Task Allocation](http://arxiv.org/abs/2412.20397v3)** | 2025-07-16 |  |
+| **[MorphIt: Flexible Spherical Approximation of Robot Morphology for Representation-driven Adaptation](http://arxiv.org/abs/2507.14061v1)** | 2025-07-18 |  |
+| **[Design of a Modular Mobile Inspection and Maintenance Robot for an Orbital Servicing Hub](http://arxiv.org/abs/2507.14059v1)** | 2025-07-18 | <details><summary>In pr...</summary><p>In proceedings of the Towards Autonomous Robotic Systems 2025 conference (TAROS 2025), York, UK 6 pages, one page of references, 6 figures</p></details> |
+| **[Chance-constrained Linear Quadratic Gaussian Games for Multi-robot Interaction under Uncertainty](http://arxiv.org/abs/2503.06776v2)** | 2025-07-18 | <details><summary>Publi...</summary><p>Published in IEEE Control Systems Letters</p></details> |
+| **[A segmented robot grasping perception neural network for edge AI](http://arxiv.org/abs/2507.13970v1)** | 2025-07-18 | Accepted by SMC 2025 |
+| **[A Minimalist Controller for Autonomously Self-Aggregating Robotic Swarms: Enabling Compact Formations in Multitasking Scenarios](http://arxiv.org/abs/2507.13969v1)** | 2025-07-18 | <details><summary>7 pag...</summary><p>7 pages total (6 pages of content + 1 page of references). Short paper manuscript submitted to TAROS 2025</p></details> |
+| **[Stonefish: Supporting Machine Learning Research in Marine Robotics](http://arxiv.org/abs/2502.11887v2)** | 2025-07-18 | <details><summary>2025 ...</summary><p>2025 IEEE/RSJ International Conference on Robotics and Automation (ICRA)</p></details> |
+| **[A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots](http://arxiv.org/abs/2506.20487v3)** | 2025-07-18 | 18 pages, 9 figures |
+| **[Design Analysis of an Innovative Parallel Robot for Minimally Invasive Pancreatic Surgery](http://arxiv.org/abs/2507.13787v1)** | 2025-07-18 |  |
+| **[Robustness Evaluation of Offline Reinforcement Learning for Robot Control Against Action Perturbations](http://arxiv.org/abs/2412.18781v2)** | 2025-07-18 | 22 pages, 6 figures |
+| **[VMTS: Vision-Assisted Teacher-Student Reinforcement Learning for Multi-Terrain Locomotion in Bipedal Robots](http://arxiv.org/abs/2503.07049v2)** | 2025-07-18 |  |
+| **[SaWa-ML: Structure-Aware Pose Correction and Weight Adaptation-Based Robust Multi-Robot Localization](http://arxiv.org/abs/2507.13702v1)** | 2025-07-18 | <details><summary>This ...</summary><p>This paper has been accepted to the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
+| **[Robotic Monitoring of Colorimetric Leaf Sensors for Precision Agriculture](http://arxiv.org/abs/2505.13916v2)** | 2025-07-18 | <details><summary>Revis...</summary><p>Revised version. Initial version was accepted to the Novel Approaches for Precision Agriculture and Forestry with Autonomous Robots IEEE ICRA Workshop - 2025</p></details> |
+| **[Iteratively Learning Muscle Memory for Legged Robots to Master Adaptive and High Precision Locomotion](http://arxiv.org/abs/2507.13662v1)** | 2025-07-18 |  |
+| **[Safe Robotic Capsule Cleaning with Integrated Transpupillary and Intraocular Optical Coherence Tomography](http://arxiv.org/abs/2507.13650v1)** | 2025-07-18 | 12 pages, 27 figures |
+| **[In-Home Social Robots Design for Cognitive Stimulation Therapy in Dementia Care](http://arxiv.org/abs/2507.13578v1)** | 2025-07-17 | <details><summary>Submi...</summary><p>Submitted to RO-MAN 2025 (Accepted)</p></details> |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
