@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 22, 2025
+title: Latest 15 Papers - July 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation](http://arxiv.org/abs/2507.16716v1)** | 2025-07-22 | <details><summary>SUBMI...</summary><p>SUBMIT TO IEEE TRANSACTIONS</p></details> |
+| **[R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning](http://arxiv.org/abs/2506.21980v3)** | 2025-07-22 | 7 pages, 2 figures |
+| **[Self-Contradiction as Self-Improvement: Mitigating the Generation-Understanding Gap in MLLMs](http://arxiv.org/abs/2507.16663v1)** | 2025-07-22 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 3 tables</p></details> |
+| **[MC-Bench: A Benchmark for Multi-Context Visual Grounding in the Era of MLLMs](http://arxiv.org/abs/2410.12332v2)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs](http://arxiv.org/abs/2506.05328v2)** | 2025-07-22 | 21 pages, 11 figures |
+| **[Exploring How Generative MLLMs Perceive More Than CLIP with the Same Vision Encoder](http://arxiv.org/abs/2411.05195v3)** | 2025-07-21 | <details><summary>ACL 2...</summary><p>ACL 2025; 19 pages, 3 figures</p></details> |
 | **[Surfacing Variations to Calibrate Perceived Reliability of MLLM-generated Image Descriptions](http://arxiv.org/abs/2507.15692v1)** | 2025-07-21 | 18 pages, 6 figures |
 | **[From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem](http://arxiv.org/abs/2506.15170v2)** | 2025-07-20 |  |
 | **[U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs](http://arxiv.org/abs/2507.14902v1)** | 2025-07-20 | <details><summary>Techn...</summary><p>Technical Report (in progress)</p></details> |
@@ -16,18 +22,13 @@ labels: documentation
 | **[LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents](http://arxiv.org/abs/2503.10200v4)** | 2025-07-17 | <details><summary>accep...</summary><p>accepted in ICCV 2025</p></details> |
 | **[STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?](http://arxiv.org/abs/2503.23765v6)** | 2025-07-17 |  |
 | **[Visual Position Prompt for MLLM based Visual Grounding](http://arxiv.org/abs/2503.15426v4)** | 2025-07-16 |  |
-| **[HueManity: Probing Fine-Grained Visual Perception in MLLMs](http://arxiv.org/abs/2506.03194v2)** | 2025-07-16 |  |
-| **[Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification](http://arxiv.org/abs/2507.11662v1)** | 2025-07-15 | <details><summary>Our c...</summary><p>Our code and data are publicly available at https://github.com/mshalimay/mllm-verifiers-abias-sgv</p></details> |
-| **[DisCo: Towards Distinct and Coherent Visual Encapsulation in Video MLLMs](http://arxiv.org/abs/2507.10302v1)** | 2025-07-14 | ICCV 2025 |
-| **[A Training-Free, Task-Agnostic Framework for Enhancing MLLM Performance on High-Resolution Images](http://arxiv.org/abs/2507.10202v1)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop on Emergent Visual Abilities and Limits of Foundation Models</p></details> |
-| **[Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning](http://arxiv.org/abs/2506.10521v4)** | 2025-07-14 | 82 pages |
-| **[SpatialViz-Bench: Automatically Generated Spatial Visualization Reasoning Tasks for MLLMs](http://arxiv.org/abs/2507.07610v2)** | 2025-07-14 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](http://arxiv.org/abs/2507.16815v1)** | 2025-07-22 | <details><summary>Proje...</summary><p>Project page: https://jasper0314-huang.github.io/thinkact-vla/</p></details> |
+| **[GR-3 Technical Report](http://arxiv.org/abs/2507.15493v2)** | 2025-07-22 | <details><summary>Tech ...</summary><p>Tech report. Authors are listed in alphabetical order. Project page: https://seed.bytedance.com/GR3/</p></details> |
 | **[Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](http://arxiv.org/abs/2507.15597v1)** | 2025-07-21 | 37 pages |
-| **[GR-3 Technical Report](http://arxiv.org/abs/2507.15493v1)** | 2025-07-21 | <details><summary>Tech ...</summary><p>Tech report. Authors are listed in alphabetical order. Project page: https://seed.bytedance.com/GR3/</p></details> |
 | **[LaViPlan : Language-Guided Visual Path Planning with RLVR](http://arxiv.org/abs/2507.12911v2)** | 2025-07-21 | 11 pages, 6 figures |
 | **[MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping](http://arxiv.org/abs/2506.06535v2)** | 2025-07-20 |  |
 | **[GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data](http://arxiv.org/abs/2505.03233v2)** | 2025-07-19 |  |
@@ -40,26 +41,25 @@ labels: documentation
 | **[Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization](http://arxiv.org/abs/2507.09160v1)** | 2025-07-12 |  |
 | **[VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](http://arxiv.org/abs/2507.05116v2)** | 2025-07-10 |  |
 | **[3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds](http://arxiv.org/abs/2507.06484v1)** | 2025-07-09 | <details><summary>proje...</summary><p>project website: https://ai.stanford.edu/~sunfanyun/3d-generalist/</p></details> |
-| **[Hume: Introducing System-2 Thinking in Visual-Language-Action Model](http://arxiv.org/abs/2505.21432v4)** | 2025-07-08 |  |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers](http://arxiv.org/abs/2507.15833v1)** | 2025-07-21 | 13 pages, 10 figures |
-| **[Model-Free and Real-Time Bioinspired Unicycle-Based Source Seeking: Differential Wheeled Robotic Experiments](http://arxiv.org/abs/2501.02184v3)** | 2025-07-21 |  |
-| **[Gaze-supported Large Language Model Framework for Bi-directional Human-Robot Interaction](http://arxiv.org/abs/2507.15729v1)** | 2025-07-21 | <details><summary>This ...</summary><p>This paper has been accepted to the 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), which will be held in Eindhoven, Netherlands on August 25-29, 2025. Copyright 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses</p></details> |
-| **[Strong, Accurate, and Low-Cost Robot Manipulator](http://arxiv.org/abs/2507.15693v1)** | 2025-07-21 |  |
-| **[Data-Driven MPC with Data Selection for Flexible Cable-Driven Robotic Arms](http://arxiv.org/abs/2507.15677v1)** | 2025-07-21 |  |
-| **[EMP: Executable Motion Prior for Humanoid Robot Standing Upper-body Motion Imitation](http://arxiv.org/abs/2507.15649v1)** | 2025-07-21 |  |
-| **[FollowUpBot: An LLM-Based Conversational Robot for Automatic Postoperative Follow-up](http://arxiv.org/abs/2507.15502v1)** | 2025-07-21 |  |
-| **[Robots for Kiwifruit Harvesting and Pollination](http://arxiv.org/abs/2507.15484v1)** | 2025-07-21 |  |
-| **[Six-DoF Hand-Based Teleoperation for Omnidirectional Aerial Robots](http://arxiv.org/abs/2506.15009v2)** | 2025-07-21 | <details><summary>7 pag...</summary><p>7 pages, 10 figures. This work has been accepted to IROS 2025. The video is released in https://youtu.be/n0IQEnjPzrw?si=Zp3kb3ss-D_AySOE</p></details> |
-| **[Why Automate This? Exploring the Connection between Time Use, Well-being and Robot Automation Across Social Groups](http://arxiv.org/abs/2501.06348v2)** | 2025-07-20 | 20 pages, 14 figures |
-| **[FCRF: Flexible Constructivism Reflection for Long-Horizon Robotic Task Planning with Large Language Models](http://arxiv.org/abs/2507.14975v1)** | 2025-07-20 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, IROS 2025</p></details> |
-| **[Designing Robots with, not for: A Co-Design Framework for Empowering Interactions in Forensic Psychiatry](http://arxiv.org/abs/2507.14931v1)** | 2025-07-20 |  |
-| **[To Lead or to Follow? Adaptive Robot Task Planning in Human-Robot Collaboration](http://arxiv.org/abs/2401.01483v2)** | 2025-07-20 |  |
-| **[MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping](http://arxiv.org/abs/2506.06535v2)** | 2025-07-20 |  |
-| **[X-Nav: Learning End-to-End Cross-Embodiment Navigation for Mobile Robots](http://arxiv.org/abs/2507.14731v1)** | 2025-07-19 |  |
+| **[Experience is the Best Teacher: Grounding VLMs for Robotics through Self-Generated Memory](http://arxiv.org/abs/2507.16713v1)** | 2025-07-22 |  |
+| **[Robust Ladder Climbing with a Quadrupedal Robot](http://arxiv.org/abs/2409.17731v2)** | 2025-07-22 | <details><summary>Proje...</summary><p>Project website: https://sites.google.com/leggedrobotics.com/climbingladders</p></details> |
+| **[Adaptive Gaussian Mixture Models-based Anomaly Detection for under-constrained Cable-Driven Parallel Robots](http://arxiv.org/abs/2507.07714v2)** | 2025-07-22 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 1 table</p></details> |
+| **[Guided Reinforcement Learning for Omnidirectional 3D Jumping in Quadruped Robots](http://arxiv.org/abs/2507.16481v1)** | 2025-07-22 |  |
+| **[Designing for Difference: How Human Characteristics Shape Perceptions of Collaborative Robots](http://arxiv.org/abs/2507.16480v1)** | 2025-07-22 |  |
+| **[AI or Human? Understanding Perceptions of Embodied Robots with LLMs](http://arxiv.org/abs/2507.16398v1)** | 2025-07-22 |  |
+| **[Humanoid Robot Whole-body Geometric Calibration with Embedded Sensors and a Single Plane](http://arxiv.org/abs/2507.16369v1)** | 2025-07-22 |  |
+| **[Topology Optimization of Leg Structures for Construction Robots Based on Variable Density Method](http://arxiv.org/abs/2507.16335v1)** | 2025-07-22 |  |
+| **[Design and Dimensional Optimization of Legged Structures for Construction Robots](http://arxiv.org/abs/2507.16328v1)** | 2025-07-22 |  |
+| **[Trajectory Planning of a Curtain Wall Installation Robot Based on Biomimetic Mechanisms](http://arxiv.org/abs/2507.16305v1)** | 2025-07-22 |  |
+| **[GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial and Legged Odometry Fusion SLAM for Dynamic Legged Robotics](http://arxiv.org/abs/2503.14247v3)** | 2025-07-22 | 8 pages |
+| **[SciFi-Benchmark: Leveraging Science Fiction To Improve Robot Behavior](http://arxiv.org/abs/2503.10706v2)** | 2025-07-22 | <details><summary>Minor...</summary><p>Minor improvements over previous version</p></details> |
+| **[Adapt On-the-Go: Behavior Modulation for Single-Life Robot Deployment](http://arxiv.org/abs/2311.01059v3)** | 2025-07-22 |  |
+| **[Benchmarking LLM Privacy Recognition for Social Robot Decision Making](http://arxiv.org/abs/2507.16124v1)** | 2025-07-22 | <details><summary>18 pa...</summary><p>18 pages, 7 figures. Dakota Sullivan and Shirley Zhang contributed equally to this work</p></details> |
+| **[Compositional Coordination for Multi-Robot Teams with Large Language Models](http://arxiv.org/abs/2507.16068v1)** | 2025-07-21 | 9 pages, 4 figures |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
