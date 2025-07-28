@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 27, 2025
+title: Latest 15 Papers - July 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MLLM-based Speech Recognition: When and How is Multimodality Beneficial?](http://arxiv.org/abs/2507.19037v1)** | 2025-07-25 |  |
 | **[EgoExoBench: A Benchmark for First- and Third-person View Video Understanding in MLLMs](http://arxiv.org/abs/2507.18342v1)** | 2025-07-24 |  |
 | **[MathOPEval: A Fine-grained Evaluation Benchmark for Visual Operations of MLLMs in Mathematical Reasoning](http://arxiv.org/abs/2507.18140v1)** | 2025-07-24 | Under Review |
 | **[Constructing Ophthalmic MLLM for Positioning-diagnosis Collaboration Through Clinical Cognitive Chain Reasoning](http://arxiv.org/abs/2507.17539v1)** | 2025-07-23 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Surfacing Variations to Calibrate Perceived Reliability of MLLM-generated Image Descriptions](http://arxiv.org/abs/2507.15692v1)** | 2025-07-21 | 18 pages, 6 figures |
 | **[From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem](http://arxiv.org/abs/2506.15170v2)** | 2025-07-20 |  |
 | **[U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs](http://arxiv.org/abs/2507.14902v1)** | 2025-07-20 | <details><summary>Techn...</summary><p>Technical Report (in progress)</p></details> |
-| **[BusterX++: Towards Unified Cross-Modal AI-Generated Content Detection and Explanation with MLLM](http://arxiv.org/abs/2507.14632v1)** | 2025-07-19 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Experimental Comparison of Whole-Body Control Formulations for Humanoid Robots in Task Acceleration and Task Force Spaces](http://arxiv.org/abs/2507.18502v1)** | 2025-07-24 | <details><summary>This ...</summary><p>This paper has been accepted for publication in 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025). - Link to video: https://youtu.be/Nfm50ycz-FU</p></details> |
-| **[Spatio-Temporal Motion Retargeting for Quadruped Robots](http://arxiv.org/abs/2404.11557v3)** | 2025-07-24 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, videos available at https://taerimyoon.me/Spatio-Temporal-Motion-Retargeting-for-Quadruped-Robots/</p></details> |
-| **[A Novel Monte-Carlo Compressed Sensing and Dictionary Learning Method for the Efficient Path Planning of Remote Sensing Robots](http://arxiv.org/abs/2507.18462v1)** | 2025-07-24 |  |
-| **[An Efficient Numerical Function Optimization Framework for Constrained Nonlinear Robotic Problems](http://arxiv.org/abs/2501.17349v3)** | 2025-07-24 | <details><summary>\c{op...</summary><p>\c{opyright} 2025 the authors. This work has been accepted to IFAC for publication under a Creative Commons Licence CC-BY-NC-ND. - Implementation: https://github.com/ssovukluk/ENFORCpp</p></details> |
-| **[An Empirical Study on Embodied Artificial Intelligence Robot (EAIR) Software Bugs](http://arxiv.org/abs/2507.18267v1)** | 2025-07-24 |  |
-| **[ReSem3D: Refinable 3D Spatial Constraints via Fine-Grained Semantic Grounding for Generalizable Robotic Manipulation](http://arxiv.org/abs/2507.18262v1)** | 2025-07-24 | 12 pages,9 figures |
-| **[Compositional Coordination for Multi-Robot Teams with Large Language Models](http://arxiv.org/abs/2507.16068v2)** | 2025-07-24 | 9 pages, 4 figures |
-| **[MoRPI-PINN: A Physics-Informed Framework for Mobile Robot Pure Inertial Navigation](http://arxiv.org/abs/2507.18206v1)** | 2025-07-24 | 9 pages, 5 figures |
-| **[Hand Gesture Recognition for Collaborative Robots Using Lightweight Deep Learning in Real-Time Robotic Systems](http://arxiv.org/abs/2507.10055v2)** | 2025-07-24 |  |
-| **[Modular Robot and Landmark Localisation Using Relative Bearing Measurements](http://arxiv.org/abs/2507.18070v1)** | 2025-07-24 | Submitted to RA-L |
-| **[Federated Learning for Large-Scale Cloud Robotic Manipulation: Opportunities and Challenges](http://arxiv.org/abs/2507.17903v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted for Presentation at IEEE International Conference on Machine Learning and Cybernetics (ICMLC) 2025</p></details> |
-| **[A Step-by-step Guide on Nonlinear Model Predictive Control for Safe Mobile Robot Navigation](http://arxiv.org/abs/2507.17856v1)** | 2025-07-23 | 51 pages, 3 figures |
-| **[Robot Operation of Home Appliances by Reading User Manuals](http://arxiv.org/abs/2505.20424v2)** | 2025-07-23 |  |
-| **[Towards Generalist Robot Learning from Internet Video: A Survey](http://arxiv.org/abs/2404.19664v5)** | 2025-07-23 |  |
-| **[Robot-mediated physical Human-Human Interaction in Neurorehabilitation: a position paper](http://arxiv.org/abs/2507.17561v1)** | 2025-07-23 |  |
+| **[Efficient Lines Detection for Robot Soccer](http://arxiv.org/abs/2507.19469v1)** | 2025-07-25 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, RoboCup Symposium 2025</p></details> |
+| **[ReSem3D: Refinable 3D Spatial Constraints via Fine-Grained Semantic Grounding for Generalizable Robotic Manipulation](http://arxiv.org/abs/2507.18262v2)** | 2025-07-25 | 12 pages,9 figures |
+| **[Cuddle-Fish: Exploring a Soft Floating Robot with Flapping Wings for Physical Interactions](http://arxiv.org/abs/2504.01293v2)** | 2025-07-25 | <details><summary>Augme...</summary><p>Augmented Humans International Conference 2025 (AHs '25)</p></details> |
+| **[Integration of a Graph-Based Path Planner and Mixed-Integer MPC for Robot Navigation in Cluttered Environments](http://arxiv.org/abs/2504.13372v2)** | 2025-07-25 |  |
+| **[How Age Influences the Interpretation of Emotional Body Language in Humanoid Robots -- long paper version](http://arxiv.org/abs/2507.19335v1)** | 2025-07-25 |  |
+| **[Towards Multimodal Social Conversations with Robots: Using Vision-Language Models](http://arxiv.org/abs/2507.19196v1)** | 2025-07-25 | <details><summary>Submi...</summary><p>Submitted to the workshop "Human - Foundation Models Interaction: A Focus On Multimodal Information" (FoMo-HRI) at IEEE RO-MAN 2025</p></details> |
+| **[Monocular Vision-Based Swarm Robot Localization Using Equilateral Triangular Formations](http://arxiv.org/abs/2507.19100v1)** | 2025-07-25 |  |
+| **[Bot Appétit! Exploring how Robot Morphology Shapes Perceived Affordances via a Mise en Place Scenario in a VR Kitchen](http://arxiv.org/abs/2507.19082v1)** | 2025-07-25 | <details><summary>Copyr...</summary><p>Copyright 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
+| **[HuNavSim 2.0: An Enhanced Human Navigation Simulator for Human-Aware Robot Navigation](http://arxiv.org/abs/2507.17317v2)** | 2025-07-25 | <details><summary>Prepr...</summary><p>Preprint submitted to the 8th Iberian Robotics Conference (ROBOT 2025)</p></details> |
+| **[Frequency Response Data-Driven Disturbance Observer Design for Flexible Joint Robots](http://arxiv.org/abs/2507.18979v1)** | 2025-07-25 |  |
+| **[GEAR: Gaze-Enabled Human-Robot Collaborative Assembly](http://arxiv.org/abs/2507.18947v1)** | 2025-07-25 | <details><summary>Accep...</summary><p>Accepted for publication at 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</p></details> |
+| **[Assessing the Reliability and Validity of a Balance Mat for Measuring Postural Stability: A Combined Robot-Human Approach](http://arxiv.org/abs/2507.18943v1)** | 2025-07-25 |  |
+| **[Incremental Learning for Robot Shared Autonomy](http://arxiv.org/abs/2410.06315v4)** | 2025-07-25 |  |
+| **[MP1: MeanFlow Tames Policy Learning in 1-step for Robotic Manipulation](http://arxiv.org/abs/2507.10543v2)** | 2025-07-25 |  |
+| **[MetaMorph -- A Metamodelling Approach For Robot Morphology](http://arxiv.org/abs/2507.18820v1)** | 2025-07-24 | <details><summary>Copyr...</summary><p>Copyright 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
