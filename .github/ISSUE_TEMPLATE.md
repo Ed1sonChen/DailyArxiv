@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 30, 2025
+title: Latest 15 Papers - July 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SpatialViz-Bench: Automatically Generated Spatial Visualization Reasoning Tasks for MLLMs](http://arxiv.org/abs/2507.07610v3)** | 2025-07-30 |  |
 | **[The Evolution of Video Anomaly Detection: A Unified Framework from DNN to MLLM](http://arxiv.org/abs/2507.21649v1)** | 2025-07-29 |  |
 | **[EMIT: Enhancing MLLMs for Industrial Anomaly Detection via Difficulty-Aware GRPO](http://arxiv.org/abs/2507.21619v1)** | 2025-07-29 |  |
 | **[TARS: MinMax Token-Adaptive Preference Strategy for Hallucination Reduction in MLLMs](http://arxiv.org/abs/2507.21584v1)** | 2025-07-29 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation](http://arxiv.org/abs/2507.16716v1)** | 2025-07-22 | <details><summary>SUBMI...</summary><p>SUBMIT TO IEEE TRANSACTIONS</p></details> |
 | **[R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning](http://arxiv.org/abs/2506.21980v3)** | 2025-07-22 | 7 pages, 2 figures |
 | **[Self-Contradiction as Self-Improvement: Mitigating the Generation-Understanding Gap in MLLMs](http://arxiv.org/abs/2507.16663v1)** | 2025-07-22 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 3 tables</p></details> |
-| **[MC-Bench: A Benchmark for Multi-Context Visual Grounding in the Era of MLLMs](http://arxiv.org/abs/2410.12332v2)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spec-VLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance](http://arxiv.org/abs/2507.22424v1)** | 2025-07-30 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, under review</p></details> |
 | **[VLA-Touch: Enhancing Vision-Language-Action Models with Dual-Level Tactile Feedback](http://arxiv.org/abs/2507.17294v2)** | 2025-07-29 | 19 pages, 5 figures |
 | **[OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning](http://arxiv.org/abs/2504.06538v2)** | 2025-07-29 | <details><summary>We wi...</summary><p>We withdraw our submission following peer review feedback that identified methodological limitations: specifically, our experimental design does not adequately support the causal claims made in the submission. The work was preliminary undergraduate research that requires substantial additional experimental validation to properly establish the proposed causal relationships</p></details> |
 | **[InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation](http://arxiv.org/abs/2507.17520v1)** | 2025-07-23 | 38 pages |
@@ -40,26 +41,25 @@ labels: documentation
 | **[EdgeVLA: Efficient Vision-Language-Action Models](http://arxiv.org/abs/2507.14049v1)** | 2025-07-18 |  |
 | **[EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos](http://arxiv.org/abs/2507.12440v3)** | 2025-07-18 | <details><summary>More ...</summary><p>More videos can be found on our website: https://rchalyang.github.io/EgoVLA</p></details> |
 | **[DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge](http://arxiv.org/abs/2507.04447v2)** | 2025-07-17 |  |
-| **[AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation](http://arxiv.org/abs/2507.12768v1)** | 2025-07-17 |  |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Nonlinear MPC Framework for Loco-Manipulation of Quadrupedal Robots with Non-Negligible Manipulator Dynamics](http://arxiv.org/abs/2507.22042v1)** | 2025-07-29 |  |
-| **[IRASim: A Fine-Grained World Model for Robot Manipulation](http://arxiv.org/abs/2406.14540v2)** | 2025-07-29 | <details><summary>Opens...</summary><p>Opensource, project website: https://gen-irasim.github.io</p></details> |
-| **[DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments](http://arxiv.org/abs/2507.21981v1)** | 2025-07-29 | <details><summary>8page...</summary><p>8pages, IROS2025 (Camera Ready)</p></details> |
-| **[Integration of Large Language Models within Cognitive Architectures for Autonomous Robots](http://arxiv.org/abs/2309.14945v3)** | 2025-07-29 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 2 tables, Submitted to ROBOT 2025 (8th Iberian Robotics Conference)</p></details> |
-| **[A Systematic Robot Design Optimization Methodology with Application to Redundant Dual-Arm Manipulators](http://arxiv.org/abs/2507.21896v1)** | 2025-07-29 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 2 tables</p></details> |
-| **[An Integrated Approach to Robotic Object Grasping and Manipulation](http://arxiv.org/abs/2411.13205v3)** | 2025-07-29 |  |
-| **[MoDeSuite: Robot Learning Task Suite for Benchmarking Mobile Manipulation with Deformable Objects](http://arxiv.org/abs/2507.21796v1)** | 2025-07-29 |  |
-| **[Assistax: A Hardware-Accelerated Reinforcement Learning Benchmark for Assistive Robotics](http://arxiv.org/abs/2507.21638v1)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted for the Coordination and Cooperation in Multi-Agent Reinforcement Learning Workshop at the Reinforcement Learning Conference 2025</p></details> |
-| **[Multi-robot LiDAR SLAM: a practical case study in underground tunnel environments](http://arxiv.org/abs/2507.21553v1)** | 2025-07-29 | 14 pages, 14 figures |
-| **[Pretraining a Unified PDDL Domain from Real-World Demonstrations for Generalizable Robot Task Planning](http://arxiv.org/abs/2507.21545v1)** | 2025-07-29 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[Multifunctional physical reservoir computing in soft tensegrity robots](http://arxiv.org/abs/2507.21496v1)** | 2025-07-29 | <details><summary>25 pa...</summary><p>25 pages, 12 figures. The following article has been accepted by Chaos: An Interdisciplinary Journal of Nonlinear Science</p></details> |
-| **[SurgiSR4K: A High-Resolution Endoscopic Video Dataset for Robotic-Assisted Minimally Invasive Procedures](http://arxiv.org/abs/2507.00209v3)** | 2025-07-29 |  |
-| **[Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots](http://arxiv.org/abs/2507.20217v2)** | 2025-07-29 | Tech Report |
-| **[MP1: MeanFlow Tames Policy Learning in 1-step for Robotic Manipulation](http://arxiv.org/abs/2507.10543v3)** | 2025-07-29 |  |
-| **[Sound Source Localization for Human-Robot Interaction in Outdoor Environments](http://arxiv.org/abs/2507.21431v1)** | 2025-07-29 |  |
+| **[Multi-robot LiDAR SLAM: a practical case study in underground tunnel environments](http://arxiv.org/abs/2507.21553v2)** | 2025-07-30 | 14 pages, 14 figures |
+| **[Resilient Multi-Robot Target Tracking with Sensing and Communication Danger Zones](http://arxiv.org/abs/2409.11230v2)** | 2025-07-30 |  |
+| **[Spatial Language Likelihood Grounding Network for Bayesian Fusion of Human-Robot Observations](http://arxiv.org/abs/2507.19947v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to the 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC); Supplementary video: https://cu-asl.github.io/fp-lgn/</p></details> |
+| **[RobEthiChor: Automated Context-aware Ethics-based Negotiation for Autonomous Robots](http://arxiv.org/abs/2507.22664v1)** | 2025-07-30 |  |
+| **[UniLegs: Universal Multi-Legged Robot Control through Morphology-Agnostic Policy Distillation](http://arxiv.org/abs/2507.22653v1)** | 2025-07-30 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, IROS 2025</p></details> |
+| **[EmojiVoice: Towards long-term controllable expressivity in robot speech](http://arxiv.org/abs/2506.15085v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to RO-MAN 2025, Demo at HRI 2025 : https://dl.acm.org/doi/10.5555/3721488.3721774 Project webpage here: https://rosielab.github.io/emojivoice/ Toolbox here: https://github.com/rosielab/emojivoice</p></details> |
+| **[TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation](http://arxiv.org/abs/2505.10696v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted for publication to IEEE/RSJ IROS 2025</p></details> |
+| **[Explainable Deep Anomaly Detection with Sequential Hypothesis Testing for Robotic Sewer Inspection](http://arxiv.org/abs/2507.22546v1)** | 2025-07-30 |  |
+| **[Recognizing Actions from Robotic View for Natural Human-Robot Interaction](http://arxiv.org/abs/2507.22522v1)** | 2025-07-30 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, Accepted to ICCV2025</p></details> |
+| **[Swing Leg Motion Strategy for Heavy-load Legged Robot Based on Force Sensing](http://arxiv.org/abs/2309.01112v2)** | 2025-07-30 | <details><summary>The m...</summary><p>The manuscript is withdrawn due to ongoing major revisions and improvements to the methodology and experimental validation</p></details> |
+| **[A Two-Stage Lightweight Framework for Efficient Land-Air Bimodal Robot Autonomous Navigation](http://arxiv.org/abs/2507.22473v1)** | 2025-07-30 | IROS2025 |
+| **[Design, Dynamic Modeling and Control of a 2-DOF Robotic Wrist Actuated by Twisted and Coiled Actuators](http://arxiv.org/abs/2503.05508v2)** | 2025-07-30 |  |
+| **[Improving Generalization Ability of Robotic Imitation Learning by Resolving Causal Confusion in Observations](http://arxiv.org/abs/2507.22380v1)** | 2025-07-30 | 13 pages |
+| **[NeurIT: Pushing the Limit of Neural Inertial Tracking for Indoor Robotic IoT](http://arxiv.org/abs/2404.08939v2)** | 2025-07-30 |  |
+| **[FLORES: A Reconfigured Wheel-Legged Robot for Enhanced Steering and Adaptability](http://arxiv.org/abs/2507.22345v1)** | 2025-07-30 |  |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
