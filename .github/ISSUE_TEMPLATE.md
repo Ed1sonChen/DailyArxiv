@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 10, 2025
+title: Latest 15 Papers - August 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Effective Training Data Synthesis for Improving MLLM Chart Understanding](http://arxiv.org/abs/2508.06492v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025 (poster). 26 pages, 17 figures</p></details> |
+| **[GeoLaux: A Benchmark for Evaluating MLLMs' Geometry Performance on Long-Step Problems Requiring Auxiliary Lines](http://arxiv.org/abs/2508.06226v1)** | 2025-08-08 |  |
 | **[Follow-Your-Instruction: A Comprehensive MLLM Agent for World Data Synthesis](http://arxiv.org/abs/2508.05580v1)** | 2025-08-07 |  |
 | **[Human Cognitive Benchmarks Reveal Foundational Visual Gaps in MLLMs](http://arxiv.org/abs/2502.16435v2)** | 2025-08-07 | <details><summary>Updat...</summary><p>Update: Evaluated 20 MLLMs; Added generated test cases</p></details> |
 | **[MELLA: Bridging Linguistic Capability and Cultural Groundedness for Low-Resource Language MLLMs](http://arxiv.org/abs/2508.05502v1)** | 2025-08-07 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[GOBench: Benchmarking Geometric Optics Generation and Understanding of MLLMs](http://arxiv.org/abs/2506.00991v2)** | 2025-08-05 | 8 pages, 5 figures |
 | **[CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM](http://arxiv.org/abs/2411.04954v3)** | 2025-08-04 | <details><summary>Proje...</summary><p>Project page: https://cad-mllm.github.io/</p></details> |
 | **[Do MLLMs Capture How Interfaces Guide User Behavior? A Benchmark for Multimodal UI/UX Design Understanding](http://arxiv.org/abs/2505.05026v3)** | 2025-08-04 | <details><summary>26 pa...</summary><p>26 pages, 25 figures, Our code and dataset: https://github.com/jeochris/wiserui-bench</p></details> |
-| **[Free-MoRef: Instantly Multiplexing Context Perception Capabilities of Video-MLLMs within Single Inference](http://arxiv.org/abs/2508.02134v1)** | 2025-08-04 | <details><summary>publi...</summary><p>published in ICCV 2025</p></details> |
-| **[Affordance Benchmark for MLLMs](http://arxiv.org/abs/2506.00893v2)** | 2025-08-02 |  |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
@@ -45,25 +45,28 @@ labels: documentation
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](http://arxiv.org/abs/2508.05635v1)** | 2025-08-07 | <details><summary>https...</summary><p>https://genie-envisioner.github.io/</p></details> |
-| **[Mixed-Initiative Dialog for Human-Robot Collaborative Manipulation](http://arxiv.org/abs/2508.05535v1)** | 2025-08-07 | <details><summary>Proje...</summary><p>Project website at https://robin-lab.cs.utexas.edu/MicoBot/</p></details> |
-| **[Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion](http://arxiv.org/abs/2408.01225v2)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted at IROS 2024</p></details> |
-| **[Motion Planning Diffusion: Learning and Adapting Robot Motion Planning with Diffusion Models](http://arxiv.org/abs/2412.19948v2)** | 2025-08-07 |  |
-| **[Do Robots Really Need Anthropomorphic Hands?](http://arxiv.org/abs/2508.05415v1)** | 2025-08-07 |  |
-| **[Computational Design and Fabrication of Modular Robots with Untethered Control](http://arxiv.org/abs/2508.05410v1)** | 2025-08-07 |  |
-| **[Robots can defuse high-intensity conflict situations](http://arxiv.org/abs/2508.05373v1)** | 2025-08-07 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) October 25-29, 2020, Las Vegas, NV, USA</p></details> |
-| **[Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control](http://arxiv.org/abs/2508.05342v1)** | 2025-08-07 | Journal under review |
-| **[Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction](http://arxiv.org/abs/2508.05294v1)** | 2025-08-07 |  |
-| **[Dancing with a Robot: An Experimental Study of Child-Robot Interaction in a Performative Art Setting](http://arxiv.org/abs/2508.05208v1)** | 2025-08-07 | <details><summary>publi...</summary><p>published by Springer</p></details> |
-| **[EndoMatcher: Generalizable Endoscopic Image Matcher via Multi-Domain Pre-training for Robot-Assisted Surgery](http://arxiv.org/abs/2508.05205v1)** | 2025-08-07 |  |
-| **[Learning to See and Act: Task-Aware View Planning for Robotic Manipulation](http://arxiv.org/abs/2508.05186v1)** | 2025-08-07 | <details><summary>7 pag...</summary><p>7 pages, 9 figures, project page: https://hcplab-sysu.github.io/TAVP</p></details> |
-| **[FCBV-Net: Category-Level Robotic Garment Smoothing via Feature-Conditioned Bimanual Value Prediction](http://arxiv.org/abs/2508.05153v1)** | 2025-08-07 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 1 table. Submitted to IEEE Robotics and Automation Letters</p></details> |
-| **[Chemist Eye: A Visual Language Model-Powered System for Safety Monitoring and Robot Decision-Making in Self-Driving Laboratories](http://arxiv.org/abs/2508.05148v1)** | 2025-08-07 |  |
-| **[From Canada to Japan: How 10,000 km Affect User Perception in Robot Teleoperation](http://arxiv.org/abs/2508.05143v1)** | 2025-08-07 | <details><summary>Autho...</summary><p>Author preprint - Accepted for Humanoids 2025</p></details> |
+| **[Failure-Aware Multi-Robot Coordination for Resilient and Adaptive Target Tracking](http://arxiv.org/abs/2508.02529v2)** | 2025-08-08 |  |
+| **[Shortcut Learning in Generalist Robot Policies: The Role of Dataset Diversity and Fragmentation](http://arxiv.org/abs/2508.06426v1)** | 2025-08-08 | CoRL 2025 |
+| **[Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative Human-Robot Interaction](http://arxiv.org/abs/2508.02505v2)** | 2025-08-08 |  |
+| **[Surrogate-Enhanced Modeling and Adaptive Modular Control of All-Electric Heavy-Duty Robotic Manipulators](http://arxiv.org/abs/2508.06313v1)** | 2025-08-08 | <details><summary>This ...</summary><p>This is submitted to IEEE T-ASE</p></details> |
+| **[Evaluating Robot Program Performance with Power Consumption Driven Metrics in Lightweight Industrial Robots](http://arxiv.org/abs/2508.06295v1)** | 2025-08-08 |  |
+| **[ADPro: a Test-time Adaptive Diffusion Policy for Robot Manipulation via Manifold and Initial Noise Constraints](http://arxiv.org/abs/2508.06266v1)** | 2025-08-08 |  |
+| **[Unified Multi-Rate Model Predictive Control for a Jet-Powered Humanoid Robot](http://arxiv.org/abs/2505.16478v2)** | 2025-08-08 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 2025 IEEE-RAS 24th International Conference on Humanoid Robots (Humanoids), Seoul, 2025</p></details> |
+| **[REBot: Reflexive Evasion Robot for Instantaneous Dynamic Obstacle Avoidance](http://arxiv.org/abs/2508.06229v1)** | 2025-08-08 |  |
+| **[Graph-based Robot Localization Using a Graph Neural Network with a Floor Camera and a Feature Rich Industrial Floor](http://arxiv.org/abs/2508.06177v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted at 28th RoboCup International Symposium, Salvador, Brasil</p></details> |
+| **[Incremental Language Understanding for Online Motion Planning of Robot Manipulators](http://arxiv.org/abs/2508.06095v1)** | 2025-08-08 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, accepted at IROS 2025</p></details> |
+| **[CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction](http://arxiv.org/abs/2410.01273v3)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted to ICRA 2025, project page https://worv-ai.github.io/canvas</p></details> |
+| **[PASG: A Closed-Loop Framework for Automated Geometric Primitive Extraction and Semantic Anchoring in Robotic Manipulation](http://arxiv.org/abs/2508.05976v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. 8 pages main paper, 8 figures, plus supplementary material</p></details> |
+| **[Direct Robot Configuration Space Construction using Convolutional Encoder-Decoders](http://arxiv.org/abs/2303.05653v2)** | 2025-08-08 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 4 tables; Appeared at the ICML 2025 Workshop on Building Physically Plausible World Models</p></details> |
+| **[Social and Telepresence Robots for Accessibility and Inclusion in Small Museums](http://arxiv.org/abs/2508.05946v1)** | 2025-08-08 |  |
+| **[Towards Transparent Ethical AI: A Roadmap for Trustworthy Robotic Systems](http://arxiv.org/abs/2508.05846v1)** | 2025-08-07 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 3rd International Conference on Robotics, Control and Vision Engineering (RCVE'25). 6 pages, 3 tables</p></details> |
 
 ## diffusion policy
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation](http://arxiv.org/abs/2505.11528v2)** | 2025-08-08 | CoRL 2025 |
+| **[ADPro: a Test-time Adaptive Diffusion Policy for Robot Manipulation via Manifold and Initial Noise Constraints](http://arxiv.org/abs/2508.06266v1)** | 2025-08-08 |  |
+| **[Latent Policy Barrier: Learning Robust Visuomotor Policies by Staying In-Distribution](http://arxiv.org/abs/2508.05941v1)** | 2025-08-08 |  |
 | **[Fast and Robust Visuomotor Riemannian Flow Matching Policy](http://arxiv.org/abs/2412.10855v3)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE T-RO. Project website: https://sites.google.com/view/rfmp 17 pages, 12 figures, 12 tables</p></details> |
 | **[Real-Time Iteration Scheme for Diffusion Policy](http://arxiv.org/abs/2508.05396v1)** | 2025-08-07 | <details><summary>\c{op...</summary><p>\c{opyright} 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 | **[Empirical Analysis of Sim-and-Real Cotraining of Diffusion Policies for Planar Pushing from Pixels](http://arxiv.org/abs/2503.22634v2)** | 2025-08-05 | <details><summary>11 pa...</summary><p>11 pages, 17 figures, IROS 2025 Aug 5, 2025 update: Included new experiments in Sections V and VII. Updated abstract and minor changes to text</p></details> |
@@ -76,7 +79,4 @@ labels: documentation
 | **[One-Step Flow Policy Mirror Descent](http://arxiv.org/abs/2507.23675v1)** | 2025-07-31 |  |
 | **[Retrieve-Augmented Generation for Speeding up Diffusion Policy without Additional Training](http://arxiv.org/abs/2507.21452v1)** | 2025-07-29 |  |
 | **[FlowNav: Combining Flow Matching and Depth Priors for Efficient Navigation](http://arxiv.org/abs/2411.09524v3)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted to IROS'25. Previous version accepted at CoRL 2024 workshop on Learning Effective Abstractions for Planning (LEAP) and workshop on Differentiable Optimization Everywhere: Simulation, Estimation, Learning, and Control</p></details> |
-| **[The Pitfalls of Imitation Learning when Actions are Continuous](http://arxiv.org/abs/2503.09722v4)** | 2025-07-26 | <details><summary>98 pa...</summary><p>98 pages, 2 figures, updated proof sketch</p></details> |
-| **[PinchBot: Long-Horizon Deformable Manipulation with Guided Diffusion Policy](http://arxiv.org/abs/2507.17846v1)** | 2025-07-23 |  |
-| **[VITA: Vision-to-Action Flow Matching Policy](http://arxiv.org/abs/2507.13231v1)** | 2025-07-17 | <details><summary>Proje...</summary><p>Project page: https://ucd-dare.github.io/VITA/</p></details> |
 
