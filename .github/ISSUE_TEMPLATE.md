@@ -4,25 +4,6 @@ labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
 
-## MLLM
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Pose-RFT: Enhancing MLLMs for 3D Pose Generation via Hybrid Action Reinforcement Fine-Tuning](http://arxiv.org/abs/2508.07804v1)** | 2025-08-11 |  |
-| **[Visual Evolutionary Optimization on Graph-Structured Combinatorial Problems with MLLMs: A Case Study of Influence Maximization](http://arxiv.org/abs/2505.06850v2)** | 2025-08-11 |  |
-| **[TARS: MinMax Token-Adaptive Preference Strategy for MLLM Hallucination Reduction](http://arxiv.org/abs/2507.21584v3)** | 2025-08-09 |  |
-| **[MMReID-Bench: Unleashing the Power of MLLMs for Effective and Versatile Person Re-identification](http://arxiv.org/abs/2508.06908v1)** | 2025-08-09 |  |
-| **[Effective Training Data Synthesis for Improving MLLM Chart Understanding](http://arxiv.org/abs/2508.06492v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025 (poster). 26 pages, 17 figures</p></details> |
-| **[GeoLaux: A Benchmark for Evaluating MLLMs' Geometry Performance on Long-Step Problems Requiring Auxiliary Lines](http://arxiv.org/abs/2508.06226v1)** | 2025-08-08 |  |
-| **[CountQA: How Well Do MLLMs Count in the Wild?](http://arxiv.org/abs/2508.06585v1)** | 2025-08-08 |  |
-| **[Follow-Your-Instruction: A Comprehensive MLLM Agent for World Data Synthesis](http://arxiv.org/abs/2508.05580v1)** | 2025-08-07 |  |
-| **[Human Cognitive Benchmarks Reveal Foundational Visual Gaps in MLLMs](http://arxiv.org/abs/2502.16435v2)** | 2025-08-07 | <details><summary>Updat...</summary><p>Update: Evaluated 20 MLLMs; Added generated test cases</p></details> |
-| **[MELLA: Bridging Linguistic Capability and Cultural Groundedness for Low-Resource Language MLLMs](http://arxiv.org/abs/2508.05502v1)** | 2025-08-07 |  |
-| **[Unlocking the Potential of MLLMs in Referring Expression Segmentation via a Light-weight Mask Decoder](http://arxiv.org/abs/2508.04107v2)** | 2025-08-07 | 9 pages, 4 figures |
-| **[A Metric for MLLM Alignment in Large-scale Recommendation](http://arxiv.org/abs/2508.04963v1)** | 2025-08-07 | <details><summary>Pre-p...</summary><p>Pre-print.Under Review</p></details> |
-| **[VER-Bench: Evaluating MLLMs on Reasoning with Fine-Grained Visual Evidence](http://arxiv.org/abs/2508.04852v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accept by ACMM2025 Dataset track</p></details> |
-| **[p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay](http://arxiv.org/abs/2412.04449v2)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025; Code released at https://github.com/MCG-NJU/p-MoD</p></details> |
-| **[ConfProBench: A Confidence Evaluation Benchmark for MLLM-Based Process Judges](http://arxiv.org/abs/2508.04576v1)** | 2025-08-06 |  |
-
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
@@ -61,22 +42,41 @@ labels: documentation
 | **[Industrial Robot Motion Planning with GPUs: Integration of cuRobo for Extended DOF Systems](http://arxiv.org/abs/2508.04146v2)** | 2025-08-11 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 2 tables</p></details> |
 | **[End-to-End Humanoid Robot Safe and Comfortable Locomotion Policy](http://arxiv.org/abs/2508.07611v1)** | 2025-08-11 |  |
 
-## diffusion policy
+## Vision Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion](http://arxiv.org/abs/2508.08241v1)** | 2025-08-11 | 9 pages, 1 figure |
-| **[AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation](http://arxiv.org/abs/2508.07770v1)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted by Conference on Robot Learning 2025</p></details> |
-| **[DexFruit: Dexterous Manipulation and Gaussian Splatting Inspection of Fruit](http://arxiv.org/abs/2508.07118v1)** | 2025-08-09 | 8 pages, 5 figures |
-| **[CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion](http://arxiv.org/abs/2506.14769v2)** | 2025-08-09 |  |
-| **[DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](http://arxiv.org/abs/2502.05855v3)** | 2025-08-09 | <details><summary>The w...</summary><p>The webpage is at https://dex-vla.github.io/. DexVLA is accepted by CoRL 2025</p></details> |
-| **[Rhetorical Text-to-Image Generation via Two-layer Diffusion Policy Optimization](http://arxiv.org/abs/2505.22792v2)** | 2025-08-09 |  |
-| **[D3P: Dynamic Denoising Diffusion Policy via Reinforcement Learning](http://arxiv.org/abs/2508.06804v1)** | 2025-08-09 |  |
+| **[ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for Long-Horizon Tasks](http://arxiv.org/abs/2508.08240v1)** | 2025-08-11 |  |
+| **[Spatial-ORMLLM: Improve Spatial Relation Understanding in the Operating Room with Multimodal Large Language Model](http://arxiv.org/abs/2508.08199v1)** | 2025-08-11 |  |
+| **[Sparsity Outperforms Low-Rank Projections in Few-Shot Adaptation](http://arxiv.org/abs/2504.12436v2)** | 2025-08-11 | ICCV2025 |
+| **[BadPromptFL: A Novel Backdoor Threat to Prompt-based Federated Learning in Multimodal Models](http://arxiv.org/abs/2508.08040v1)** | 2025-08-11 |  |
+| **[TRIDE: A Text-assisted Radar-Image weather-aware fusion network for Depth Estimation](http://arxiv.org/abs/2508.08038v1)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted by TMLR (2025.08)</p></details> |
+| **[SynthVLM: Towards High-Quality and Efficient Synthesis of Image-Caption Datasets for Vision-Language Models](http://arxiv.org/abs/2407.20756v5)** | 2025-08-11 |  |
+| **[CLGRPO: Reasoning Ability Enhancement for Small VLMs](http://arxiv.org/abs/2506.18048v2)** | 2025-08-11 | 11 pages, 5 figures |
+| **[DreamFrame: Enhancing Video Understanding via Automatically Generated QA and Style-Consistent Keyframes](http://arxiv.org/abs/2403.01422v5)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted by ACMM'MM 2025</p></details> |
+| **[TAG: A Simple Yet Effective Temporal-Aware Approach for Zero-Shot Video Temporal Grounding](http://arxiv.org/abs/2508.07925v1)** | 2025-08-11 |  |
+| **[RSVLM-QA: A Benchmark Dataset for Remote Sensing Vision Language Model-based Question Answering](http://arxiv.org/abs/2508.07918v1)** | 2025-08-11 | <details><summary>This ...</summary><p>This paper has been accepted to the proceedings of the 33rd ACM International Multimedia Conference (ACM Multimedia 2025)</p></details> |
+| **[Multi-Modal Semantic Parsing for the Interpretation of Tombstone Inscriptions](http://arxiv.org/abs/2507.04377v3)** | 2025-08-11 | ACMMM 2025 |
+| **[CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning](http://arxiv.org/abs/2508.07871v1)** | 2025-08-11 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, 6 tables</p></details> |
+| **[Effortless Vision-Language Model Specialization in Histopathology without Annotation](http://arxiv.org/abs/2508.07835v1)** | 2025-08-11 |  |
+| **[MIMIC: Multimodal Inversion for Model Interpretation and Conceptualization](http://arxiv.org/abs/2508.07833v1)** | 2025-08-11 | <details><summary>Proje...</summary><p>Project page: https://anaekin.github.io/MIMIC</p></details> |
+| **[Architectural Co-Design for Zero-Shot Anomaly Detection: Decoupling Representation and Dynamically Fusing Features in CLIP](http://arxiv.org/abs/2508.07819v1)** | 2025-08-11 | <details><summary>4 pag...</summary><p>4 pages, 1 reference, 3 figures, icassp 2026</p></details> |
+
+## world model
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Embodied intelligent industrial robotics: Concepts and techniques](http://arxiv.org/abs/2505.09305v4)** | 2025-08-10 | <details><summary>68 pa...</summary><p>68 pages, 12 figures. The associated project can be found at https://github.com/jackyzengl/EIIR</p></details> |
+| **[Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation](http://arxiv.org/abs/2508.06990v1)** | 2025-08-09 | 23 pages |
+| **[Large Model Empowered Metaverse: State-of-the-Art, Challenges and Opportunities](http://arxiv.org/abs/2502.10397v2)** | 2025-08-09 | <details><summary>9 pag...</summary><p>9 pages,5 figures, 1 table, accepted by IEEE Network in Aug. 2025</p></details> |
+| **[In-Context Reinforcement Learning via Communicative World Models](http://arxiv.org/abs/2508.06659v1)** | 2025-08-08 |  |
 | **[LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation](http://arxiv.org/abs/2505.11528v2)** | 2025-08-08 | CoRL 2025 |
-| **[ADPro: a Test-time Adaptive Diffusion Policy for Robot Manipulation via Manifold and Initial Noise Constraints](http://arxiv.org/abs/2508.06266v1)** | 2025-08-08 |  |
-| **[Latent Policy Barrier: Learning Robust Visuomotor Policies by Staying In-Distribution](http://arxiv.org/abs/2508.05941v1)** | 2025-08-08 |  |
-| **[Fast and Robust Visuomotor Riemannian Flow Matching Policy](http://arxiv.org/abs/2412.10855v3)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE T-RO. Project website: https://sites.google.com/view/rfmp 17 pages, 12 figures, 12 tables</p></details> |
-| **[Real-Time Iteration Scheme for Diffusion Policy](http://arxiv.org/abs/2508.05396v1)** | 2025-08-07 | <details><summary>\c{op...</summary><p>\c{opyright} 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[Empirical Analysis of Sim-and-Real Cotraining of Diffusion Policies for Planar Pushing from Pixels](http://arxiv.org/abs/2503.22634v2)** | 2025-08-05 | <details><summary>11 pa...</summary><p>11 pages, 17 figures, IROS 2025 Aug 5, 2025 update: Included new experiments in Sections V and VII. Updated abstract and minor changes to text</p></details> |
+| **[Contemplative Artificial Intelligence](http://arxiv.org/abs/2504.15125v2)** | 2025-08-08 |  |
+| **[Bounding Distributional Shifts in World Modeling through Novelty Detection](http://arxiv.org/abs/2508.06096v1)** | 2025-08-08 | 7 pages, 6 figures |
+| **[The Missing Reward: Active Inference in the Era of Experience](http://arxiv.org/abs/2508.05619v1)** | 2025-08-07 |  |
+| **[IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model](http://arxiv.org/abs/2508.06571v1)** | 2025-08-07 | 9 pagres, 2 figures |
+| **[AgentSense: Virtual Sensor Data Generation Using LLM Agents in Simulated Home Environments](http://arxiv.org/abs/2506.11773v3)** | 2025-08-06 |  |
+| **[LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences](http://arxiv.org/abs/2508.03692v1)** | 2025-08-05 | <details><summary>Prepr...</summary><p>Preprint; 28 pages, 18 figures, 12 tables; Project Page at https://lidarcrafter.github.io</p></details> |
 | **[DiWA: Diffusion Policy Adaptation with World Models](http://arxiv.org/abs/2508.03645v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted at the 2025 Conference on Robot Learning (CoRL)</p></details> |
-| **[D2PPO: Diffusion Policy Policy Optimization with Dispersive Loss](http://arxiv.org/abs/2508.02644v1)** | 2025-08-04 |  |
+| **[Model-Based Soft Maximization of Suitable Metrics of Long-Term Human Power](http://arxiv.org/abs/2508.00159v2)** | 2025-08-04 |  |
+| **[medDreamer: Model-Based Reinforcement Learning with Latent Imagination on Complex EHRs for Clinical Decision Support](http://arxiv.org/abs/2505.19785v2)** | 2025-08-04 |  |
+| **[PIGDreamer: Privileged Information Guided World Models for Safe Partially Observable Reinforcement Learning](http://arxiv.org/abs/2508.02159v1)** | 2025-08-04 | ICML 2025 |
 
