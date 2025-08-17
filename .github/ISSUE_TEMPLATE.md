@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 14, 2025
+title: Latest 15 Papers - August 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,63 +7,68 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reinforcement Learning in Vision: A Survey](http://arxiv.org/abs/2508.08189v2)** | 2025-08-14 | 22 pages |
+| **[Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction](http://arxiv.org/abs/2508.05294v2)** | 2025-08-14 |  |
+| **[CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model](http://arxiv.org/abs/2508.10416v1)** | 2025-08-14 |  |
+| **[Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning](http://arxiv.org/abs/2508.10399v1)** | 2025-08-14 |  |
+| **[ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver](http://arxiv.org/abs/2508.10333v1)** | 2025-08-14 |  |
 | **[GeoVLA: Empowering 3D Representations in Vision-Language-Action Models](http://arxiv.org/abs/2508.09071v2)** | 2025-08-13 | <details><summary>The p...</summary><p>The project is visible at https://linsun449.github.io/GeoVLA/</p></details> |
 | **[AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation](http://arxiv.org/abs/2508.07770v2)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted by Conference on Robot Learning 2025</p></details> |
 | **[Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding](http://arxiv.org/abs/2508.09032v1)** | 2025-08-12 |  |
 | **[OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing](http://arxiv.org/abs/2508.08706v1)** | 2025-08-12 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 8 tables</p></details> |
 | **[IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model](http://arxiv.org/abs/2508.06571v2)** | 2025-08-12 | 9 pagres, 2 figures |
-| **[Reinforcement Learning in Vision: A Survey](http://arxiv.org/abs/2508.08189v1)** | 2025-08-11 | 22 pages |
 | **[GraphCoT-VLA: A 3D Spatial-Aware Reasoning Vision-Language-Action Model for Robotic Manipulation with Ambiguous Instructions](http://arxiv.org/abs/2508.07650v1)** | 2025-08-11 | 10 pages, 6 figures |
 | **[DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](http://arxiv.org/abs/2502.05855v3)** | 2025-08-09 | <details><summary>The w...</summary><p>The webpage is at https://dex-vla.github.io/. DexVLA is accepted by CoRL 2025</p></details> |
 | **[Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control](http://arxiv.org/abs/2508.05342v1)** | 2025-08-07 | Journal under review |
-| **[Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction](http://arxiv.org/abs/2508.05294v1)** | 2025-08-07 |  |
 | **[Learning to See and Act: Task-Aware View Planning for Robotic Manipulation](http://arxiv.org/abs/2508.05186v1)** | 2025-08-07 | <details><summary>7 pag...</summary><p>7 pages, 9 figures, project page: https://hcplab-sysu.github.io/TAVP</p></details> |
 | **[Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions](http://arxiv.org/abs/2508.04681v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Project Page: https://liangxuy.github.io/InterVLA/</p></details> |
-| **[Static and Plugged: Make Embodied Evaluation Simple](http://arxiv.org/abs/2508.06553v1)** | 2025-08-06 |  |
-| **[A tutorial note on collecting simulated data for vision-language-action models](http://arxiv.org/abs/2508.06547v1)** | 2025-08-06 | <details><summary>This ...</summary><p>This is a tutorial note for educational purposes</p></details> |
-| **[VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](http://arxiv.org/abs/2507.05116v3)** | 2025-08-05 |  |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PPL: Point Cloud Supervised Proprioceptive Locomotion Reinforcement Learning for Legged Robots in Crawl Spaces](http://arxiv.org/abs/2508.09950v1)** | 2025-08-13 |  |
-| **[Toward Human-Robot Teaming: Learning Handover Behaviors from 3D Scenes](http://arxiv.org/abs/2508.09855v1)** | 2025-08-13 | 3 pages, 3 figures |
-| **[Physical Autoregressive Model for Robotic Manipulation without Action Pretraining](http://arxiv.org/abs/2508.09822v1)** | 2025-08-13 | 16 pages, 6 figures |
-| **[Episodic Memory Verbalization using Hierarchical Representations of Life-Long Robot Experience](http://arxiv.org/abs/2409.17702v2)** | 2025-08-13 | <details><summary>Human...</summary><p>Humanoids 2025. Code, data and demo videos at https://hierarchical-emv.github.io</p></details> |
-| **[Immersive Teleoperation of Beyond-Human-Scale Robotic Manipulators: Challenges and Future Directions](http://arxiv.org/abs/2508.09700v1)** | 2025-08-13 | <details><summary>This ...</summary><p>This work has been accepted for presentation at the 2025 IEEE Conference on Telepresence, to be held in Leiden, Netherlands</p></details> |
-| **[Navigating Robot Swarm Through a Virtual Tube with Flow-Adaptive Distribution Control](http://arxiv.org/abs/2501.11938v2)** | 2025-08-13 | <details><summary>8 pag...</summary><p>8 pages(brief paper), 12 figures</p></details> |
-| **[AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation](http://arxiv.org/abs/2508.07770v2)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted by Conference on Robot Learning 2025</p></details> |
-| **[Interpretable Robot Control via Structured Behavior Trees and Large Language Models](http://arxiv.org/abs/2508.09621v1)** | 2025-08-13 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 3 tables</p></details> |
-| **[BEAVR: Bimanual, multi-Embodiment, Accessible, Virtual Reality Teleoperation System for Robots](http://arxiv.org/abs/2508.09606v1)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted for presentation on ICCR Kyoto 2025</p></details> |
-| **[Chemist Eye: A Visual Language Model-Powered System for Safety Monitoring and Robot Decision-Making in Self-Driving Laboratories](http://arxiv.org/abs/2508.05148v2)** | 2025-08-13 |  |
-| **[ESCoT: An Enhanced Step-based Coordinate Trajectory Planning Method for Multiple Car-like Robots](http://arxiv.org/abs/2508.09581v1)** | 2025-08-13 |  |
-| **[A Minimal Model for Emergent Collective Behaviors in Autonomous Robotic Multi-Agent Systems](http://arxiv.org/abs/2508.08473v2)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted for IEEE Transactions on Cognitive and Developmental Systems. Simulation video for Fig. 8: https://youtube.com/shorts/StHrtnSJyyg Simulation video for Fig. 10: https://youtu.be/Z26m7M-63D4</p></details> |
-| **[Reactive Model Predictive Contouring Control for Robot Manipulators](http://arxiv.org/abs/2508.09502v1)** | 2025-08-13 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 3 tables, conference paper, Accepted for publication at IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS) 2025</p></details> |
-| **[Human2Robot: Learning Robot Actions from Paired Human-Robot Videos](http://arxiv.org/abs/2502.16587v3)** | 2025-08-13 |  |
-| **[Touch and Tell: Multimodal Decoding of Human Emotions and Social Gestures for Robots](http://arxiv.org/abs/2412.03300v2)** | 2025-08-12 |  |
+| **[Robotic Ultrasound-Guided Femoral Artery Reconstruction of Anatomically-Representative Phantoms](http://arxiv.org/abs/2503.06795v2)** | 2025-08-14 |  |
+| **[A Multimodal Neural Network for Recognizing Subjective Self-Disclosure Towards Social Robots](http://arxiv.org/abs/2508.10828v1)** | 2025-08-14 | <details><summary>Accep...</summary><p>Accepted at 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
+| **[Learning Task Execution Hierarchies for Redundant Robots](http://arxiv.org/abs/2508.10780v1)** | 2025-08-14 |  |
+| **[Episodic Memory Verbalization using Hierarchical Representations of Life-Long Robot Experience](http://arxiv.org/abs/2409.17702v3)** | 2025-08-14 | <details><summary>Human...</summary><p>Humanoids 2025. Code, data and demo videos at https://hierarchical-emv.github.io</p></details> |
+| **[An Open-Source User-Friendly Interface for Simulating Magnetic Soft Robots using Simulation Open Framework Architecture (SOFA)](http://arxiv.org/abs/2508.10686v1)** | 2025-08-14 |  |
+| **[Synthesis of Deep Neural Networks with Safe Robust Adaptive Control for Reliable Operation of Wheeled Mobile Robots](http://arxiv.org/abs/2508.10634v1)** | 2025-08-14 |  |
+| **[Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction](http://arxiv.org/abs/2508.05294v2)** | 2025-08-14 |  |
+| **[Why Report Failed Interactions With Robots?! Towards Vignette-based Interaction Quality](http://arxiv.org/abs/2508.10603v1)** | 2025-08-14 | <details><summary>Accep...</summary><p>Accepted at the workshop on Real-World HRI in Public and Private Spaces: Successes, Failures, and Lessons Learned (PubRob-Fails), held at the IEEE RO-MAN Conference, 2025. 6 pages</p></details> |
+| **[MLM: Learning Multi-task Loco-Manipulation Whole-Body Control for Quadruped Robot with Arm](http://arxiv.org/abs/2508.10538v1)** | 2025-08-14 |  |
+| **[Motion Planning Diffusion: Learning and Adapting Robot Motion Planning with Diffusion Models](http://arxiv.org/abs/2412.19948v3)** | 2025-08-14 |  |
+| **[Enabling Generic Robot Skill Implementation Using Object Oriented Programming](http://arxiv.org/abs/2508.10497v1)** | 2025-08-14 | <details><summary>34th ...</summary><p>34th International Conference on Robotics in Alpe-Adria-Danube Region (RAAD 2025)</p></details> |
+| **[Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation](http://arxiv.org/abs/2310.17879v3)** | 2025-08-14 |  |
+| **[Traversability analysis with vision and terrain probing for safe legged robot navigation](http://arxiv.org/abs/2209.00334v2)** | 2025-08-14 |  |
+| **[Real-time Digital Double Framework to Predict Collapsible Terrains for Legged Robots](http://arxiv.org/abs/2209.09508v2)** | 2025-08-14 | <details><summary>IEEE/...</summary><p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Preprint version. Accepted June 2022</p></details> |
+| **[MASH: Cooperative-Heterogeneous Multi-Agent Reinforcement Learning for Single Humanoid Robot Locomotion](http://arxiv.org/abs/2508.10423v1)** | 2025-08-14 |  |
 
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLMC+: Benchmarking Vision-Language Model Compression with a Plug-and-play Toolkit](http://arxiv.org/abs/2508.09981v1)** | 2025-08-13 | 13 pages, 4 figures |
-| **[January Food Benchmark (JFB): A Public Benchmark Dataset and Evaluation Suite for Multimodal Food Analysis](http://arxiv.org/abs/2508.09966v1)** | 2025-08-13 |  |
-| **[GeoVLA: Empowering 3D Representations in Vision-Language-Action Models](http://arxiv.org/abs/2508.09071v2)** | 2025-08-13 | <details><summary>The p...</summary><p>The project is visible at https://linsun449.github.io/GeoVLA/</p></details> |
-| **[CAS-IQA: Teaching Vision-Language Models for Synthetic Angiography Quality Assessment](http://arxiv.org/abs/2505.17619v2)** | 2025-08-13 | <details><summary>Camer...</summary><p>Camera ready version for ICONIP 2025</p></details> |
-| **[Prototype-Guided Diffusion: Visual Conditioning without External Memory](http://arxiv.org/abs/2508.09922v1)** | 2025-08-13 |  |
-| **[Transferable Model-agnostic Vision-Language Model Adaptation for Efficient Weak-to-Strong Generalization](http://arxiv.org/abs/2508.08604v2)** | 2025-08-13 |  |
-| **[GLM-4.1V-Thinking and GLM-4.5V: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](http://arxiv.org/abs/2507.01006v3)** | 2025-08-13 |  |
-| **[Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents](http://arxiv.org/abs/2506.13205v5)** | 2025-08-13 | 10 pages |
-| **[Whole-Body Bilateral Teleoperation with Multi-Stage Object Parameter Estimation for Wheeled Humanoid Locomanipulation](http://arxiv.org/abs/2508.09846v1)** | 2025-08-13 |  |
-| **[Debiased Fine-Tuning for Vision-language Models by Prompt Regularization](http://arxiv.org/abs/2301.12429v3)** | 2025-08-13 | AAAI2023 accepted |
-| **[Evolution of Low-Level and Texture Human-CLIP Alignment](http://arxiv.org/abs/2508.09814v1)** | 2025-08-13 |  |
-| **[BigCharts-R1: Enhanced Chart Reasoning with Visual Reinforcement Finetuning](http://arxiv.org/abs/2508.09804v1)** | 2025-08-13 |  |
-| **[MoIIE: Mixture of Intra- and Inter-Modality Experts for Large Vision Language Models](http://arxiv.org/abs/2508.09779v1)** | 2025-08-13 |  |
-| **[The Perils of Chart Deception: How Misleading Visualizations Affect Vision-Language Models](http://arxiv.org/abs/2508.09716v1)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted to IEEE VIS 2025</p></details> |
-| **[NEURAL: Attention-Guided Pruning for Unified Multimodal Resource-Constrained Clinical Evaluation](http://arxiv.org/abs/2508.09715v1)** | 2025-08-13 |  |
+| **[OpenCUA: Open Foundations for Computer-Use Agents](http://arxiv.org/abs/2508.09123v2)** | 2025-08-14 | <details><summary>Updat...</summary><p>Updata author list, modify first page format, correct typos</p></details> |
+| **[AEGIS: Authenticity Evaluation Benchmark for AI-Generated Video Sequences](http://arxiv.org/abs/2508.10771v1)** | 2025-08-14 | <details><summary>Proce...</summary><p>Proceedings of the 33rd ACM International Conference on Multimedia</p></details> |
+| **[From Diagnosis to Improvement: Probing Spatio-Physical Reasoning in Vision Language Models](http://arxiv.org/abs/2508.10770v1)** | 2025-08-14 | 9 pages, 6 figures |
+| **[IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection](http://arxiv.org/abs/2508.09178v2)** | 2025-08-14 |  |
+| **[GLM-4.1V-Thinking and GLM-4.5V: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](http://arxiv.org/abs/2507.01006v4)** | 2025-08-14 |  |
+| **[IADGPT: Unified LVLM for Few-Shot Industrial Anomaly Detection, Localization, and Reasoning via In-Context Learning](http://arxiv.org/abs/2508.10681v1)** | 2025-08-14 |  |
+| **[MMRAG-DocQA: A Multi-Modal Retrieval-Augmented Generation Method for Document Question-Answering with Hierarchical Index and Multi-Granularity Retrieval](http://arxiv.org/abs/2508.00579v2)** | 2025-08-14 | <details><summary>Comme...</summary><p>Comments: Removed the footnote in page 1</p></details> |
+| **[AddressVLM: Cross-view Alignment Tuning for Image Address Localization using Large Vision-Language Models](http://arxiv.org/abs/2508.10667v1)** | 2025-08-14 |  |
+| **[Evaluation of Cultural Competence of Vision-Language Models](http://arxiv.org/abs/2505.22793v2)** | 2025-08-14 |  |
+| **[SemPT: Semantic Prompt Tuning for Vision-Language Models](http://arxiv.org/abs/2508.10645v1)** | 2025-08-14 |  |
+| **[ChatENV: An Interactive Vision-Language Model for Sensor-Guided Environmental Monitoring and Scenario Simulation](http://arxiv.org/abs/2508.10635v1)** | 2025-08-14 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 7 tables</p></details> |
+| **[Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction](http://arxiv.org/abs/2508.05294v2)** | 2025-08-14 |  |
+| **[CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting](http://arxiv.org/abs/2505.20469v2)** | 2025-08-14 | ICCV 2025 |
+| **[Improved GUI Grounding via Iterative Narrowing](http://arxiv.org/abs/2411.13591v6)** | 2025-08-14 | <details><summary>Code ...</summary><p>Code available at https://github.com/ant-8/GUI-Grounding-via-Iterative-Narrowing</p></details> |
+| **[SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs](http://arxiv.org/abs/2508.09584v2)** | 2025-08-14 |  |
 
 ## world model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Diagnosis to Improvement: Probing Spatio-Physical Reasoning in Vision Language Models](http://arxiv.org/abs/2508.10770v1)** | 2025-08-14 | 9 pages, 6 figures |
+| **[LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation](http://arxiv.org/abs/2505.11528v3)** | 2025-08-14 | CoRL 2025 |
+| **[Learning State-Space Models of Dynamic Systems from Arbitrary Data using Joint Embedding Predictive Architectures](http://arxiv.org/abs/2508.10489v1)** | 2025-08-14 | <details><summary>6 Pag...</summary><p>6 Pages, Published in IFAC Joint Symposia on Mechatronics & Robotics 2025</p></details> |
+| **[Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning](http://arxiv.org/abs/2508.10399v1)** | 2025-08-14 |  |
+| **[CAPTURe: Evaluating Spatial Reasoning in Vision Language Models via Occluded Object Counting](http://arxiv.org/abs/2504.15485v2)** | 2025-08-13 | ICCV 2025 |
 | **[HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation](http://arxiv.org/abs/2501.14729v3)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025. The code is available at https://github.com/LMD0311/HERMES</p></details> |
 | **[Edge General Intelligence Through World Models and Agentic AI: Fundamentals, Solutions, and Challenges](http://arxiv.org/abs/2508.09561v1)** | 2025-08-13 | 21 pages. 9 figures |
 | **[Simulating the Real World: A Unified Survey of Multimodal Generative Models](http://arxiv.org/abs/2503.04641v2)** | 2025-08-13 | <details><summary>Repos...</summary><p>Repository for the related papers at https://github.com/ALEEEHU/World-Simulator</p></details> |
@@ -74,9 +79,4 @@ labels: documentation
 | **[Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation](http://arxiv.org/abs/2508.06990v1)** | 2025-08-09 | 23 pages |
 | **[Large Model Empowered Metaverse: State-of-the-Art, Challenges and Opportunities](http://arxiv.org/abs/2502.10397v2)** | 2025-08-09 | <details><summary>9 pag...</summary><p>9 pages,5 figures, 1 table, accepted by IEEE Network in Aug. 2025</p></details> |
 | **[In-Context Reinforcement Learning via Communicative World Models](http://arxiv.org/abs/2508.06659v1)** | 2025-08-08 |  |
-| **[LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation](http://arxiv.org/abs/2505.11528v2)** | 2025-08-08 | CoRL 2025 |
-| **[Contemplative Artificial Intelligence](http://arxiv.org/abs/2504.15125v2)** | 2025-08-08 |  |
-| **[Bounding Distributional Shifts in World Modeling through Novelty Detection](http://arxiv.org/abs/2508.06096v1)** | 2025-08-08 | 7 pages, 6 figures |
-| **[The Missing Reward: Active Inference in the Era of Experience](http://arxiv.org/abs/2508.05619v1)** | 2025-08-07 |  |
-| **[AgentSense: Virtual Sensor Data Generation Using LLM Agents in Simulated Home Environments](http://arxiv.org/abs/2506.11773v3)** | 2025-08-06 |  |
 
