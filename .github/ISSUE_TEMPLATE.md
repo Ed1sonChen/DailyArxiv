@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 21, 2025
+title: Latest 15 Papers - August 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Survey of Vision-Language-Action Models for Embodied Manipulation](http://arxiv.org/abs/2508.15201v1)** | 2025-08-21 | in Chinese language |
 | **[MinD: Learning A Dual-System World Model for Real-Time Planning and Implicit Risk Analysis](http://arxiv.org/abs/2506.18897v2)** | 2025-08-20 |  |
 | **[3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds](http://arxiv.org/abs/2507.06484v2)** | 2025-08-19 | <details><summary>proje...</summary><p>project website: https://ai.stanford.edu/~sunfanyun/3d-generalist/</p></details> |
 | **[CAST: Counterfactual Labels Improve Instruction Following in Vision-Language-Action Models](http://arxiv.org/abs/2508.13446v1)** | 2025-08-19 |  |
@@ -21,11 +22,14 @@ labels: documentation
 | **[Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning](http://arxiv.org/abs/2508.10399v1)** | 2025-08-14 |  |
 | **[ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver](http://arxiv.org/abs/2508.10333v1)** | 2025-08-14 |  |
 | **[GeoVLA: Empowering 3D Representations in Vision-Language-Action Models](http://arxiv.org/abs/2508.09071v2)** | 2025-08-13 | <details><summary>The p...</summary><p>The project is visible at https://linsun449.github.io/GeoVLA/</p></details> |
-| **[AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation](http://arxiv.org/abs/2508.07770v2)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted by Conference on Robot Learning 2025</p></details> |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neural Robot Dynamics](http://arxiv.org/abs/2508.15755v1)** | 2025-08-21 |  |
+| **[ILeSiA: Interactive Learning of Robot Situational Awareness from Camera Input](http://arxiv.org/abs/2409.20173v2)** | 2025-08-21 | <details><summary>8 pag...</summary><p>8 pages, 9 figures. Accepted to IEEE Robotics and Automation Letters (Early Access)</p></details> |
+| **[Universal Dancing by Luminous Robots under Sequential Schedulers](http://arxiv.org/abs/2508.15484v1)** | 2025-08-21 |  |
+| **[A Vision-Based Shared-Control Teleoperation Scheme for Controlling the Robotic Arm of a Four-Legged Robot](http://arxiv.org/abs/2508.14994v1)** | 2025-08-20 |  |
 | **[Virtual Community: An Open World for Humans, Robots, and Society](http://arxiv.org/abs/2508.14893v1)** | 2025-08-20 | <details><summary>websi...</summary><p>website https://virtual-community-ai.github.io/</p></details> |
 | **[Dynamic Risk-Aware MPPI for Mobile Robots in Crowds via Efficient Monte Carlo Approximations](http://arxiv.org/abs/2506.21205v2)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted for presentation at IROS 2025. Accepted Version</p></details> |
 | **[Safe and Transparent Robots for Human-in-the-Loop Meat Processing](http://arxiv.org/abs/2508.14763v1)** | 2025-08-20 |  |
@@ -37,33 +41,31 @@ labels: documentation
 | **[Time-optimal Asynchronous Minimal Vertex Covering by Myopic Robots](http://arxiv.org/abs/2508.14247v1)** | 2025-08-19 |  |
 | **[Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](http://arxiv.org/abs/2508.13998v1)** | 2025-08-19 | <details><summary>Embod...</summary><p>Embodied-R1 technical report</p></details> |
 | **[The Social Context of Human-Robot Interactions](http://arxiv.org/abs/2508.13982v1)** | 2025-08-19 | <details><summary>To be...</summary><p>To be published in Annual Review of Control, Robotics, and Autonomous Systems</p></details> |
-| **[Toward an Interaction-Centered Approach to Robot Trustworthiness](http://arxiv.org/abs/2508.13976v1)** | 2025-08-19 | <details><summary>4 pag...</summary><p>4 pages, presented at TRUST workshop, organised in conjunction with the IEEE RO-MAN 2025 conference, held in Eindhoven, Netherlands</p></details> |
-| **[Toward Deployable Multi-Robot Collaboration via a Symbolically-Guided Decision Transformer](http://arxiv.org/abs/2508.13877v1)** | 2025-08-19 |  |
-| **[Blast Hole Seeking and Dipping -- The Navigation and Perception Framework in a Mine Site Inspection Robot](http://arxiv.org/abs/2508.13785v1)** | 2025-08-19 |  |
-| **[MR6D: Benchmarking 6D Pose Estimation for Mobile Robots](http://arxiv.org/abs/2508.13775v1)** | 2025-08-19 | <details><summary>accep...</summary><p>accepted CVPR 2025 Workshop on Recovering 6D Object Pose (R6D)</p></details> |
 
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MetaWild: A Multimodal Dataset for Animal Re-Identification with Environmental Metadata](http://arxiv.org/abs/2501.13368v2)** | 2025-08-20 | 7 pages, 6 figures |
-| **[Interpreting the linear structure of vision-language model embedding spaces](http://arxiv.org/abs/2504.11695v4)** | 2025-08-20 | COLM 2025 |
-| **[WISE-FUSE: Efficient Whole Slide Image Encoding via Coarse-to-Fine Patch Selection with VLM and LLM Knowledge Fusion](http://arxiv.org/abs/2508.14537v1)** | 2025-08-20 |  |
-| **[LaViPlan : Language-Guided Visual Path Planning with RLVR](http://arxiv.org/abs/2507.12911v4)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted to the 2nd ICCV 2025 Workshop on the Challenge of Out-of-Label Hazards in Autonomous Driving (13 pages, 6 figures)</p></details> |
-| **[JRDB-Reasoning: A Difficulty-Graded Benchmark for Visual Reasoning in Robotics](http://arxiv.org/abs/2508.10287v2)** | 2025-08-20 |  |
-| **[MetAdv: A Unified and Interactive Adversarial Testing Platform for Autonomous Driving](http://arxiv.org/abs/2508.06534v2)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025 Demo/Videos track</p></details> |
-| **[Bench2ADVLM: A Closed-Loop Benchmark for Vision-language Models in Autonomous Driving](http://arxiv.org/abs/2508.02028v2)** | 2025-08-20 |  |
-| **[AdaRing: Towards Ultra-Light Vision-Language Adaptation via Cross-Layer Tensor Ring Decomposition](http://arxiv.org/abs/2508.11870v2)** | 2025-08-19 |  |
-| **[Multi-Rationale Explainable Object Recognition via Contrastive Conditional Inference](http://arxiv.org/abs/2508.14280v1)** | 2025-08-19 |  |
-| **[3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds](http://arxiv.org/abs/2507.06484v2)** | 2025-08-19 | <details><summary>proje...</summary><p>project website: https://ai.stanford.edu/~sunfanyun/3d-generalist/</p></details> |
-| **[CLIPSym: Delving into Symmetry Detection with CLIP](http://arxiv.org/abs/2508.14197v1)** | 2025-08-19 |  |
-| **[LENS: Learning to Segment Anything with Unified Reinforced Reasoning](http://arxiv.org/abs/2508.14153v1)** | 2025-08-19 | <details><summary>Code ...</summary><p>Code is released at https://github.com/hustvl/LENS</p></details> |
-| **[RadGPT: Constructing 3D Image-Text Tumor Datasets](http://arxiv.org/abs/2501.04678v2)** | 2025-08-19 |  |
-| **[Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](http://arxiv.org/abs/2508.13998v1)** | 2025-08-19 | <details><summary>Embod...</summary><p>Embodied-R1 technical report</p></details> |
-| **[Mitigating Cross-Image Information Leakage in LVLMs for Multi-Image Tasks](http://arxiv.org/abs/2508.13744v1)** | 2025-08-19 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/yejipark-m/FOCUS</p></details> |
+| **[LLM-empowered Dynamic Prompt Routing for Vision-Language Models Tuning under Long-Tailed Distributions](http://arxiv.org/abs/2508.15688v1)** | 2025-08-21 | <details><summary>accep...</summary><p>accepted by EMNLP 2025</p></details> |
+| **[Mind and Motion Aligned: A Joint Evaluation IsaacSim Benchmark for Task Planning and Low-Level Policies in Mobile Manipulation](http://arxiv.org/abs/2508.15663v1)** | 2025-08-21 |  |
+| **[Architectural Co-Design for Zero-Shot Anomaly Detection: Decoupling Representation and Dynamically Fusing Features in CLIP](http://arxiv.org/abs/2508.07819v2)** | 2025-08-21 | <details><summary>4 pag...</summary><p>4 pages, 1 reference, 3 figures, icassp 2026</p></details> |
+| **[The Devil is in the EOS: Sequence Training for Detailed Image Captioning](http://arxiv.org/abs/2507.20077v2)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted to COLM 2025</p></details> |
+| **[Referring Expression Instance Retrieval and A Strong End-to-End Baseline](http://arxiv.org/abs/2506.18246v4)** | 2025-08-21 | ACMMM2025 |
+| **[Synthesizing Near-Boundary OOD Samples for Out-of-Distribution Detection](http://arxiv.org/abs/2507.10225v3)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025 (Highlight)</p></details> |
+| **[Understanding Co-speech Gestures in-the-wild](http://arxiv.org/abs/2503.22668v2)** | 2025-08-21 | <details><summary>Main ...</summary><p>Main paper - 11 pages, 4 figures, Supplementary - 6 pages, 6 figures</p></details> |
+| **[DesignCLIP: Multimodal Learning with CLIP for Design Patent Understanding](http://arxiv.org/abs/2508.15297v1)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025. 22 pages, 14 figures</p></details> |
+| **[Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images](http://arxiv.org/abs/2508.15256v1)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. \c{opyright} IEEE 2025. This is the author's accepted version (camera-ready) of the paper. The definitive version is published in the Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2025). DOI will be updated when available</p></details> |
+| **[Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis](http://arxiv.org/abs/2508.15236v1)** | 2025-08-21 |  |
+| **[See it. Say it. Sorted: Agentic System for Compositional Diagram Generation](http://arxiv.org/abs/2508.15222v1)** | 2025-08-21 |  |
+| **[ContextualLVLM-Agent: A Holistic Framework for Multi-Turn Visually-Grounded Dialogue and Complex Instruction Following](http://arxiv.org/abs/2508.15164v1)** | 2025-08-21 |  |
+| **[DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup](http://arxiv.org/abs/2508.13560v2)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025, Project: https://github.com/xiaozhen228/DictAS</p></details> |
+| **[MoEcho: Exploiting Side-Channel Attacks to Compromise User Privacy in Mixture-of-Experts LLMs](http://arxiv.org/abs/2508.15036v1)** | 2025-08-20 | <details><summary>This ...</summary><p>This paper will appear in CCS 2025</p></details> |
+| **[ABC: Achieving Better Control of Multimodal Embeddings using VLMs](http://arxiv.org/abs/2503.00329v2)** | 2025-08-20 | TMLR 2025 |
 
 ## world model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model](http://arxiv.org/abs/2504.21024v2)** | 2025-08-21 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference</p></details> |
+| **[Goals and the Structure of Experience](http://arxiv.org/abs/2508.15013v1)** | 2025-08-20 |  |
 | **[VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness](http://arxiv.org/abs/2503.21755v2)** | 2025-08-20 | <details><summary>Equal...</summary><p>Equal contributions from first two authors. Project page: https://vchitect.github.io/VBench-2.0-project/ Code: https://github.com/Vchitect/VBench</p></details> |
 | **[MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers](http://arxiv.org/abs/2508.14704v1)** | 2025-08-20 | <details><summary>Websi...</summary><p>Website: https://mcp-universe.github.io</p></details> |
 | **[Extremum Flow Matching for Offline Goal Conditioned Reinforcement Learning](http://arxiv.org/abs/2505.19717v2)** | 2025-08-20 | <details><summary>2025 ...</summary><p>2025 IEEE-RAS 24th International Conference on Humanoid Robots (Humanoids), Sep 2025, Seoul, South Korea</p></details> |
@@ -77,6 +79,4 @@ labels: documentation
 | **[Contemplative Artificial Intelligence](http://arxiv.org/abs/2504.15125v3)** | 2025-08-18 |  |
 | **[Explainable Reinforcement Learning Agents Using World Models](http://arxiv.org/abs/2505.08073v2)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted by Workshop on Explainable Artificial Intelligence (XAI) at IJCAI 2025</p></details> |
 | **[Inducing Causal World Models in LLMs for Zero-Shot Physical Reasoning](http://arxiv.org/abs/2507.19855v3)** | 2025-08-17 | 12 pages, 4 figures, |
-| **[MAPF-World: Action World Model for Multi-Agent Path Finding](http://arxiv.org/abs/2508.12087v1)** | 2025-08-16 |  |
-| **[Finite Automata Extraction: Low-data World Model Learning as Programs from Gameplay Video](http://arxiv.org/abs/2508.11836v1)** | 2025-08-15 |  |
 
