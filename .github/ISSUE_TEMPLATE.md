@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 01, 2025
+title: Latest 15 Papers - September 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,12 @@ labels: documentation
 | **[GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data](http://arxiv.org/abs/2505.03233v3)** | 2025-08-27 |  |
 | **[MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation](http://arxiv.org/abs/2508.19236v1)** | 2025-08-26 | <details><summary>The p...</summary><p>The project is available at https://shihao1895.github.io/MemoryVLA</p></details> |
 | **[FlowVLA: Thinking in Motion with a Visual Chain of Thought](http://arxiv.org/abs/2508.18269v2)** | 2025-08-26 |  |
+| **[DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge](http://arxiv.org/abs/2507.04447v3)** | 2025-08-26 |  |
+| **[MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping](http://arxiv.org/abs/2506.06535v3)** | 2025-08-25 |  |
+| **[Continual Learning for Generative AI: From LLMs to MLLMs and Beyond](http://arxiv.org/abs/2506.13045v4)** | 2025-08-24 | Preprint |
+| **[4D Visual Pre-training for Robot Learning](http://arxiv.org/abs/2508.17230v1)** | 2025-08-24 |  |
+| **[GraphCoT-VLA: A 3D Spatial-Aware Reasoning Vision-Language-Action Model for Robotic Manipulation with Ambiguous Instructions](http://arxiv.org/abs/2508.07650v2)** | 2025-08-23 | 10 pages, 6 figures |
+| **[NinA: Normalizing Flows in Action. Training VLA Models with Normalizing Flows](http://arxiv.org/abs/2508.16845v1)** | 2025-08-23 |  |
 
 ## robot
 | **Title** | **Date** | **Comment** |
@@ -59,4 +65,18 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Learning Primitive Embodied World Models: Towards Scalable Robotic Learning](http://arxiv.org/abs/2508.20840v1)** | 2025-08-28 |  |
+| **[Disentangled World Models: Learning to Transfer Semantic Knowledge from Distracting Videos for Reinforcement Learning](http://arxiv.org/abs/2503.08751v2)** | 2025-08-28 |  |
+| **[MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time Autoregressive Video Generation](http://arxiv.org/abs/2508.19320v2)** | 2025-08-28 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://chenmingthu.github.io/milm/</p></details> |
+| **[Dynamics-Aligned Latent Imagination in Contextual World Models for Zero-Shot Generalization](http://arxiv.org/abs/2508.20294v1)** | 2025-08-27 | 31 pages, 4 figures |
+| **[Possible Principles for Aligned Structure Learning Agents](http://arxiv.org/abs/2410.00258v3)** | 2025-08-27 | <details><summary>24 pa...</summary><p>24 pages of content, 33 with references; accepted version</p></details> |
+| **[General agents contain world models](http://arxiv.org/abs/2506.01622v3)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted ICML 2025. Typos corrected</p></details> |
+| **[Tracking World States with Language Models: State-Based Evaluation Using Chess](http://arxiv.org/abs/2508.19851v1)** | 2025-08-27 | <details><summary>Spotl...</summary><p>Spotlight presentation at ICML 2025 Workshop on Assessing World Models</p></details> |
+| **[Explain Before You Answer: A Survey on Compositional Visual Reasoning](http://arxiv.org/abs/2508.17298v2)** | 2025-08-27 | <details><summary>Proje...</summary><p>Project Page: https://github.com/pokerme7777/Compositional-Visual-Reasoning-Survey</p></details> |
+| **[Enhancing Sample Efficiency and Exploration in Reinforcement Learning through the Integration of Diffusion Models and Proximal Policy Optimization](http://arxiv.org/abs/2409.01427v5)** | 2025-08-26 |  |
+| **[FlowVLA: Thinking in Motion with a Visual Chain of Thought](http://arxiv.org/abs/2508.18269v2)** | 2025-08-26 |  |
+| **[Dream to Chat: Model-based Reinforcement Learning on Dialogues with User Belief Modeling](http://arxiv.org/abs/2508.16876v2)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Findings</p></details> |
+| **[Language Models For Generalised PDDL Planning: Synthesising Sound and Programmatic Policies](http://arxiv.org/abs/2508.18507v1)** | 2025-08-25 | <details><summary>RLC 2...</summary><p>RLC 2025 Workshop on Programmatic Reinforcement Learning</p></details> |
+| **[ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation](http://arxiv.org/abs/2506.23126v4)** | 2025-08-25 |  |
+| **[Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](http://arxiv.org/abs/2407.06886v8)** | 2025-08-25 | <details><summary>The c...</summary><p>The comprehensive review of Embodied AI. We also provide the resource repository for Embodied AI: https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List</p></details> |
+| **[GWM: Towards Scalable Gaussian World Models for Robotic Manipulation](http://arxiv.org/abs/2508.17600v1)** | 2025-08-25 | <details><summary>Publi...</summary><p>Published at ICCV 2025. Project page: https://gaussian-world-model.github.io/</p></details> |
 
