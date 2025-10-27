@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 26, 2025
+title: Latest 15 Papers - October 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos](http://arxiv.org/abs/2510.21571v1)** | 2025-10-24 | <details><summary>Proje...</summary><p>Project page: https://microsoft.github.io/VITRA/</p></details> |
+| **[LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models](http://arxiv.org/abs/2510.13626v2)** | 2025-10-24 |  |
+| **[RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation](http://arxiv.org/abs/2510.17640v2)** | 2025-10-24 | <details><summary>9 pag...</summary><p>9 pages,7 figures, submitted to ICRA2026</p></details> |
+| **[SutureBot: A Precision Framework & Benchmark For Autonomous End-to-End Suturing](http://arxiv.org/abs/2510.20965v1)** | 2025-10-23 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 4 tables, NeurIPS 2025</p></details> |
 | **[VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation](http://arxiv.org/abs/2510.20818v1)** | 2025-10-23 |  |
 | **[Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey](http://arxiv.org/abs/2510.17111v3)** | 2025-10-23 |  |
 | **[MemER: Scaling Up Memory for Robot Control via Experience Retrieval](http://arxiv.org/abs/2510.20328v1)** | 2025-10-23 | <details><summary>Proje...</summary><p>Project page: https://jen-pan.github.io/memer/</p></details> |
@@ -18,55 +22,56 @@ labels: documentation
 | **[VLA-Cache: Efficient Vision-Language-Action Manipulation via Adaptive Token Caching](http://arxiv.org/abs/2502.02175v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[DiffVLA++: Bridging Cognitive Reasoning and End-to-End Driving through Metric-Guided Alignment](http://arxiv.org/abs/2510.17148v2)** | 2025-10-21 |  |
 | **[NEBULA: Do We Evaluate Vision-Language-Action Agents Correctly?](http://arxiv.org/abs/2510.16263v2)** | 2025-10-21 | <details><summary>Homep...</summary><p>Homepage: https://vulab-ai.github.io/NEBULA-Alpha/</p></details> |
-| **[RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation](http://arxiv.org/abs/2510.17640v1)** | 2025-10-20 | <details><summary>9 pag...</summary><p>9 pages,7 figures, submitted to ICRA2026</p></details> |
-| **[From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors](http://arxiv.org/abs/2510.17439v1)** | 2025-10-20 | <details><summary>Proje...</summary><p>Project page: https://falcon-vla.github.io/</p></details> |
-| **[Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots](http://arxiv.org/abs/2510.17369v1)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 SpaVLE workshop. 4 pages, 2 figures(in main paper, excluding references and supplements)</p></details> |
-| **[Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization](http://arxiv.org/abs/2505.15660v3)** | 2025-10-19 | <details><summary>Proje...</summary><p>Project Page: https://jiaming-zhou.github.io/AGNOSTOS</p></details> |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation](http://arxiv.org/abs/2510.20813v1)** | 2025-10-23 |  |
-| **[Real Deep Research for AI, Robotics and Beyond](http://arxiv.org/abs/2510.20809v1)** | 2025-10-23 | <details><summary>websi...</summary><p>website: https://realdeepresearch.github.io</p></details> |
-| **[The Reality Gap in Robotics: Challenges, Solutions, and Best Practices](http://arxiv.org/abs/2510.20808v1)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted for Publication as part of the Annual Review of Control, Robotics, and Autonomous Systems 2026</p></details> |
-| **[ViTacGen: Robotic Pushing with Vision-to-Touch Generation](http://arxiv.org/abs/2510.14117v2)** | 2025-10-23 |  |
-| **[Safe Decentralized Density Control of Multi-Robot Systems using PDE-Constrained Optimization with State Constraints](http://arxiv.org/abs/2510.20643v1)** | 2025-10-23 | Accepted to MRS 2025 |
-| **[Prognostic Framework for Robotic Manipulators Operating Under Dynamic Task Severities](http://arxiv.org/abs/2412.00538v2)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted for Publication in IEEE Transactions on Systems, Man, and Cybernetics: Systems</p></details> |
-| **[Degradation-Aware Cooperative Multi-Modal GNSS-Denied Localization Leveraging LiDAR-Based Robot Detections](http://arxiv.org/abs/2510.20480v1)** | 2025-10-23 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Robot Path and Trajectory Planning Considering a Spatially Fixed TCP](http://arxiv.org/abs/2510.20473v1)** | 2025-10-23 |  |
-| **[MR-UBi: Mixed Reality-Based Underwater Robot Arm Teleoperation System with Reaction Torque Indicator via Bilateral Control](http://arxiv.org/abs/2510.20407v1)** | 2025-10-23 |  |
-| **[VO-DP: Semantic-Geometric Adaptive Diffusion Policy for Vision-Only Robotic Manipulation](http://arxiv.org/abs/2510.15530v3)** | 2025-10-23 |  |
-| **[NeuralTouch: Neural Descriptors for Precise Sim-to-Real Tactile Robot Control](http://arxiv.org/abs/2510.20390v1)** | 2025-10-23 |  |
-| **[S$^2$-Diffusion: Generalizing from Instance-level to Category-level Skills in Robot Manipulation](http://arxiv.org/abs/2502.09389v3)** | 2025-10-23 |  |
-| **[IRIS: An Immersive Robot Interaction System](http://arxiv.org/abs/2502.03297v3)** | 2025-10-23 |  |
-| **[Multi-Modal Decentralized Reinforcement Learning for Modular Reconfigurable Lunar Robots](http://arxiv.org/abs/2510.20347v1)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted in IEEE iSpaRo 2025. Awaiting Publication</p></details> |
-| **[MemER: Scaling Up Memory for Robot Control via Experience Retrieval](http://arxiv.org/abs/2510.20328v1)** | 2025-10-23 | <details><summary>Proje...</summary><p>Project page: https://jen-pan.github.io/memer/</p></details> |
+| **[High-Precision Climbing Robot Localization Using Planar Array UWB/GPS/IMU/Barometer Integration](http://arxiv.org/abs/2509.23801v2)** | 2025-10-24 |  |
+| **[Enhancing Tactile-based Reinforcement Learning for Robotic Control](http://arxiv.org/abs/2510.21609v1)** | 2025-10-24 |  |
+| **[Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos](http://arxiv.org/abs/2510.21571v1)** | 2025-10-24 | <details><summary>Proje...</summary><p>Project page: https://microsoft.github.io/VITRA/</p></details> |
+| **[Enhancing Social Robots through Resilient AI](http://arxiv.org/abs/2510.21469v1)** | 2025-10-24 | <details><summary>8 pag...</summary><p>8 pages, Workshop on Adaptive Social Interaction based on user's Mental mOdels and behaVior in HRI, The 17th International Conference on Social Robotics, 10-12 September 2025, Naples (IT)</p></details> |
+| **[PREVENT: Proactive Risk Evaluation and Vigilant Execution of Tasks for Mobile Robotic Chemists using Multi-Modal Behavior Trees](http://arxiv.org/abs/2510.21438v1)** | 2025-10-24 | <details><summary>25 pa...</summary><p>25 pages, 8 figures, paper submitted to Robotics and Autonomous Systems Journal</p></details> |
+| **[RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation](http://arxiv.org/abs/2510.17640v2)** | 2025-10-24 | <details><summary>9 pag...</summary><p>9 pages,7 figures, submitted to ICRA2026</p></details> |
+| **[Load-bearing Assessment for Safe Locomotion of Quadruped Robots on Collapsing Terrain](http://arxiv.org/abs/2510.21369v1)** | 2025-10-24 |  |
+| **[Augmenting Neural Networks-Based Model Approximators in Robotic Force-Tracking Tasks](http://arxiv.org/abs/2509.08440v3)** | 2025-10-24 | <details><summary>In Pr...</summary><p>In Proceedings of the 22nd International Conference on Informatics in Control, Automation and Robotics - Volume 2: ICINCO, 394-401, 2025 , Marbella, Spain</p></details> |
+| **[An Agnostic End-Effector Alignment Controller for Robust Assembly of Modular Space Robots](http://arxiv.org/abs/2510.21164v1)** | 2025-10-24 | <details><summary>6 pag...</summary><p>6 pages, 12 figures. Accepted at iSparo 2025 | Video: https://youtu.be/BW0YgSrvuDo</p></details> |
+| **[Sequentially Teaching Sequential Tasks $(ST)^2$: Teaching Robots Long-horizon Manipulation Skills](http://arxiv.org/abs/2510.21046v1)** | 2025-10-23 |  |
 
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation](http://arxiv.org/abs/2510.20812v1)** | 2025-10-23 |  |
-| **[mmWalk: Towards Multi-modal Multi-view Walking Assistance](http://arxiv.org/abs/2510.11520v2)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 Datasets and Benchmarks Track. Data and Code: https://github.com/KediYing/mmWalk</p></details> |
-| **[Fast-Slow Thinking GRPO for Large Vision-Language Model Reasoning](http://arxiv.org/abs/2504.18458v2)** | 2025-10-23 |  |
-| **[Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models](http://arxiv.org/abs/2510.20707v1)** | 2025-10-23 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/xuyang-liu16/MixKV</p></details> |
-| **[Diagnosing Visual Reasoning: Challenges, Insights, and a Path Forward](http://arxiv.org/abs/2510.20696v1)** | 2025-10-23 | 5 pages |
-| **[REOBench: Benchmarking Robustness of Earth Observation Foundation Models](http://arxiv.org/abs/2505.16793v2)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to NeruIPS 2025 D&B Track</p></details> |
-| **[Better Tokens for Better 3D: Advancing Vision-Language Modeling in 3D Medical Imaging](http://arxiv.org/abs/2510.20639v1)** | 2025-10-23 | NeurIPS 2025 |
-| **[Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey](http://arxiv.org/abs/2510.17111v3)** | 2025-10-23 |  |
-| **[Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.13394v2)** | 2025-10-23 | <details><summary>Proje...</summary><p>Project Page: https://shinmohuang.github.io/spatialdise_page/</p></details> |
-| **[Grounding Language with Vision: A Conditional Mutual Information Calibrated Decoding Strategy for Reducing Hallucinations in LVLMs](http://arxiv.org/abs/2505.19678v3)** | 2025-10-23 |  |
-| **[Balanced Token Pruning: Accelerating Vision Language Models Beyond Local Optimization](http://arxiv.org/abs/2505.22038v2)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted by Neurips 2025</p></details> |
-| **[Bi-CoG: Bi-Consistency-Guided Self-Training for Vision-Language Models](http://arxiv.org/abs/2510.20477v1)** | 2025-10-23 |  |
-| **[ViSpec: Accelerating Vision-Language Models with Vision-Aware Speculative Decoding](http://arxiv.org/abs/2509.15235v5)** | 2025-10-23 | NeurIPS 2025 |
-| **[GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?](http://arxiv.org/abs/2510.20333v1)** | 2025-10-23 |  |
-| **[VITRIX-CLIPIN: Enhancing Fine-Grained Visual Understanding in CLIP via Instruction Editing Data and Long Captions](http://arxiv.org/abs/2508.02329v4)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[A Multimodal Benchmark for Framing of Oil & Gas Advertising and Potential Greenwashing Detection](http://arxiv.org/abs/2510.21679v1)** | 2025-10-24 | <details><summary>Forth...</summary><p>Forthcoming in NeurIPS 2025 Datasets and Benchmarks Track</p></details> |
+| **[MobileRL: Online Agentic Reinforcement Learning for Mobile GUI Agents](http://arxiv.org/abs/2509.18119v2)** | 2025-10-24 |  |
+| **[The Narrow Gate: Localized Image-Text Communication in Native Multimodal Models](http://arxiv.org/abs/2412.06646v3)** | 2025-10-24 |  |
+| **[Modest-Align: Data-Efficient Alignment for Vision-Language Models](http://arxiv.org/abs/2510.21606v1)** | 2025-10-24 |  |
+| **[Head Pursuit: Probing Attention Specialization in Multimodal Transformers](http://arxiv.org/abs/2510.21518v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 (spotlight)</p></details> |
+| **[MoniTor: Exploiting Large Language Models with Instruction for Online Video Anomaly Detection](http://arxiv.org/abs/2510.21449v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025. The first two authors hold equal contributions</p></details> |
+| **[Vision Language Models for Dynamic Human Activity Recognition in Healthcare Settings](http://arxiv.org/abs/2510.21424v1)** | 2025-10-24 |  |
+| **[Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models](http://arxiv.org/abs/2506.14674v2)** | 2025-10-24 | NeurIPS 2025 |
+| **[Bridging the gap to real-world language-grounded visual concept learning](http://arxiv.org/abs/2510.21412v1)** | 2025-10-24 |  |
+| **[BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning](http://arxiv.org/abs/2506.06072v3)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](http://arxiv.org/abs/2505.17982v4)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Surfer 2: The Next Generation of Cross-Platform Computer Use Agents](http://arxiv.org/abs/2510.19949v2)** | 2025-10-24 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 2 tables</p></details> |
+| **[VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a Unified Concept Set](http://arxiv.org/abs/2510.21323v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](http://arxiv.org/abs/2505.15966v3)** | 2025-10-24 | <details><summary>Proje...</summary><p>Project Page: https://tiger-ai-lab.github.io/Pixel-Reasoner/, Hands-on Demo: https://huggingface.co/spaces/TIGER-Lab/Pixel-Reasoner</p></details> |
+| **[Towards Comprehensive Scene Understanding: Integrating First and Third-Person Views for LVLMs](http://arxiv.org/abs/2505.21955v2)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 (Spotlight)</p></details> |
 
 ## world model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Intrinsic Goals for Autonomous Agents: Model-Based Exploration in Virtual Zebrafish Predicts Ethological Behavior and Whole-Brain Dynamics](http://arxiv.org/abs/2506.00138v2)** | 2025-10-24 | 17 pages, 7 figures |
+| **[SimuRA: A World-Model-Driven Simulative Reasoning Architecture for General Goal-Oriented Agents](http://arxiv.org/abs/2507.23773v2)** | 2025-10-24 | <details><summary>This ...</summary><p>This submission has been updated to adjust the scope and presentation of the work</p></details> |
+| **[WorldGrow: Generating Infinite 3D World](http://arxiv.org/abs/2510.21682v1)** | 2025-10-24 | <details><summary>Proje...</summary><p>Project page: https://world-grow.github.io/ Code: https://github.com/world-grow/WorldGrow</p></details> |
+| **[Revisiting Multi-Agent World Modeling from a Diffusion-Inspired Perspective](http://arxiv.org/abs/2505.20922v2)** | 2025-10-24 | Accepted at NIPS'25 |
+| **[PhysWorld: From Real Videos to World Models of Deformable Objects via Physics-Aware Demonstration Synthesis](http://arxiv.org/abs/2510.21447v1)** | 2025-10-24 | 17 pages, 5 figures |
+| **[DreamerV3-XP: Optimizing exploration through uncertainty estimation](http://arxiv.org/abs/2510.21418v1)** | 2025-10-24 |  |
+| **[Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks](http://arxiv.org/abs/2510.19195v2)** | 2025-10-24 |  |
+| **[OmniNWM: Omniscient Driving Navigation World Models](http://arxiv.org/abs/2510.18313v3)** | 2025-10-24 | <details><summary>https...</summary><p>https://arlo0o.github.io/OmniNWM/</p></details> |
+| **[How Hard is it to Confuse a World Model?](http://arxiv.org/abs/2510.21232v1)** | 2025-10-24 |  |
+| **[World Models Should Prioritize the Unification of Physical and Social Dynamics](http://arxiv.org/abs/2510.21219v1)** | 2025-10-24 |  |
+| **[A Smooth Sea Never Made a Skilled SAILOR: Robust Imitation via Learning to Search](http://arxiv.org/abs/2506.05294v2)** | 2025-10-24 |  |
 | **[From Masks to Worlds: A Hitchhiker's Guide to World Models](http://arxiv.org/abs/2510.20668v1)** | 2025-10-23 | <details><summary>Githu...</summary><p>Github: https://github.com/M-E-AGI-Lab/Awesome-World-Models</p></details> |
 | **[Benchmarking World-Model Learning](http://arxiv.org/abs/2510.19788v2)** | 2025-10-23 | 30 pages, 10 figures |
 | **[DMWM: Dual-Mind World Model with Long-Term Imagination](http://arxiv.org/abs/2502.07591v2)** | 2025-10-23 |  |
 | **[Semantic World Models](http://arxiv.org/abs/2510.19818v1)** | 2025-10-22 |  |
-| **[Masked Generative Priors Improve World Models Sequence Modelling Capabilities](http://arxiv.org/abs/2410.07836v6)** | 2025-10-22 |  |
 
