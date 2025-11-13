@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 12, 2025
+title: Latest 15 Papers - November 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -18,10 +18,10 @@ labels: documentation
 | **[NaVILA: Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/pdf/2412.04453v2)** | 2025-02-18 | <details><summary>Websi...</summary><p>Website: https://navila-bot.github.io/</p></details> |
 | **[Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning](https://arxiv.org/pdf/2510.11027v1)** | 2025-10-14 |  |
 | **[GeoVLA: Empowering 3D Representations in Vision-Language-Action Models](https://arxiv.org/pdf/2508.09071v2)** | 2025-08-14 | <details><summary>The p...</summary><p>The project is visible at https://linsun449.github.io/GeoVLA/</p></details> |
-| **[LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments](https://arxiv.org/pdf/2510.19655v1)** | 2025-10-23 |  |
 | **[Can Vision Language Models Understand Mimed Actions?](https://arxiv.org/pdf/2506.21586v2)** | 2025-08-08 | ACL 2025 Findings |
+| **[LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments](https://arxiv.org/pdf/2510.19655v1)** | 2025-10-23 |  |
+| **[A3VLM: Actionable Articulation-Aware Vision Language Model](https://arxiv.org/pdf/2406.07549v2)** | 2024-06-14 |  |
 | **[InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](https://arxiv.org/pdf/2505.13888v3)** | 2025-09-30 |  |
-| **[villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models](https://arxiv.org/pdf/2507.23682v3)** | 2025-09-26 | <details><summary>Proje...</summary><p>Project page: https://aka.ms/villa-x</p></details> |
 
 ## robot
 | **Title** | **Date** | **Comment** |
@@ -39,8 +39,8 @@ labels: documentation
 | **[Robot Operating System Compatible Mobile Robots for Education and Research](https://arxiv.org/pdf/2012.12527v1)** | 2020-12-24 | <details><summary>13 Pa...</summary><p>13 Pages, 22 Figures, Provided by Inovasyon Muhendislik</p></details> |
 | **[Concerns and Values in Human-Robot Interactions: A Focus on Social Robotics](https://arxiv.org/pdf/2501.05628v1)** | 2025-01-13 | <details><summary>52 pa...</summary><p>52 pages, 10 figures, 5 appendices</p></details> |
 | **[MobiKa - Low-Cost Mobile Robot for Human-Robot Interaction](https://arxiv.org/pdf/1905.01065v1)** | 2024-04-24 |  |
-| **[On Robot Revolution and Taxation](https://arxiv.org/pdf/1808.01666v1)** | 2018-08-07 |  |
 | **[Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics](https://arxiv.org/pdf/2506.00070v1)** | 2025-06-03 | 26 pages, 14 figures |
+| **[On Robot Revolution and Taxation](https://arxiv.org/pdf/1808.01666v1)** | 2018-08-07 |  |
 
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
@@ -59,7 +59,7 @@ labels: documentation
 | **[A Review of 3D Object Detection with Vision-Language Models](https://arxiv.org/pdf/2504.18738v1)** | 2025-04-29 |  |
 | **[Vision-Language Foundation Models as Effective Robot Imitators](https://arxiv.org/pdf/2311.01378v3)** | 2024-02-06 | <details><summary>Fix t...</summary><p>Fix typos. Project page: https://roboflamingo.github.io</p></details> |
 | **[CoLLaVO: Crayon Large Language and Vision mOdel](https://arxiv.org/pdf/2402.11248v4)** | 2024-06-04 | <details><summary>ACL 2...</summary><p>ACL 2024 Findings. Code available: https://github.com/ByungKwanLee/CoLLaVO</p></details> |
-| **[HyperCLIP: Adapting Vision-Language models with Hypernetworks](https://arxiv.org/pdf/2412.16777v1)** | 2024-12-24 |  |
+| **[Unified Vision-Language-Action Model](https://arxiv.org/pdf/2506.19850v1)** | 2025-06-25 | technical report |
 
 ## world model
 | **Title** | **Date** | **Comment** |
