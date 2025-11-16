@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,76 +7,76 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unified Vision-Language-Action Model](https://arxiv.org/pdf/2506.19850v1)** | 2025-06-25 | technical report |
-| **[A Survey on Vision-Language-Action Models: An Action Tokenization Perspective](https://arxiv.org/pdf/2507.01925v1)** | 2025-07-03 | 70 pages, 5 figures |
-| **[ROSA: Harnessing Robot States for Vision-Language and Action Alignment](https://arxiv.org/pdf/2506.13679v1)** | 2025-06-17 |  |
-| **[CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving](https://arxiv.org/pdf/2408.10845v3)** | 2025-10-15 | <details><summary>WACV ...</summary><p>WACV 2025, Project Page: https://turingmotors.github.io/covla-ad/</p></details> |
-| **[Vision-Language-Action Models: Concepts, Progress, Applications and Challenges](https://arxiv.org/pdf/2505.04769v1)** | 2025-05-09 | <details><summary>36 pa...</summary><p>36 pages, 18 Figures, 4 Tables</p></details> |
-| **[LLaDA-VLA: Vision Language Diffusion Action Models](https://arxiv.org/pdf/2509.06932v2)** | 2025-09-11 |  |
-| **[InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation](https://arxiv.org/pdf/2507.17520v1)** | 2025-07-24 | 38 pages |
-| **[Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations](https://arxiv.org/pdf/2509.11417v2)** | 2025-09-18 | <details><summary>Proje...</summary><p>Project Page: https://gen-vla.github.io/</p></details> |
-| **[NaVILA: Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/pdf/2412.04453v2)** | 2025-02-18 | <details><summary>Websi...</summary><p>Website: https://navila-bot.github.io/</p></details> |
-| **[Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning](https://arxiv.org/pdf/2510.11027v1)** | 2025-10-14 |  |
-| **[GeoVLA: Empowering 3D Representations in Vision-Language-Action Models](https://arxiv.org/pdf/2508.09071v2)** | 2025-08-14 | <details><summary>The p...</summary><p>The project is visible at https://linsun449.github.io/GeoVLA/</p></details> |
-| **[Can Vision Language Models Understand Mimed Actions?](https://arxiv.org/pdf/2506.21586v2)** | 2025-08-08 | ACL 2025 Findings |
-| **[LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments](https://arxiv.org/pdf/2510.19655v1)** | 2025-10-23 |  |
-| **[A3VLM: Actionable Articulation-Aware Vision Language Model](https://arxiv.org/pdf/2406.07549v2)** | 2024-06-14 |  |
-| **[InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](https://arxiv.org/pdf/2505.13888v3)** | 2025-09-30 |  |
+| **[Towards Blind and Low-Vision Accessibility of Lightweight VLMs and Custom LLM-Evals](https://arxiv.org/abs/2511.10615v1)** | 2025-11-13 | 8 pages |
+| **[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded](https://arxiv.org/abs/2511.10560v1)** | 2025-11-13 | <details><summary>Proje...</summary><p>Project Page: https://livioni.github.io/OmniVGGT-offcial/</p></details> |
+| **[SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation](https://arxiv.org/abs/2511.10518v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Oral), Project Page: https://github.com/JiuTian-VL/SemanticVLA</p></details> |
+| **[Facial-R1: Aligning Reasoning and Recognition for Facial Emotion Analysis](https://arxiv.org/abs/2511.10254v1)** | 2025-11-13 | <details><summary>This ...</summary><p>This paper has been accepted by AAAI 2026. 16 pages, 3 figures, 10 tables</p></details> |
+| **[Agent Journey Beyond RGB: Hierarchical Semantic-Spatial Representation Enrichment for Vision-and-Language Navigation](https://arxiv.org/abs/2412.06465v5)** | 2025-11-13 | <details><summary>AAAI2...</summary><p>AAAI2026, I14 pages, 12 figures, 11 tables</p></details> |
+| **[Phantom Menace: Exploring and Enhancing the Robustness of VLA Models against Physical Sensor Attacks](https://arxiv.org/abs/2511.10008v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[Audio-VLA: Adding Contact Audio Perception to Vision-Language-Action Model for Robotic Manipulation](https://arxiv.org/abs/2511.09958v1)** | 2025-11-13 |  |
+| **[Improving Pre-Trained Vision-Language-Action Policies with Model-Based Search](https://arxiv.org/abs/2508.12211v2)** | 2025-11-12 |  |
+| **[Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction](https://arxiv.org/abs/2508.05294v4)** | 2025-11-12 |  |
+| **[MAP-VLA: Memory-Augmented Prompting for Vision-Language-Action Model in Robotic Manipulation](https://arxiv.org/abs/2511.09516v1)** | 2025-11-12 |  |
+| **[WMPO: World Model-based Policy Optimization for Vision-Language-Action Models](https://arxiv.org/abs/2511.09515v1)** | 2025-11-12 | <details><summary>proje...</summary><p>project website: https://wm-po.github.io</p></details> |
+| **[Think, Remember, Navigate: Zero-Shot Object-Goal Navigation with VLM-Powered Reasoning](https://arxiv.org/abs/2511.08942v1)** | 2025-11-12 |  |
+| **[Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds](https://arxiv.org/abs/2511.08892v1)** | 2025-11-12 |  |
+| **[Survey of Vision-Language-Action Models for Embodied Manipulation](https://arxiv.org/abs/2508.15201v2)** | 2025-11-12 | in Chinese language |
+| **[MirrorLimb: Implementing hand pose acquisition and robot teleoperation based on RealMirror](https://arxiv.org/abs/2511.08865v1)** | 2025-11-12 |  |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Co-Robots as Care Robots](https://arxiv.org/pdf/2004.04374v1)** | 2020-04-10 | <details><summary>Accep...</summary><p>Accepted paper of the AAAI 2020 Spring Symposium "Applied AI in Healthcare: Safety, Community, and the Environment" (Stanford University). Because of the COVID-19 outbreak, the physical meeting has been postponed</p></details> |
-| **[Robot Accident Investigation: a case study in Responsible Robotics](https://arxiv.org/pdf/2005.07474v1)** | 2020-05-18 |  |
-| **[Robotics CTF (RCTF), a playground for robot hacking](https://arxiv.org/pdf/1810.02690v4)** | 2021-11-16 |  |
-| **[A Review on Robot Manipulation Methods in Human-Robot Interactions](https://arxiv.org/pdf/2309.04687v1)** | 2023-09-12 |  |
-| **[Robots as Actors in a Film: No War, A Robot Story](https://arxiv.org/pdf/1910.12294v1)** | 2019-10-29 |  |
-| **[Soft is Safe: Human-Robot Interaction for Soft Robots](https://arxiv.org/pdf/2502.01256v1)** | 2025-02-04 | 53 pages, 3 figures |
-| **[Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets](https://arxiv.org/pdf/2410.22325v2)** | 2024-10-31 |  |
-| **[Automatically designing robot swarms in environments populated by other robots: an experiment in robot shepherding](https://arxiv.org/pdf/2404.18221v1)** | 2024-04-30 | <details><summary>2024 ...</summary><p>2024 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
-| **[Mobile Robot Yielding Cues for Human-Robot Spatial Interaction](https://arxiv.org/pdf/2104.02279v1)** | 2021-04-07 | <details><summary>6 pag...</summary><p>6 pages, 5 figures. Submitted to IEEE Robotics and Automation Letters and 2021 IEEE/RSJ International Conference on Robotics and Automation (IROS'21)</p></details> |
-| **[Malleable Robots](https://arxiv.org/pdf/2502.04012v1)** | 2025-02-07 | <details><summary>37 pa...</summary><p>37 pages, 22 figures, chapter 7 of "Handbook on Soft Robotics"</p></details> |
-| **[Robot Operating System Compatible Mobile Robots for Education and Research](https://arxiv.org/pdf/2012.12527v1)** | 2020-12-24 | <details><summary>13 Pa...</summary><p>13 Pages, 22 Figures, Provided by Inovasyon Muhendislik</p></details> |
-| **[Concerns and Values in Human-Robot Interactions: A Focus on Social Robotics](https://arxiv.org/pdf/2501.05628v1)** | 2025-01-13 | <details><summary>52 pa...</summary><p>52 pages, 10 figures, 5 appendices</p></details> |
-| **[MobiKa - Low-Cost Mobile Robot for Human-Robot Interaction](https://arxiv.org/pdf/1905.01065v1)** | 2024-04-24 |  |
-| **[Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics](https://arxiv.org/pdf/2506.00070v1)** | 2025-06-03 | 26 pages, 14 figures |
-| **[On Robot Revolution and Taxation](https://arxiv.org/pdf/1808.01666v1)** | 2018-08-07 |  |
+| **[Robot Crash Course: Learning Soft and Stylized Falling](https://arxiv.org/abs/2511.10635v1)** | 2025-11-13 |  |
+| **[Text to Robotic Assembly of Multi Component Objects using 3D Generative AI and Vision Language Models](https://arxiv.org/abs/2511.02162v3)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025, Conference on Neural Information Processing Systems, Creative AI Track</p></details> |
+| **[SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation](https://arxiv.org/abs/2511.10518v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Oral), Project Page: https://github.com/JiuTian-VL/SemanticVLA</p></details> |
+| **[Onboard Mission Replanning for Adaptive Cooperative Multi-Robot Systems](https://arxiv.org/abs/2506.06094v4)** | 2025-11-13 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 1 table</p></details> |
+| **[Improving dependability in robotized bolting operations](https://arxiv.org/abs/2511.10448v1)** | 2025-11-13 | 10 pages, 9 figures |
+| **[RoboBenchMart: Benchmarking Robots in Retail Environment](https://arxiv.org/abs/2511.10276v1)** | 2025-11-13 |  |
+| **[Opinion: Towards Unified Expressive Policy Optimization for Robust Robot Learning](https://arxiv.org/abs/2511.10087v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 Workshop on Embodied World Models for Decision Making</p></details> |
+| **[Physics-informed Machine Learning for Static Friction Modeling in Robotic Manipulators Based on Kolmogorov-Arnold Networks](https://arxiv.org/abs/2511.10079v1)** | 2025-11-13 |  |
+| **[DecARt Leg: Design and Evaluation of a Novel Humanoid Robot Leg with Decoupled Actuation for Agile Locomotion](https://arxiv.org/abs/2511.10021v1)** | 2025-11-13 |  |
+| **[ManipDreamer3D : Synthesizing Plausible Robotic Manipulation Video with Occupancy-aware 3D Trajectory](https://arxiv.org/abs/2509.05314v2)** | 2025-11-13 | <details><summary>7page...</summary><p>7pages; 7figures; 3 tables</p></details> |
+| **[Audio-VLA: Adding Contact Audio Perception to Vision-Language-Action Model for Robotic Manipulation](https://arxiv.org/abs/2511.09958v1)** | 2025-11-13 |  |
+| **[PuffyBot: An Untethered Shape Morphing Robot for Multi-environment Locomotion](https://arxiv.org/abs/2511.09885v1)** | 2025-11-13 | <details><summary>8 pag...</summary><p>8 pages, 10 figures, IEEE RoboSoft 2026</p></details> |
+| **[Stochastic Adaptive Estimation in Polynomial Curvature Shape State Space for Continuum Robots](https://arxiv.org/abs/2210.08427v5)** | 2025-11-12 | <details><summary>20 pa...</summary><p>20 pages. IEEE Transactions on Robotics - Accepted; this arXiv version corresponds to the final revision. Supplementary appendix provided as an ancillary PDF</p></details> |
+| **[A Shared-Autonomy Construction Robotic System for Overhead Works](https://arxiv.org/abs/2511.09695v1)** | 2025-11-12 | <details><summary>4page...</summary><p>4pages, 8 figures, ICRA construction workshop</p></details> |
+| **[Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction](https://arxiv.org/abs/2508.05294v4)** | 2025-11-12 |  |
 
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing Color Vision Test in Large Vision-language Models](https://arxiv.org/pdf/2507.11153v1)** | 2025-07-16 |  |
-| **[Vision-and-Language Pretrained Models: A Survey](https://arxiv.org/pdf/2204.07356v5)** | 2022-05-05 | <details><summary>Accep...</summary><p>Accepted in IJCAI 2022</p></details> |
-| **[Toward Building General Foundation Models for Language, Vision, and Vision-Language Understanding Tasks](https://arxiv.org/pdf/2301.05065v2)** | 2023-10-18 |  |
-| **[Unveiling Encoder-Free Vision-Language Models](https://arxiv.org/pdf/2406.11832v2)** | 2024-10-30 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, Accepted by NeurIPS2024 (spotlight)</p></details> |
-| **[FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/pdf/2112.04482v3)** | 2022-03-31 | CVPR 2022 |
-| **[HiMix: Reducing Computational Complexity in Large Vision-Language Models](https://arxiv.org/pdf/2501.10318v1)** | 2025-01-20 |  |
-| **[An Introduction to Vision-Language Modeling](https://arxiv.org/pdf/2405.17247v1)** | 2024-05-28 |  |
-| **[Uncertainty-Aware Evaluation for Vision-Language Models](https://arxiv.org/pdf/2402.14418v2)** | 2024-02-27 |  |
-| **[Evaluating Attribute Comprehension in Large Vision-Language Models](https://arxiv.org/pdf/2408.13898v1)** | 2024-08-27 | 15 pages, 4 figures |
-| **[On the Domain Robustness of Contrastive Vision-Language Models](https://arxiv.org/pdf/2506.23663v1)** | 2025-07-01 | <details><summary>Deepb...</summary><p>Deepbench is available at https://github.com/ml-lab-htw/deepbench</p></details> |
-| **[HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding](https://arxiv.org/pdf/2412.16158v2)** | 2025-02-11 |  |
-| **[A Review of 3D Object Detection with Vision-Language Models](https://arxiv.org/pdf/2504.18738v1)** | 2025-04-29 |  |
-| **[Vision-Language Foundation Models as Effective Robot Imitators](https://arxiv.org/pdf/2311.01378v3)** | 2024-02-06 | <details><summary>Fix t...</summary><p>Fix typos. Project page: https://roboflamingo.github.io</p></details> |
-| **[CoLLaVO: Crayon Large Language and Vision mOdel](https://arxiv.org/pdf/2402.11248v4)** | 2024-06-04 | <details><summary>ACL 2...</summary><p>ACL 2024 Findings. Code available: https://github.com/ByungKwanLee/CoLLaVO</p></details> |
-| **[Unified Vision-Language-Action Model](https://arxiv.org/pdf/2506.19850v1)** | 2025-06-25 | technical report |
+| **[Querying Labeled Time Series Data with Scenario Programs](https://arxiv.org/abs/2511.10627v1)** | 2025-11-13 |  |
+| **[Towards Blind and Low-Vision Accessibility of Lightweight VLMs and Custom LLM-Evals](https://arxiv.org/abs/2511.10615v1)** | 2025-11-13 | 8 pages |
+| **[Impact of Layer Norm on Memorization and Generalization in Transformers](https://arxiv.org/abs/2511.10566v1)** | 2025-11-13 | NeurIPS 2025 |
+| **[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded](https://arxiv.org/abs/2511.10560v1)** | 2025-11-13 | <details><summary>Proje...</summary><p>Project Page: https://livioni.github.io/OmniVGGT-offcial/</p></details> |
+| **[Text to Robotic Assembly of Multi Component Objects using 3D Generative AI and Vision Language Models](https://arxiv.org/abs/2511.02162v3)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025, Conference on Neural Information Processing Systems, Creative AI Track</p></details> |
+| **[SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation](https://arxiv.org/abs/2511.10518v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Oral), Project Page: https://github.com/JiuTian-VL/SemanticVLA</p></details> |
+| **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](https://arxiv.org/abs/2508.12711v2)** | 2025-11-13 |  |
+| **[vMFCoOp: Towards Equilibrium on a Unified Hyperspherical Manifold for Prompting Biomedical VLMs](https://arxiv.org/abs/2511.09540v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted as an Oral Presentation at AAAI 2026 Main Technical Track (this version is not peer-reviewed; it is the extended version)</p></details> |
+| **[MonkeyOCR v1.5 Technical Report: Unlocking Robust Document Parsing for Complex Patterns](https://arxiv.org/abs/2511.10390v1)** | 2025-11-13 |  |
+| **[Rethinking Visual Information Processing in Multimodal LLMs](https://arxiv.org/abs/2511.10301v1)** | 2025-11-13 |  |
+| **[Adaptive Residual-Update Steering for Low-Overhead Hallucination Mitigation in Large Vision Language Models](https://arxiv.org/abs/2511.10292v1)** | 2025-11-13 | Under review |
+| **[VADB: A Large-Scale Video Aesthetic Database with Professional and Multi-Dimensional Annotations](https://arxiv.org/abs/2510.25238v2)** | 2025-11-13 |  |
+| **[PROPA: Toward Process-level Optimization in Visual Reasoning via Reinforcement Learning](https://arxiv.org/abs/2511.10279v1)** | 2025-11-13 |  |
+| **[Causal-HalBench: Uncovering LVLMs Object Hallucinations Through Causal Intervention](https://arxiv.org/abs/2511.10268v1)** | 2025-11-13 | <details><summary>accep...</summary><p>accepted for publication in the Association for the Advancement of Artificial Intelligence (AAAI), 2026</p></details> |
+| **[Preconditioned Inexact Stochastic ADMM for Deep Model](https://arxiv.org/abs/2502.10784v4)** | 2025-11-13 |  |
 
 ## world model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[World-in-World: World Models in a Closed-Loop World](https://arxiv.org/pdf/2510.18135v1)** | 2025-10-22 | <details><summary>Code ...</summary><p>Code is at https://github.com/World-In-World/world-in-world</p></details> |
-| **[RLVR-World: Training World Models with Reinforcement Learning](https://arxiv.org/pdf/2505.13934v2)** | 2025-10-28 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Code is available at project website: https://thuml.github.io/RLVR-World/</p></details> |
-| **[World Models](https://arxiv.org/pdf/1803.10122v4)** | 2018-05-10 |  |
-| **[Critiques of World Models](https://arxiv.org/pdf/2507.05169v3)** | 2025-07-29 |  |
-| **[Semantic World Models](https://arxiv.org/pdf/2510.19818v1)** | 2025-10-23 |  |
-| **[PoE-World: Compositional World Modeling with Products of Programmatic Experts](https://arxiv.org/pdf/2505.10819v3)** | 2025-10-17 |  |
-| **[From Masks to Worlds: A Hitchhiker's Guide to World Models](https://arxiv.org/pdf/2510.20668v1)** | 2025-10-24 | <details><summary>Githu...</summary><p>Github: https://github.com/M-E-AGI-Lab/Awesome-World-Models</p></details> |
-| **[Predictive World Models from Real-World Partial Observations](https://arxiv.org/pdf/2301.04783v3)** | 2023-05-24 | <details><summary>Best ...</summary><p>Best Paper Award at IEEE MOST 2023</p></details> |
-| **[Quantifying Multimodality in World Models](https://arxiv.org/pdf/2112.07263v1)** | 2021-12-15 |  |
-| **[Clone Deterministic 3D Worlds with Geometrically-Regularized World Models](https://arxiv.org/pdf/2510.26782v1)** | 2025-10-31 |  |
-| **[Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/pdf/2411.14499v2)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by ACM CSUR, 37 pages, 7 figures, 7 tables</p></details> |
-| **[Finetuning Offline World Models in the Real World](https://arxiv.org/pdf/2310.16029v1)** | 2023-10-25 | <details><summary>CoRL ...</summary><p>CoRL 2023 Oral; Project website: https://yunhaifeng.com/FOWM</p></details> |
-| **[Modeling Worlds in Text](https://arxiv.org/pdf/2106.09578v1)** | 2021-06-18 | <details><summary>Prepr...</summary><p>Preprint. Under review. Benchmark can be found at https://github.com/JerichoWorld/JerichoWorld</p></details> |
-| **[Toward Stable World Models: Measuring and Addressing World Instability in Generative Environments](https://arxiv.org/pdf/2503.08122v1)** | 2025-03-12 | Preprint |
-| **[A General World Model with Poiesis: Poppers Three Worlds updated with Software](https://arxiv.org/pdf/1604.00360v1)** | 2016-04-04 | <details><summary>9 pag...</summary><p>9 pages. 1 Figure of a world model with physics, software and Geist, Book published 2016 (in German) by Springer, Heidelberg, with the general fundamentals of Software for philosophy</p></details> |
+| **[Group Spike and Slab Variational Bayes](https://arxiv.org/abs/2309.10378v3)** | 2025-11-13 |  |
+| **[Querying Labeled Time Series Data with Scenario Programs](https://arxiv.org/abs/2511.10627v1)** | 2025-11-13 |  |
+| **[Towards Blind and Low-Vision Accessibility of Lightweight VLMs and Custom LLM-Evals](https://arxiv.org/abs/2511.10615v1)** | 2025-11-13 | 8 pages |
+| **[Pretrained Joint Predictions for Scalable Batch Bayesian Optimization of Molecular Designs](https://arxiv.org/abs/2511.10590v1)** | 2025-11-13 |  |
+| **[Bi-Level Contextual Bandits for Individualized Resource Allocation under Delayed Feedback](https://arxiv.org/abs/2511.10572v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI-26 (AISI Track). Final version to appear in the Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-26), 2026</p></details> |
+| **[Belief Net: A Filter-Based Framework for Learning Hidden Markov Models from Observations](https://arxiv.org/abs/2511.10571v1)** | 2025-11-13 | <details><summary>19 pa...</summary><p>19 pages, 7 pages, submitted to conference: L4DC 2026</p></details> |
+| **[Dynamic Avatar-Scene Rendering from Human-centric Context](https://arxiv.org/abs/2511.10539v1)** | 2025-11-13 | 13 pages, 8 figures |
+| **[SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation](https://arxiv.org/abs/2511.10518v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Oral), Project Page: https://github.com/JiuTian-VL/SemanticVLA</p></details> |
+| **[How Worrying Are Privacy Attacks Against Machine Learning?](https://arxiv.org/abs/2511.10516v1)** | 2025-11-13 |  |
+| **[On the Detectability of Active Gradient Inversion Attacks in Federated Learning](https://arxiv.org/abs/2511.10502v1)** | 2025-11-13 |  |
+| **[Strategic Opponent Modeling with Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling](https://arxiv.org/abs/2511.10501v1)** | 2025-11-13 | 26 pages |
+| **[Multi-view Structural Convolution Network for Domain-Invariant Point Cloud Recognition of Autonomous Vehicles](https://arxiv.org/abs/2501.16289v5)** | 2025-11-13 | 16 pages, 6 figures |
+| **[Quantifying Climate Policy Action and Its Links to Development Outcomes: A Cross-National Data-Driven Analysis](https://arxiv.org/abs/2510.17425v2)** | 2025-11-13 | <details><summary>This ...</summary><p>This paper/proposal has been accepted as a poster in the NeurIPS 2025</p></details> |
+| **[LocalBench: Benchmarking LLMs on County-Level Local Knowledge and Reasoning](https://arxiv.org/abs/2511.10459v1)** | 2025-11-13 |  |
+| **[On Stealing Graph Neural Network Models](https://arxiv.org/abs/2511.07170v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
 
