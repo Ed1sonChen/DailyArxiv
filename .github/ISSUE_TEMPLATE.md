@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 18, 2025
+title: Latest 15 Papers - November 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,76 +7,76 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MonoDream: Monocular Vision-Language Navigation with Panoramic Dreaming](https://arxiv.org/abs/2508.02549v2)** | 2025-11-17 |  |
-| **[MCA-Bench: A Multimodal Benchmark for Evaluating CAPTCHA Robustness Against VLM-based Attacks](https://arxiv.org/abs/2506.05982v6)** | 2025-11-17 | <details><summary>we up...</summary><p>we update the paper supplement</p></details> |
-| **[Yanyun-3: Enabling Cross-Platform Strategy Game Operation with Vision-Language Models](https://arxiv.org/abs/2511.12937v1)** | 2025-11-17 | 32 pages, 13 figures |
-| **[Uni-Hand: Universal Hand Motion Forecasting in Egocentric Views](https://arxiv.org/abs/2511.12878v1)** | 2025-11-17 | <details><summary>Exten...</summary><p>Extended journal version of MMTwin (IROS'25)</p></details> |
-| **[BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections](https://arxiv.org/abs/2511.12676v1)** | 2025-11-16 |  |
-| **[RoboAfford++: A Generative AI-Enhanced Dataset for Multimodal Affordance Learning in Robotic Manipulation and Navigation](https://arxiv.org/abs/2511.12436v1)** | 2025-11-16 |  |
-| **[VLA-R: Vision-Language Action Retrieval toward Open-World End-to-End Autonomous Driving](https://arxiv.org/abs/2511.12405v1)** | 2025-11-16 | 9 pages, 9 figures |
-| **[Reasoning under Vision: Understanding Visual-Spatial Cognition in Vision-Language Models for CAPTCHA](https://arxiv.org/abs/2510.06067v2)** | 2025-11-16 | 14pages, 11figures |
-| **[DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping](https://arxiv.org/abs/2502.20900v5)** | 2025-11-15 | 18 pages, 11 figures |
-| **[AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models](https://arxiv.org/abs/2511.12149v1)** | 2025-11-15 |  |
-| **[Decoupled Action Head: Confining Task Knowledge to Conditioning Layers](https://arxiv.org/abs/2511.12101v1)** | 2025-11-15 |  |
-| **[GUIDES: Guidance Using Instructor-Distilled Embeddings for Pre-trained Robot Policy Enhancement](https://arxiv.org/abs/2511.03400v2)** | 2025-11-14 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, Accepted by IEEE IROS 2025 Workshop WIR-M</p></details> |
-| **[Rethinking Progression of Memory State in Robotic Manipulation: An Object-Centric Perspective](https://arxiv.org/abs/2511.11478v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
-| **[EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment](https://arxiv.org/abs/2511.11301v1)** | 2025-11-14 |  |
-| **[Experiences from Benchmarking Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2511.11298v1)** | 2025-11-14 |  |
+| **[$π^{*}_{0.6}$: a VLA That Learns From Experience](https://arxiv.org/abs/2511.14759v1)** | 2025-11-18 |  |
+| **[OG-VLA: Orthographic Image Generation for 3D-Aware Vision-Language Action Model](https://arxiv.org/abs/2506.01196v2)** | 2025-11-18 | 13 pages |
+| **[NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards](https://arxiv.org/abs/2511.14659v1)** | 2025-11-18 | <details><summary>https...</summary><p>https://declare-lab.github.io/nora-1.5</p></details> |
+| **[4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration](https://arxiv.org/abs/2506.22242v2)** | 2025-11-18 |  |
+| **[Enhancing End-to-End Autonomous Driving with Risk Semantic Distillaion from VLM](https://arxiv.org/abs/2511.14499v1)** | 2025-11-18 |  |
+| **[Continuous Vision-Language-Action Co-Learning with Semantic-Physical Alignment for Behavioral Cloning](https://arxiv.org/abs/2511.14396v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026, the Project website is available at https://qhemu.github.io/CCoL/</p></details> |
+| **[Towards Deploying VLA without Fine-Tuning: Plug-and-Play Inference-Time VLA Policy Steering via Embodied Evolutionary Diffusion](https://arxiv.org/abs/2511.14178v1)** | 2025-11-18 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, submitted to IEEE RA-L</p></details> |
+| **[MonoDream: Monocular Vision-Language Navigation with Panoramic Dreaming](https://arxiv.org/abs/2508.02549v3)** | 2025-11-18 |  |
+| **[RoboTidy : A 3D Gaussian Splatting Household Tidying Benchmark for Embodied Navigation and Action](https://arxiv.org/abs/2511.14161v1)** | 2025-11-18 |  |
+| **[MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](https://arxiv.org/abs/2511.14159v1)** | 2025-11-18 | 16 pages, 8 figures |
+| **[AsyncVLA: Asynchronous Flow Matching for Vision-Language-Action Models](https://arxiv.org/abs/2511.14148v1)** | 2025-11-18 |  |
+| **[Uni-Hand: Universal Hand Motion Forecasting in Egocentric Views](https://arxiv.org/abs/2511.12878v2)** | 2025-11-18 | <details><summary>Exten...</summary><p>Extended journal version of MMTwin (IROS'25)</p></details> |
+| **[Multi-view Phase-aware Pedestrian-Vehicle Incident Reasoning Framework with Vision-Language Models](https://arxiv.org/abs/2511.14120v1)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 3 tables</p></details> |
+| **[Rethinking Progression of Memory State in Robotic Manipulation: An Object-Centric Perspective](https://arxiv.org/abs/2511.11478v2)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
+| **[Searching in Space and Time: Unified Memory-Action Loops for Open-World Object Retrieval](https://arxiv.org/abs/2511.14004v1)** | 2025-11-18 | <details><summary>This ...</summary><p>This paper is under review at ICRA</p></details> |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands](https://arxiv.org/abs/2511.13710v1)** | 2025-11-17 | <details><summary>Proje...</summary><p>Project page: https://jianglongye.com/power-to-precision</p></details> |
-| **[OpenRoboCare: A Multimodal Multi-Task Expert Demonstration Dataset for Robot Caregiving](https://arxiv.org/abs/2511.13707v1)** | 2025-11-17 | IROS 2025 |
-| **[Bench2FreeAD: A Benchmark for Vision-based End-to-end Navigation in Unstructured Robotic Environments](https://arxiv.org/abs/2503.12180v2)** | 2025-11-17 | 7 pages, 9 figures |
-| **[Towards Affect-Adaptive Human-Robot Interaction: A Protocol for Multimodal Dataset Collection on Social Anxiety](https://arxiv.org/abs/2511.13530v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Benefits of pErsonalization and behAvioral adaptation in assistive Robots (BEAR 2025), held at the IEEE RO-MAN Conference 2025</p></details> |
-| **[Benchmarking LLM Privacy Recognition for Social Robot Decision Making](https://arxiv.org/abs/2507.16124v3)** | 2025-11-17 | <details><summary>18 pa...</summary><p>18 pages, 7 figures. Dakota Sullivan and Shirley Zhang contributed equally to this work</p></details> |
-| **[Informative Communication of Robot Plans](https://arxiv.org/abs/2511.13226v1)** | 2025-11-17 | <details><summary>Confe...</summary><p>Conference: PAAMS 2022, 20th International Conference on Practical Applications of Agents and Multi-Agent Systems</p></details> |
-| **[Sequential Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions](https://arxiv.org/abs/2503.17005v2)** | 2025-11-17 | <details><summary>9 pag...</summary><p>9 pages, 10 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Collision-Free Navigation of Mobile Robots via Quadtree-Based Model Predictive Control](https://arxiv.org/abs/2511.13188v1)** | 2025-11-17 | <details><summary>This ...</summary><p>This paper has been accepted by IEEE SII 2026</p></details> |
-| **[Monolithic Units: Actuation, Sensing, and Simulation for Integrated Soft Robot Design](https://arxiv.org/abs/2511.13120v1)** | 2025-11-17 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 1 algorithm, 1 table</p></details> |
-| **[Unidirectional-Road-Network-Based Global Path Planning for Cleaning Robots in Semi-Structured Environments](https://arxiv.org/abs/2511.13048v1)** | 2025-11-17 | <details><summary>2023 ...</summary><p>2023 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
-| **[APP: A* Post-Processing Algorithm for Robots with Bidirectional Shortcut and Path Perturbation](https://arxiv.org/abs/2511.13042v1)** | 2025-11-17 |  |
-| **[SplatSearch: Instance Image Goal Navigation for Mobile Robots using 3D Gaussian Splatting and Diffusion Models](https://arxiv.org/abs/2511.12972v1)** | 2025-11-17 | <details><summary>Proje...</summary><p>Project Page: https://splat-search.github.io/</p></details> |
-| **[DiffuDepGrasp: Diffusion-based Depth Noise Modeling Empowers Sim2Real Robotic Grasping](https://arxiv.org/abs/2511.12912v1)** | 2025-11-17 |  |
-| **[TOPP-DWR: Time-Optimal Path Parameterization of Differential-Driven Wheeled Robots Considering Piecewise-Constant Angular Velocity Constraints](https://arxiv.org/abs/2511.12910v1)** | 2025-11-17 |  |
-| **[Coordinated Humanoid Robot Locomotion with Symmetry Equivariant Reinforcement Learning Policy](https://arxiv.org/abs/2508.01247v2)** | 2025-11-16 | AAAI 2026 accepted |
+| **[Robust Adaptive Time-Varying Control Barrier Function with Application to Robotic Surface Treatment](https://arxiv.org/abs/2506.14249v2)** | 2025-11-18 | <details><summary>This ...</summary><p>This work has been accepted to ECC 2025</p></details> |
+| **[Tac2Motion: Contact-Aware Reinforcement Learning with Tactile Feedback for Robotic Hand Manipulation](https://arxiv.org/abs/2509.17812v2)** | 2025-11-18 | <details><summary>This ...</summary><p>This paper has submitted to Dexterous Humanoid Manipulation Workshop, Humanoid 2025</p></details> |
+| **[Advancing Minimally Invasive Precision Surgery in Open Cavities with Robotic Flexible Endoscopy](https://arxiv.org/abs/2511.14458v1)** | 2025-11-18 |  |
+| **[Towards A Catalogue of Requirement Patterns for Space Robotic Missions](https://arxiv.org/abs/2511.14438v1)** | 2025-11-18 | <details><summary>In Pr...</summary><p>In Proceedings FMAS 2025, arXiv:2511.13245</p></details> |
+| **[Safe-ROS: An Architecture for Autonomous Robots in Safety-Critical Domains](https://arxiv.org/abs/2511.14433v1)** | 2025-11-18 | <details><summary>In Pr...</summary><p>In Proceedings FMAS 2025, arXiv:2511.13245</p></details> |
+| **[Mutation Testing for Industrial Robotic Systems](https://arxiv.org/abs/2511.14432v1)** | 2025-11-18 | <details><summary>In Pr...</summary><p>In Proceedings FMAS 2025, arXiv:2511.13245</p></details> |
+| **[Self-Supervised Multisensory Pretraining for Contact-Rich Robot Reinforcement Learning](https://arxiv.org/abs/2511.14427v1)** | 2025-11-18 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, preprint</p></details> |
+| **[Combining High Level Scheduling and Low Level Control to Manage Fleets of Mobile Robots](https://arxiv.org/abs/2510.23129v2)** | 2025-11-18 |  |
+| **[Dual-Variable Force Characterisation method for Human-Robot Interaction in Wearable Robotics](https://arxiv.org/abs/2511.14327v1)** | 2025-11-18 | <details><summary>36 pa...</summary><p>36 pages, 10 figures, submitted and under-review in Journal of the Mechanical Behavior of Biomedical Materials</p></details> |
+| **[Generalizable and Fast Surrogates: Model Predictive Control of Articulated Soft Robots using Physics-Informed Neural Networks](https://arxiv.org/abs/2502.01916v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Robotics (T-RO) 2025</p></details> |
+| **[Spatial Policy: Guiding Visuomotor Robotic Manipulation with Spatial-Aware Modeling and Reasoning](https://arxiv.org/abs/2508.15874v2)** | 2025-11-18 |  |
+| **[TailCue: Exploring Animal-inspired Robotic Tail for Automated Vehicles Interaction](https://arxiv.org/abs/2511.14242v1)** | 2025-11-18 |  |
+| **[The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey](https://arxiv.org/abs/2507.11840v2)** | 2025-11-18 |  |
+| **[Large Language Models and 3D Vision for Intelligent Robotic Perception and Autonomy](https://arxiv.org/abs/2511.11777v2)** | 2025-11-18 | <details><summary>45 pa...</summary><p>45 pages, 15 figures, MDPI Sensors Journal</p></details> |
+| **[Rethinking Progression of Memory State in Robotic Manipulation: An Object-Centric Perspective](https://arxiv.org/abs/2511.11478v2)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
 
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting](https://arxiv.org/abs/2511.13684v1)** | 2025-11-17 | <details><summary>Submi...</summary><p>Submitting for Neurocomputing</p></details> |
-| **[CacheFlow: Compressive Streaming Memory for Efficient Long-Form Video Understanding](https://arxiv.org/abs/2511.13644v1)** | 2025-11-17 |  |
-| **[CreBench: Human-Aligned Creativity Evaluation from Idea to Process to Product](https://arxiv.org/abs/2511.13626v1)** | 2025-11-17 | <details><summary>13 pa...</summary><p>13 pages, 3 figures,The 40th Annual AAAI Conference on Artificial Intelligence(AAAI 2026),Paper has been accepted for a poster presentation</p></details> |
-| **[Viper-F1: Fast and Fine-Grained Multimodal Understanding with Cross-Modal State-Space Modulation](https://arxiv.org/abs/2511.11177v2)** | 2025-11-17 |  |
-| **[FreeAskWorld: An Interactive and Closed-Loop Simulator for Human-Centric Embodied AI](https://arxiv.org/abs/2511.13524v1)** | 2025-11-17 | 9 pages, 4 figures |
-| **[Language-Guided Invariance Probing of Vision-Language Models](https://arxiv.org/abs/2511.13494v1)** | 2025-11-17 |  |
-| **[Semantic Document Derendering: SVG Reconstruction via Vision-Language Modeling](https://arxiv.org/abs/2511.13478v1)** | 2025-11-17 |  |
-| **[Trust in Vision-Language Models: Insights from a Participatory User Workshop](https://arxiv.org/abs/2511.13458v1)** | 2025-11-17 |  |
-| **[Unlocking the Forgery Detection Potential of Vanilla MLLMs: A Novel Training-Free Pipeline](https://arxiv.org/abs/2511.13442v1)** | 2025-11-17 |  |
-| **[VOPE: Revisiting Hallucination of Vision-Language Models in Voluntary Imagination Task](https://arxiv.org/abs/2511.13420v1)** | 2025-11-17 | 8 pages |
-| **[Descriptor: Distance-Annotated Traffic Perception Question Answering (DTPQA)](https://arxiv.org/abs/2511.13397v1)** | 2025-11-17 |  |
-| **[Moving Pictures of Thought: Extracting Visual Knowledge in Charles S. Peirce's Manuscripts with Vision-Language Models](https://arxiv.org/abs/2511.13378v1)** | 2025-11-17 |  |
-| **[LLMC+: Benchmarking Vision-Language Model Compression with a Plug-and-play Toolkit](https://arxiv.org/abs/2508.09981v2)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[Tab-PET: Graph-Based Positional Encodings for Tabular Transformers](https://arxiv.org/abs/2511.13338v1)** | 2025-11-17 |  |
-| **[TabFlash: Efficient Table Understanding with Progressive Question Conditioning and Token Focusing](https://arxiv.org/abs/2511.13283v1)** | 2025-11-17 | <details><summary>AAAI ...</summary><p>AAAI 2026 (Main Technical Track)</p></details> |
+| **[ARC Is a Vision Problem!](https://arxiv.org/abs/2511.14761v1)** | 2025-11-18 | <details><summary>Techn...</summary><p>Technical Report. Project webpage: https://github.com/lillian039/VARC</p></details> |
+| **[$π^{*}_{0.6}$: a VLA That Learns From Experience](https://arxiv.org/abs/2511.14759v1)** | 2025-11-18 |  |
+| **[Vision Large Language Models Are Good Noise Handlers in Engagement Analysis](https://arxiv.org/abs/2511.14749v1)** | 2025-11-18 |  |
+| **[OG-VLA: Orthographic Image Generation for 3D-Aware Vision-Language Action Model](https://arxiv.org/abs/2506.01196v2)** | 2025-11-18 | 13 pages |
+| **[Measuring AI Progress in Drug Discovery: A Reproducible Leaderboard for the Tox21 Challenge](https://arxiv.org/abs/2511.14744v1)** | 2025-11-18 |  |
+| **[Optimizing Federated Learning by Entropy-Based Client Selection](https://arxiv.org/abs/2411.01240v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted at the 3rd IEEE International Conference on Federated Learning Technologies and Applications (FLTA 2025), Dubrovnik, Croatia, October 14-17, 2025</p></details> |
+| **[GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL for Whole Slide Image Classification](https://arxiv.org/abs/2508.01293v2)** | 2025-11-18 | <details><summary>Accce...</summary><p>Acccepted in MICCAI Workshop 2025</p></details> |
+| **[NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards](https://arxiv.org/abs/2511.14659v1)** | 2025-11-18 | <details><summary>https...</summary><p>https://declare-lab.github.io/nora-1.5</p></details> |
+| **[Enhancing Agentic Autonomous Scientific Discovery with Vision-Language Model Capabilities](https://arxiv.org/abs/2511.14631v1)** | 2025-11-18 |  |
+| **[StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving](https://arxiv.org/abs/2506.23982v3)** | 2025-11-18 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 5 tables</p></details> |
+| **[Beyond Flatlands: Unlocking Spatial Intelligence by Decoupling 3D Reasoning from Numerical Regression](https://arxiv.org/abs/2511.11239v2)** | 2025-11-18 |  |
+| **[Is Your VLM for Autonomous Driving Safety-Ready? A Comprehensive Benchmark for Evaluating External and In-Cabin Risks](https://arxiv.org/abs/2511.14592v1)** | 2025-11-18 |  |
+| **[GenRecal: Generation after Recalibration from Large to Small Vision-Language Models](https://arxiv.org/abs/2506.15681v2)** | 2025-11-18 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/GenRecal-page/</p></details> |
+| **[CARScenes: Semantic VLM Dataset for Safe Autonomous Driving](https://arxiv.org/abs/2511.10701v2)** | 2025-11-18 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 7 tables</p></details> |
+| **[Task Addition and Weight Disentanglement in Closed-Vocabulary Models](https://arxiv.org/abs/2511.14569v1)** | 2025-11-18 |  |
 
 ## world model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TZ-LLM: Protecting On-Device Large Language Models with Arm TrustZone](https://arxiv.org/abs/2511.13717v1)** | 2025-11-17 |  |
-| **[Segment Anything Across Shots: A Method and Benchmark](https://arxiv.org/abs/2511.13715v1)** | 2025-11-17 | <details><summary>AAAI ...</summary><p>AAAI 2026, Project Page: https://henghuiding.com/SAAS/</p></details> |
-| **[Free-Form Scene Editor: Enabling Multi-Round Object Manipulation like in a 3D Engine](https://arxiv.org/abs/2511.13713v1)** | 2025-11-17 | <details><summary>AAAI ...</summary><p>AAAI 2026, Project Page: https://henghuiding.com/FFSE/</p></details> |
-| **[From Black Box to Insight: Explainable AI for Extreme Event Preparedness](https://arxiv.org/abs/2511.13712v1)** | 2025-11-17 |  |
-| **[From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands](https://arxiv.org/abs/2511.13710v1)** | 2025-11-17 | <details><summary>Proje...</summary><p>Project page: https://jianglongye.com/power-to-precision</p></details> |
-| **[Generalist Foundation Models Are Not Clinical Enough for Hospital Operations](https://arxiv.org/abs/2511.13703v1)** | 2025-11-17 |  |
-| **[Ontology-Driven Model-to-Model Transformation of Workflow Specifications](https://arxiv.org/abs/2511.13661v1)** | 2025-11-17 |  |
-| **[OlmoEarth: Stable Latent Image Modeling for Multimodal Earth Observation](https://arxiv.org/abs/2511.13655v1)** | 2025-11-17 |  |
-| **[Physically Interpretable World Models via Weakly Supervised Representation Learning](https://arxiv.org/abs/2412.12870v4)** | 2025-11-17 |  |
-| **[The Third Pillar of Causal Analysis? A Measurement Perspective on Causal Representations](https://arxiv.org/abs/2505.17708v3)** | 2025-11-17 | <details><summary>Camer...</summary><p>Camera-ready version for NeurIPS2025</p></details> |
-| **[PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://arxiv.org/abs/2511.13648v1)** | 2025-11-17 | <details><summary>Proje...</summary><p>Project page: https://physx-anything.github.io/</p></details> |
-| **[Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646v1)** | 2025-11-17 |  |
-| **[SoK: How Sensor Attacks Disrupt Autonomous Vehicles: An End-to-end Analysis, Challenges, and Missed Threats](https://arxiv.org/abs/2509.11120v4)** | 2025-11-17 |  |
-| **[Graph Neural Network-Based Reinforcement Learning for Controlling Biological Networks - the GATTACA Framework](https://arxiv.org/abs/2505.02712v3)** | 2025-11-17 |  |
-| **[Robust Reinforcement Learning from Human Feedback for Large Language Models Fine-Tuning](https://arxiv.org/abs/2504.03784v5)** | 2025-11-17 |  |
+| **[$π^{*}_{0.6}$: a VLA That Learns From Experience](https://arxiv.org/abs/2511.14759v1)** | 2025-11-18 |  |
+| **[Sim-to-real supervised domain adaptation for radioisotope identification](https://arxiv.org/abs/2412.07069v4)** | 2025-11-18 | <details><summary>32 pa...</summary><p>32 pages, 9 figures, and 7 tables</p></details> |
+| **[OG-VLA: Orthographic Image Generation for 3D-Aware Vision-Language Action Model](https://arxiv.org/abs/2506.01196v2)** | 2025-11-18 | 13 pages |
+| **[LAUD: Integrating Large Language Models with Active Learning for Unlabeled Data](https://arxiv.org/abs/2511.14738v1)** | 2025-11-18 | <details><summary>7 pag...</summary><p>7 pages and one figure</p></details> |
+| **[Guided Reasoning in LLM-Driven Penetration Testing Using Structured Attack Trees](https://arxiv.org/abs/2509.07939v2)** | 2025-11-18 |  |
+| **[\textit{FLARE}: Adaptive Multi-Dimensional Reputation for Robust Client Reliability in Federated Learning](https://arxiv.org/abs/2511.14715v1)** | 2025-11-18 | Under Review |
+| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
+| **[HyMAD: A Hybrid Multi-Activity Detection Approach for Border Surveillance and Monitoring](https://arxiv.org/abs/2511.14698v1)** | 2025-11-18 | <details><summary>Multi...</summary><p>Multi-label seismic signal classification using novel attention-based feature fusion. Submitting to cs.CV due to relevance to general pattern recognition and time-frequency (spectrogram) analysis</p></details> |
+| **[NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards](https://arxiv.org/abs/2511.14659v1)** | 2025-11-18 | <details><summary>https...</summary><p>https://declare-lab.github.io/nora-1.5</p></details> |
+| **[Seeing and Knowing in the Wild: Open-domain Visual Entity Recognition with Large-scale Knowledge Graphs via Contrastive Learning](https://arxiv.org/abs/2510.13675v2)** | 2025-11-18 | Accepted by AAAI2026 |
+| **[Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm](https://arxiv.org/abs/2506.20606v2)** | 2025-11-18 | <details><summary>AAAI ...</summary><p>AAAI 2026 Oral. 14 pages (including appendix), 11 figures. Code, data, results, and additional resources are available at: https://model-editing.github.io</p></details> |
+| **[Doppler Invariant CNN for Signal Classification](https://arxiv.org/abs/2511.14640v1)** | 2025-11-18 |  |
+| **[A Specialized Large Language Model for Clinical Reasoning and Diagnosis in Rare Diseases](https://arxiv.org/abs/2511.14638v1)** | 2025-11-18 | 50 pages, 5 figures |
+| **[Fusing Biomechanical and Spatio-Temporal Features for Fall Prediction: Characterizing and Mitigating the Simulation-to-Reality Gap](https://arxiv.org/abs/2511.14620v1)** | 2025-11-18 |  |
+| **[Dimension vs. Precision: A Comparative Analysis of Autoencoders and Quantization for Efficient Vector Retrieval on BEIR SciFact](https://arxiv.org/abs/2511.13057v2)** | 2025-11-18 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, 1 table</p></details> |
 
