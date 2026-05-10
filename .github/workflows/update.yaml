@@ -1,7 +1,7 @@
+
 name: Update
 
 on:
-  workflow_dispatch:
   label:
     types:
       - created # for test
@@ -20,10 +20,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v3
 
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v4
       with:
         python-version: '3.9'
 
@@ -33,42 +33,18 @@ jobs:
     - name: Update papers
       run: |
         python main.py
-
     - name: Commit and push changes
-      id: commit
-      run: |
-        git config user.name "Zhiling Chen"
-        git config user.email "625676308@qq.com"
-        git add README.md .github/ISSUE_TEMPLATE.md
-        if git diff --cached --quiet; then
-          echo "No paper updates to commit."
-          echo "changed=false" >> "$GITHUB_OUTPUT"
-        else
-          git commit -m "Update papers automatically."
-          git push
-          echo "changed=true" >> "$GITHUB_OUTPUT"
-        fi
+      uses: github-actions-x/commit@v2.9
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        push-branch: 'main'
+        commit-message: '✏️ Update papers automatically.'
+        force-add: 'true'
+        files: README.md .github/ISSUE_TEMPLATE.md
+        name: Zhiling Chen
+        email: 625676308@qq.com
 
     - name: Create an issue to notify
-      if: steps.commit.outputs.changed == 'true'
-      uses: actions/github-script@v7
-      with:
-        script: |
-          const fs = require('fs');
-          const template = fs.readFileSync('.github/ISSUE_TEMPLATE.md', 'utf8');
-          const frontMatterMatch = template.match(/^---\n([\s\S]*?)\n---\n?/);
-          const frontMatter = frontMatterMatch?.[1] || '';
-          const body = frontMatterMatch ? template.slice(frontMatterMatch[0].length) : template;
-          const title = frontMatter.match(/^title:\s*(.+)$/m)?.[1] || 'Latest Papers';
-          const labels = frontMatter.match(/^labels:\s*(.+)$/m)?.[1]
-            ?.split(',')
-            .map(label => label.trim())
-            .filter(Boolean) || [];
-
-          await github.rest.issues.create({
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-            title,
-            body,
-            labels,
-          });
+      uses: JasonEtco/create-an-issue@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
