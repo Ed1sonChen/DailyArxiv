@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 20, 2026
+title: Latest 15 Papers - May 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,76 +7,76 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Binary Success: A Diagnostic Meta-Evaluation Framework for Fine-Grained Manipulation](https://arxiv.org/abs/2605.19986v1)** | 2026-05-19 | <details><summary>Proje...</summary><p>Project page: https://metafine.github.io/</p></details> |
-| **[HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation](https://arxiv.org/abs/2604.07993v2)** | 2026-05-19 | <details><summary>Proje...</summary><p>Project page: https://hex-humanoid.github.io/</p></details> |
-| **[RoVLA: Multi-Consistency Constraints for Robust Vision-Language-Action Models](https://arxiv.org/abs/2605.19678v1)** | 2026-05-19 |  |
-| **[Preserving Foundational Capabilities in Flow-Matching VLAs through Conservative SFT](https://arxiv.org/abs/2605.08879v2)** | 2026-05-19 | 20 pages, 9 figures |
-| **[PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models](https://arxiv.org/abs/2605.19580v1)** | 2026-05-19 |  |
-| **[VECTOR-Drive: Tightly Coupled Vision-Language and Trajectory Expert Routing for End-to-End Autonomous Driving](https://arxiv.org/abs/2605.08830v2)** | 2026-05-19 |  |
-| **[SafeAlign-VLA: A Negative-Enhanced Safe Alignment Framework for Risk-Aware Autonomous Driving](https://arxiv.org/abs/2605.19524v1)** | 2026-05-19 |  |
-| **[Hybrid Training for Vision-Language-Action Models](https://arxiv.org/abs/2510.00600v2)** | 2026-05-19 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
-| **[MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware](https://arxiv.org/abs/2605.05945v5)** | 2026-05-19 |  |
-| **[DEFLECT: Delay-Robust Execution via Flow-matching Likelihood-Estimated Counterfactual Tuning for VLA Policies](https://arxiv.org/abs/2605.19294v1)** | 2026-05-19 |  |
-| **[Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR](https://arxiv.org/abs/2605.19282v1)** | 2026-05-19 |  |
-| **[TwinRL: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation](https://arxiv.org/abs/2602.09023v4)** | 2026-05-19 |  |
-| **[Dexora: Open-source VLA for High-DoF Bimanual Dexterity](https://arxiv.org/abs/2605.18722v1)** | 2026-05-18 | <details><summary>Accpe...</summary><p>Accpeted by ICRA 2026</p></details> |
-| **[Key-Gram: Extensible World Knowledge for Embodied Manipulation](https://arxiv.org/abs/2605.18556v1)** | 2026-05-18 | 16 pages, 5 figures |
-| **[StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](https://arxiv.org/abs/2605.18287v1)** | 2026-05-18 | <details><summary>Accep...</summary><p>Accepted by ICML 2026. Code: https://github.com/DAGroup-PKU/HumanNet. Project website: https://dagroup-pku.github.io/StableVLA/</p></details> |
+| **[GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations](https://arxiv.org/abs/2605.22812v1)** | 2026-05-21 | <details><summary>Proje...</summary><p>Project page: https://gwxuan.github.io/GesVLA/</p></details> |
+| **[SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control](https://arxiv.org/abs/2511.07820v3)** | 2026-05-21 | <details><summary>Proje...</summary><p>Project page: https://nvlabs.github.io/SONIC/</p></details> |
+| **[From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model](https://arxiv.org/abs/2605.22671v1)** | 2026-05-21 |  |
+| **[Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts](https://arxiv.org/abs/2605.22446v1)** | 2026-05-21 |  |
+| **[How can reasoning capability empower the AI copilot robot in endoscopic surgery](https://arxiv.org/abs/2605.22322v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted by npj digital medicine</p></details> |
+| **[Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action](https://arxiv.org/abs/2605.22283v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[Action with Visual Primitives](https://arxiv.org/abs/2605.22183v1)** | 2026-05-21 | <details><summary>9 pag...</summary><p>9 pages, 6 figures. Project page: https://kingdroper.github.io/AVP/</p></details> |
+| **[DriveMA: Rethinking Language Interfaces in Driving VLAs with One-Step Meta-Actions](https://arxiv.org/abs/2605.21273v2)** | 2026-05-21 | <details><summary>We wi...</summary><p>We withdraw this submission because the current version contains a mismatch between the paper title, conceptual framing, and the intended contribution of the work. To avoid potential misunderstanding by readers, the authors have decided to withdraw this version and substantially revise the title, organization, and presentation before any future submission</p></details> |
+| **[LVDrive: Latent Visual Representation Enhanced Vision-Language-Action Autonomous Driving Model](https://arxiv.org/abs/2605.22089v1)** | 2026-05-21 |  |
+| **[Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](https://arxiv.org/abs/2604.24681v2)** | 2026-05-21 | 13 pages, 5 figures |
+| **[EvoScene-VLA: Evolving Scene Beliefs Inside the Action Decoder for Chunked Robot Control](https://arxiv.org/abs/2605.21862v1)** | 2026-05-21 |  |
+| **[CrossVLA: Cross-Paradigm Post-Training and Inference Optimization for Vision-Language-Action Models](https://arxiv.org/abs/2605.21854v1)** | 2026-05-21 | <details><summary>Works...</summary><p>Workshop draft, 14 pages, 4 figures. Code, ckpts, data: https://github.com/lz-googlefycy/vla-lab</p></details> |
+| **[Lost in Fog: Sensor Perturbations Expose Reasoning Fragility in Driving VLAs](https://arxiv.org/abs/2605.21446v1)** | 2026-05-20 |  |
+| **[PointACT: Vision-Language-Action Models with Multi-Scale Point-Action Interaction](https://arxiv.org/abs/2605.21414v1)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted to RSS 2026; project webpage: https://cshizhe.github.io/projects/pointact.html</p></details> |
+| **[Hand-in-the-Loop: Improving VLA Policies for Dexterous Manipulation via Seamless Hand-Arm Intervention](https://arxiv.org/abs/2605.15157v2)** | 2026-05-20 |  |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Robots that learn to evaluate models of collective behavior](https://arxiv.org/abs/2604.07303v2)** | 2026-05-19 |  |
-| **[A Practical Framework of Key Performance Indicators for Multi-Robot Lunar and Planetary Field Tests](https://arxiv.org/abs/2601.20529v3)** | 2026-05-19 | <details><summary>Prese...</summary><p>Presented at ICRA 2026 Workshop on Multi-Agent Robotic Systems: Real-World Collaboration and Interaction</p></details> |
-| **[Robotics-Inspired Guardrails for Foundation Models in Socially Sensitive Domains](https://arxiv.org/abs/2605.19940v1)** | 2026-05-19 | <details><summary>Under...</summary><p>Under review at Journal of Artificial Intelligence Research (JAIR)</p></details> |
-| **[RoHIL: Robust Human-in-the-Loop Robotic Reinforcement Learning Against Illumination Variations](https://arxiv.org/abs/2605.19924v1)** | 2026-05-19 |  |
-| **[Beyond Action Residuals: Real-World Robot Policy Steering via Bottleneck Latent Reinforcement Learning](https://arxiv.org/abs/2605.19919v1)** | 2026-05-19 |  |
-| **[Receptogenesis in a Vascularized Robotic Embodiment](https://arxiv.org/abs/2603.09473v2)** | 2026-05-19 | <details><summary>Suppl...</summary><p>Supplementary Files currently unavailable online. Please contact the First Author to request any Supplementary Files Version 2 - revision</p></details> |
-| **[Justifying bio-inspired robotics research: A taxonomy of strategies](https://arxiv.org/abs/2605.19840v1)** | 2026-05-19 |  |
-| **[CANINE: Coaching Visually Impaired Users for Interactive Navigation with a Robot Guide Dog](https://arxiv.org/abs/2605.19501v1)** | 2026-05-19 | Accepted to RSS 2026 |
-| **[Efficient Emotion-Aware Iconic Gesture Prediction for Robot Co-Speech](https://arxiv.org/abs/2604.11417v5)** | 2026-05-19 |  |
-| **[Self-assembling Modular Aerial Robot for Versatile Aerial Tasks](https://arxiv.org/abs/2605.19431v1)** | 2026-05-19 |  |
-| **[Neuromorphic Control of a Flapping-Wing Robot on Resource-Constrained Hardware](https://arxiv.org/abs/2605.19430v1)** | 2026-05-19 |  |
-| **[Seeing Together: Multi-Robot Cooperative Egocentric Spatial Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2605.18431v2)** | 2026-05-19 |  |
-| **[RoboJailBench: Benchmarking Adversarial Attacks and Defenses in Embodied Robotic Agents](https://arxiv.org/abs/2605.19328v1)** | 2026-05-19 |  |
-| **[SAMe: A Semantic Anatomy Mapping Engine for Robotic Ultrasound](https://arxiv.org/abs/2604.25646v2)** | 2026-05-19 | <details><summary>Suppl...</summary><p>Supplementary information included. Code will be released at https://github.com/MiliLab/Echo-SAMe</p></details> |
-| **[Compliant Explicit Reference Governor for Contact Friendly Robotic Manipulators](https://arxiv.org/abs/2504.09188v2)** | 2026-05-19 | <details><summary>Updat...</summary><p>Updated paper with current contributions and author list , accepted at IFAC World Congress, Busan, 2026</p></details> |
+| **[Scout-Assisted Planning for Heterogeneous Robot Teams under Partially Known Environments](https://arxiv.org/abs/2605.22693v1)** | 2026-05-21 |  |
+| **[Symmetries Here and There, Combined Everywhere: Cross-space Symmetry Compositions in Robotics](https://arxiv.org/abs/2605.22639v1)** | 2026-05-21 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 1 table</p></details> |
+| **[SE3Kit: A Lightweight Python Library for Specialized Geometric Primitives in Robotics](https://arxiv.org/abs/2605.22633v1)** | 2026-05-21 |  |
+| **[Factored Diffusion Policies:Compositionally Generalized Robot Control with a Single Score Network](https://arxiv.org/abs/2605.22596v1)** | 2026-05-21 |  |
+| **[How can reasoning capability empower the AI copilot robot in endoscopic surgery](https://arxiv.org/abs/2605.22322v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted by npj digital medicine</p></details> |
+| **[Federated Single-Agent Robotics: Multi-Robot Coordination Without Intra-Robot Multi-Agent Fragmentation](https://arxiv.org/abs/2604.11028v2)** | 2026-05-21 | <details><summary>30 pa...</summary><p>30 pages, 10 figures, 9 tables. Code: https://github.com/s20sc/fsar-fleet-coordination</p></details> |
+| **[Active Defense Against False Data Injection Attacks in Robotic Manipulators](https://arxiv.org/abs/2605.17950v3)** | 2026-05-21 | <details><summary>Exten...</summary><p>Extended 8-page version containing full proofs. An abridged 6-page version has been accepted for publication in the Proceedings of the 23rd IFAC World Congress (2026). v3: Minor typographical fixes and updated reference formatting</p></details> |
+| **[FUSE: A Framework for Unified State Estimation in Vehicular and Robotic SLAM Systems](https://arxiv.org/abs/2605.18047v3)** | 2026-05-21 |  |
+| **[Beyond Pixels: Learning Invariant Rewards for Real-World Robotics From a Few Demonstrations](https://arxiv.org/abs/2605.22123v1)** | 2026-05-21 |  |
+| **[Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](https://arxiv.org/abs/2604.24681v2)** | 2026-05-21 | 13 pages, 5 figures |
+| **[A Visitation Grid for Complete Coverage Foraging in Robot Swarms](https://arxiv.org/abs/2605.21947v1)** | 2026-05-21 | <details><summary>The 2...</summary><p>The 23rd International Conference on Ubiquitous Robots, 10 figures, 3 tables</p></details> |
+| **[Auction-Consensus Algorithm with Learned Bidding Scheme for Multi-Robot Systems](https://arxiv.org/abs/2605.21932v1)** | 2026-05-21 | <details><summary>The 2...</summary><p>The 23rd International Conference on Ubiquitous Robots, 9 figures, 6 pages</p></details> |
+| **[Higher Order Reasoning for Collaborative Communicationless Mobile Robot Operations](https://arxiv.org/abs/2605.21901v1)** | 2026-05-21 |  |
+| **[OCELOT: Odometry and Contact Estimation for Legged Robots](https://arxiv.org/abs/2605.21863v1)** | 2026-05-21 | 8 pages |
+| **[EvoScene-VLA: Evolving Scene Beliefs Inside the Action Decoder for Chunked Robot Control](https://arxiv.org/abs/2605.21862v1)** | 2026-05-21 |  |
 
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models](https://arxiv.org/abs/2605.20177v1)** | 2026-05-19 | <details><summary>19 pa...</summary><p>19 pages, 9 figures; Accepted to ICML 2026; Project Page: https://ucsc-vlaa.github.io/VLM-CapCurriculum/</p></details> |
-| **[CaMo: Camera Motion Grounded Evaluation and Training for Vision-Language Models](https://arxiv.org/abs/2605.20165v1)** | 2026-05-19 | <details><summary>Code ...</summary><p>Code and model available at https://github.com/hsiangwei0903/CaMo</p></details> |
-| **[Rethinking Visual Attribution for Chest X-ray Reasoning in Large Vision Language Models](https://arxiv.org/abs/2605.20158v1)** | 2026-05-19 |  |
-| **[DeltaPrompts: Escaping the Zero-Delta Trap in Multimodal Distillation](https://arxiv.org/abs/2605.15532v2)** | 2026-05-19 |  |
-| **[SetCon: Towards Open-Ended Referring Segmentation via Set-Level Concept Prediction](https://arxiv.org/abs/2605.20110v1)** | 2026-05-19 |  |
-| **[VL-DPO: Vision-Language-Guided Finetuning for Preference-Aligned Autonomous Driving](https://arxiv.org/abs/2605.20082v1)** | 2026-05-19 | <details><summary>Publi...</summary><p>Published in International Conference on Robotics and Automation (ICRA), 2026 8 pages, 6 figures, 4 tables</p></details> |
-| **[NGL: Natural Garment Language for Training-Free Sewing Pattern Estimation](https://arxiv.org/abs/2602.20700v2)** | 2026-05-19 | 12 pages, 7 figures |
-| **[CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition](https://arxiv.org/abs/2605.19995v1)** | 2026-05-19 |  |
-| **[Towards Fine-Grained Robustness: Attention-Guided Test-Time Prompt Tuning for Vision-Language Models](https://arxiv.org/abs/2605.19956v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by ICML 2026, Project Page: this https, URL Code URL: this https URL</p></details> |
-| **[Breaking Modality Heterogeneity in Low-Bit Quantization for Large Vision-Language Models](https://arxiv.org/abs/2605.19929v1)** | 2026-05-19 |  |
-| **[ORCA: An Agentic Reasoning Framework for Hallucination and Adversarial Robustness in Vision-Language Models](https://arxiv.org/abs/2509.15435v3)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted at the ACM International Conference on Cloud and Big Data Computing (ICCBDC 2026)</p></details> |
-| **[Structured Layout Priors for Robust Out-of-Distribution Visual Document Understanding](https://arxiv.org/abs/2605.19866v1)** | 2026-05-19 | <details><summary>18 pa...</summary><p>18 pages, 7 figures. Main text: 9 pages (4 figures); Appendix: 9 pages (3 figures)</p></details> |
-| **[Eyes on VLM: Benchmarking Gaze Following and Social Gaze Prediction in Vision Language Models](https://arxiv.org/abs/2605.19859v1)** | 2026-05-19 | Under review |
-| **[FineBench: Benchmarking and Enhancing Vision-Language Models for Fine-grained Human Activity Understanding](https://arxiv.org/abs/2605.19846v1)** | 2026-05-19 | <details><summary>CVPR'...</summary><p>CVPR'26 (Workshop on Video Large Language Models)</p></details> |
-| **[LaCoVL-FER: Landmark-Guided Contrastive Learning Network with Vision-Language Enhancement for Facial Expression Recognition](https://arxiv.org/abs/2605.19821v1)** | 2026-05-19 |  |
+| **[AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation](https://arxiv.org/abs/2605.22816v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://gwxuan.github.io/AwareVLN/</p></details> |
+| **[Conceptualizing Embeddings: Sparse Disentanglement for Vision-Language Models](https://arxiv.org/abs/2605.22679v1)** | 2026-05-21 |  |
+| **[GeoWeaver: Grounding Visual Tokens with Geometric Evidence before Scene Reasoning](https://arxiv.org/abs/2605.22558v1)** | 2026-05-21 |  |
+| **[Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling](https://arxiv.org/abs/2605.22484v1)** | 2026-05-21 |  |
+| **[What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom](https://arxiv.org/abs/2602.01334v2)** | 2026-05-21 | <details><summary>ICML ...</summary><p>ICML 2026 camera ready. Code: https://github.com/GAIR-NLP/Med</p></details> |
+| **[RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference](https://arxiv.org/abs/2605.00392v3)** | 2026-05-21 | <details><summary>21 pa...</summary><p>21 pages, accepted by ICML2026</p></details> |
+| **[Towards Clinically Interpretable Ophthalmic VQA via Spatially-Grounded Lesion Evidence](https://arxiv.org/abs/2605.22414v1)** | 2026-05-21 |  |
+| **[Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Large Vision-Language Models](https://arxiv.org/abs/2505.16416v3)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Exposing Vulnerabilities in Visible-Infrared VLMs: A Unified Geometric Adversarial Framework with Cross-Task Transferability](https://arxiv.org/abs/2605.22273v1)** | 2026-05-21 |  |
+| **[MedFM-Robust: Benchmarking Robustness of Medical Foundation Models](https://arxiv.org/abs/2605.19027v2)** | 2026-05-21 | MICCAI2026 |
+| **[RE-VLM: Event-Augmented Vision-Language Model for Scene Understanding](https://arxiv.org/abs/2605.19329v2)** | 2026-05-21 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 6 tables</p></details> |
+| **[Structural Anchor Pruning: Training-Free Multi-Vector Compression for Visual Document Retrieval](https://arxiv.org/abs/2601.20107v2)** | 2026-05-21 | <details><summary>metho...</summary><p>methodology revision and new title</p></details> |
+| **[The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm](https://arxiv.org/abs/2604.20665v2)** | 2026-05-21 | <details><summary>Addre...</summary><p>Addresses practical viability of Vlabel construction. Writing is grounded. Acknowledgement is duly added</p></details> |
+| **[Measuring Cross-Modal Synergy: A Benchmark for VLM Explainability](https://arxiv.org/abs/2605.22168v1)** | 2026-05-21 |  |
+| **[On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs](https://arxiv.org/abs/2602.12506v3)** | 2026-05-21 | ICML 2026 |
 
 ## world model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[World-Ego Modeling for Long-Horizon Evolution in Hybrid Embodied Tasks](https://arxiv.org/abs/2605.19957v1)** | 2026-05-19 |  |
-| **[AffectVerse: Emotional World Models for Multimodal Affective Computing](https://arxiv.org/abs/2605.19950v1)** | 2026-05-19 |  |
-| **[RoHIL: Robust Human-in-the-Loop Robotic Reinforcement Learning Against Illumination Variations](https://arxiv.org/abs/2605.19924v1)** | 2026-05-19 |  |
-| **[HEAT: Heterogeneous End-to-End Autonomous Driving via Trajectory-Guided World Models](https://arxiv.org/abs/2605.19631v1)** | 2026-05-19 |  |
-| **[FlyMirage: A Fully Automated Generation Pipeline for Diverse and Scalable UAV Flight Data via Generative World Model](https://arxiv.org/abs/2605.19600v1)** | 2026-05-19 |  |
-| **[Xiaomi EV World Model: A Joint World Model Integrating Reconstruction and Generation for Autonomous Driving](https://arxiv.org/abs/2605.18137v2)** | 2026-05-19 |  |
-| **[Learning Abstract World Models with a Group-Structured Latent Space](https://arxiv.org/abs/2506.01529v2)** | 2026-05-19 | 20 pages, 18 figures |
-| **[HalluWorld: A Controlled Benchmark for Hallucination via Reference World Models](https://arxiv.org/abs/2605.19341v1)** | 2026-05-19 | <details><summary>Hallu...</summary><p>HalluWorld benchmark (code and data) at github.com/DegenAI-Labs/HalluWorld</p></details> |
-| **[SWEET: Sparse World Modeling with Image Editing for Embodied Task Execution](https://arxiv.org/abs/2605.19319v1)** | 2026-05-19 |  |
-| **[PanoWorld: A Generative Spatial World Model for Consistent Whole-House Panorama Synthesis](https://arxiv.org/abs/2605.17916v2)** | 2026-05-19 | 17 |
-| **[PhyWorld: Physics-Faithful World Model for Video Generation](https://arxiv.org/abs/2605.19242v1)** | 2026-05-19 |  |
-| **[Learning Bilevel Policies over Symbolic World Models for Long-Horizon Planning](https://arxiv.org/abs/2605.15975v2)** | 2026-05-18 |  |
-| **[Actionable World Representation](https://arxiv.org/abs/2605.18743v1)** | 2026-05-18 |  |
-| **[Robo-Cortex: A Self-Evolving Embodied Agent via Dual-Grain Cognitive Memory and Autonomous Knowledge Induction](https://arxiv.org/abs/2605.18729v1)** | 2026-05-18 |  |
-| **[Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models](https://arxiv.org/abs/2605.18601v1)** | 2026-05-18 |  |
+| **[Finite Automata Extraction: Low-data World Model Learning as Programs from Gameplay Video](https://arxiv.org/abs/2508.11836v2)** | 2026-05-21 |  |
+| **[Steins;Gate Drive: Semantic Safety Arbitration over Structured Futures for Latency-Decoupled LLM Planning](https://arxiv.org/abs/2605.22456v1)** | 2026-05-21 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 5 tables, submitted to IEEE transaction of intelligent vehicles</p></details> |
+| **[Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts](https://arxiv.org/abs/2605.22446v1)** | 2026-05-21 |  |
+| **[Dual-Anchoring: Addressing State Drift in Vision-Language Navigation](https://arxiv.org/abs/2604.17473v2)** | 2026-05-21 |  |
+| **[Beyond Euclidean Proximity: Repairing Latent World Models with Horizon-Matched Trajectory Reachability Metrics](https://arxiv.org/abs/2605.22164v1)** | 2026-05-21 | 26 pages, 7 figures |
+| **[General Agentic Planning Through Simulative Reasoning with World Models](https://arxiv.org/abs/2507.23773v3)** | 2026-05-21 | <details><summary>Winne...</summary><p>Winner of Berkeley LLM Agents Hackathon (Fundamentals Track); code available at https://github.com/sailing-lab/sira</p></details> |
+| **[Efficient Agentic Reasoning Through Self-Regulated Simulative Planning](https://arxiv.org/abs/2605.22138v1)** | 2026-05-21 | <details><summary>Code ...</summary><p>Code and model artifacts are available at https://github.com/sailing-lab/sr2am</p></details> |
+| **[LVDrive: Latent Visual Representation Enhanced Vision-Language-Action Autonomous Driving Model](https://arxiv.org/abs/2605.22089v1)** | 2026-05-21 |  |
+| **[Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism](https://arxiv.org/abs/2603.03784v2)** | 2026-05-21 | 36 pages, 6 figures |
+| **[ChronoMedicalWorld: A Medical World Model for Learning Patient Trajectories from Longitudinal Care Data](https://arxiv.org/abs/2605.21963v1)** | 2026-05-21 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 6 tables</p></details> |
+| **[Identifiable Token Correspondence for World Models](https://arxiv.org/abs/2605.16457v2)** | 2026-05-21 |  |
+| **[stable-worldmodel: A Platform for Reproducible World Modeling Research and Evaluation](https://arxiv.org/abs/2605.21800v1)** | 2026-05-20 |  |
+| **[From monoliths to modules: Decomposing transducers for efficient world modelling](https://arxiv.org/abs/2512.02193v2)** | 2026-05-20 |  |
+| **[Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/2605.21139v1)** | 2026-05-20 |  |
+| **[Anomaly-Informed Confidence Calibration for Vision-Based Safety Prediction](https://arxiv.org/abs/2605.21109v1)** | 2026-05-20 |  |
 
