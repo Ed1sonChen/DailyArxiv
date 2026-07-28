@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 27, 2026
+title: Latest 15 Papers - July 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,44 +7,48 @@ labels: documentation
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SAFE-Pruner: Semantic Attention-Guided Future-Aware Token Pruning for Efficient Vision-Language-Action Manipulation](https://arxiv.org/abs/2605.29662v2)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[Addressing the Orchestration Gap in Generalist Robots via Physical Agency](https://arxiv.org/abs/2607.21725v1)** | 2026-07-23 |  |
-| **[AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation](https://arxiv.org/abs/2607.21588v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project Website: https://axisaiorg.github.io/AXIS-V1/</p></details> |
-| **[HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving](https://arxiv.org/abs/2607.20988v1)** | 2026-07-23 | <details><summary>20 pa...</summary><p>20 pages with 13 figures</p></details> |
-| **[VPWEM: Non-Markovian Visuomotor Policy with Working and Episodic Memory](https://arxiv.org/abs/2603.04910v2)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted to IEEE Robotics and Automation Letters (RA-L). \textcopyright 2026 IEEE</p></details> |
-| **[Do World Action Models Generalize Better than VLAs? A Robustness Study](https://arxiv.org/abs/2603.22078v4)** | 2026-07-22 |  |
-| **[Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids](https://arxiv.org/abs/2607.20345v1)** | 2026-07-22 | <details><summary>8 pag...</summary><p>8 pages. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[ReferTrack: Referring Then Tracking for Embodied Visual Tracking](https://arxiv.org/abs/2607.20061v1)** | 2026-07-22 |  |
-| **[Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories](https://arxiv.org/abs/2607.15330v2)** | 2026-07-22 | <details><summary>Proje...</summary><p>Project page: https://robotics.xiaomi.com/xiaomi-robotics-1.html</p></details> |
-| **[RouterVLA: Budgeted Commissioning and Expert Onboarding for Growing VLA Pools](https://arxiv.org/abs/2606.27355v2)** | 2026-07-22 | <details><summary>v2: r...</summary><p>v2: revised title, updated author list, restructured the experiments</p></details> |
-| **[LENS: LLM-guided Environment Simplification for Planning and Control in Clutter](https://arxiv.org/abs/2607.19633v1)** | 2026-07-22 |  |
-| **[Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots](https://arxiv.org/abs/2507.17049v3)** | 2026-07-21 |  |
-| **[Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models](https://arxiv.org/abs/2605.13632v2)** | 2026-07-21 |  |
-| **[AnchorRefine: Synergy-Manipulation Based on Trajectory Anchor and Residual Refinement for Vision-Language-Action Models](https://arxiv.org/abs/2604.17787v2)** | 2026-07-21 | <details><summary>The a...</summary><p>The authors have decided to withdraw this manuscript because the work requires substantial revision and further experimental validation</p></details> |
-| **[Towards Human-like Physical Intelligence: Lifelong Vision-Language-Action Learning for Robotic Manipulation](https://arxiv.org/abs/2607.14852v2)** | 2026-07-21 |  |
+| **[Data Pyramid for Embodied Manipulation](https://arxiv.org/abs/2607.24744v1)** | 2026-07-27 | <details><summary>Aweso...</summary><p>Awesome Embodied Data Pyramid; Project Page at https://jasper-aaa.github.io/embodied-data-pyramid/ GitHub Repo at https://github.com/worldbench/awesome-embodied-data-pyramid</p></details> |
+| **[τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision](https://arxiv.org/abs/2607.24485v1)** | 2026-07-27 |  |
+| **[DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning](https://arxiv.org/abs/2607.24159v1)** | 2026-07-27 | <details><summary>Proje...</summary><p>Project page with videos, code, and checkpoints: https://deva-model.github.io/</p></details> |
+| **[A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference](https://arxiv.org/abs/2607.24148v1)** | 2026-07-27 |  |
+| **[RobustVLA: On Robustness of Vision-Language-Action Model against Multi-Modal Perturbations](https://arxiv.org/abs/2510.00037v6)** | 2026-07-27 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[FutureRTC: Real-Time Robot Execution with Anticipatory-Conditioned Action Chunking](https://arxiv.org/abs/2607.24008v1)** | 2026-07-27 | <details><summary>Proje...</summary><p>Project Website: https://jianghaiscu.github.io/FutureRTC_proj/</p></details> |
+| **[VLASH: Real-Time VLAs via Future-State-Aware Asynchronous Inference](https://arxiv.org/abs/2512.01031v2)** | 2026-07-26 |  |
+| **[MulRobBench: A Decision-Level Benchmark for Safe and Security-Policy-Compliant Multimodal UAV Agents](https://arxiv.org/abs/2607.23870v1)** | 2026-07-26 | <details><summary>22 pa...</summary><p>22 pages, 18 figures, 17 tables</p></details> |
+| **[A Few Words Go a Long Way: Language Guided Robot Policy Synthesis](https://arxiv.org/abs/2607.23784v1)** | 2026-07-26 |  |
+| **[Closing the Loop in Humanoid VLA: Persistent 3D Object Tokens for Verifiable Loco-Manipulation](https://arxiv.org/abs/2607.18016v2)** | 2026-07-26 |  |
+| **[Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training](https://arxiv.org/abs/2512.24125v3)** | 2026-07-26 |  |
+| **[Act, Think or Abstain: Complexity-Aware Adaptive Inference for Vision-Language-Action Models](https://arxiv.org/abs/2603.05147v2)** | 2026-07-25 |  |
+| **[XS-VLA: Coupling Coarse-grained Spatial Distillation with Latent Flow Matching for Lightweight Robotic Control](https://arxiv.org/abs/2607.04171v2)** | 2026-07-25 | Preprint |
+| **[WCM: World-Cognition Model for Generalizable Human-Robot Interaction](https://arxiv.org/abs/2607.22999v1)** | 2026-07-25 |  |
+| **[Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline](https://arxiv.org/abs/2607.22997v1)** | 2026-07-25 |  |
 
 ## world model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Robot-Factored World Models via Robot Rendering](https://arxiv.org/abs/2607.22535v1)** | 2026-07-24 | <details><summary>Proje...</summary><p>Project Page: https://bjkim95.github.io/rofacto/</p></details> |
-| **[ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation](https://arxiv.org/abs/2607.22530v1)** | 2026-07-24 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 5 tables. Project page: https://vitacworld.github.io/</p></details> |
-| **[On the Identifiability of Controlled World Models](https://arxiv.org/abs/2607.22430v1)** | 2026-07-24 |  |
-| **[Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents](https://arxiv.org/abs/2607.19190v3)** | 2026-07-24 | Authorship change |
-| **[BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression](https://arxiv.org/abs/2606.10135v4)** | 2026-07-24 |  |
-| **[Music-JEPA: Learning a World Model of Sound from Action](https://arxiv.org/abs/2607.22000v1)** | 2026-07-24 |  |
-| **[Action-Conditioned World Model for Goal Plane Probe Guidance in Robotic Ultrasound](https://arxiv.org/abs/2607.21918v1)** | 2026-07-24 |  |
-| **[TRW: TRACE-RealWorld---An Auditable Consistency Contract for World Models as Materialized Views](https://arxiv.org/abs/2607.21910v1)** | 2026-07-24 | <details><summary>50 pa...</summary><p>50 pages, 22 tables, 10 figures</p></details> |
-| **[NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation](https://arxiv.org/abs/2606.03159v2)** | 2026-07-23 |  |
-| **[Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers](https://arxiv.org/abs/2607.21594v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project page: https://vail-ucla.github.io/worldweaver/</p></details> |
-| **[Persistent Computational State: A Session-Centric Runtime for Generative World Models](https://arxiv.org/abs/2607.21686v1)** | 2026-07-23 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, 10 tables</p></details> |
-| **[The Sensation Modulating Network:Haltability as the architectural ground for object-directed phenomenology](https://arxiv.org/abs/2605.26856v2)** | 2026-07-23 | <details><summary>51 pa...</summary><p>51 pages, main body 39 pages + References 6 pages, Appendices 6 pages, Tables 3, and Figures 16</p></details> |
-| **[HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving](https://arxiv.org/abs/2607.20988v1)** | 2026-07-23 | <details><summary>20 pa...</summary><p>20 pages with 13 figures</p></details> |
-| **[GeoWorldAD: Geometry World Action Model for Autonomous Driving](https://arxiv.org/abs/2607.17521v2)** | 2026-07-23 |  |
-| **[Do World Action Models Generalize Better than VLAs? A Robustness Study](https://arxiv.org/abs/2603.22078v4)** | 2026-07-22 |  |
+| **[The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation](https://arxiv.org/abs/2607.24720v1)** | 2026-07-27 |  |
+| **[AutoWorld: Learning Multi-Agent Traffic Simulation with Self-Supervised World Models](https://arxiv.org/abs/2603.28963v2)** | 2026-07-27 |  |
+| **[ArmnetBench v0.1: Parallel Real-World Evaluation of Manipulation Policies on a Low-Cost Arm Farm](https://arxiv.org/abs/2607.24481v1)** | 2026-07-27 | <details><summary>11 pa...</summary><p>11 pages, 6 tables, 3 figures. data available at https://huggingface.co/collections/armnet/armnetbench-v01</p></details> |
+| **[Context Is King: How In-Context Specification Shapes the Geometry of Concepts](https://arxiv.org/abs/2607.24425v1)** | 2026-07-27 |  |
+| **[FeelWorld: Visuo-Tactile World Model for Hierarchical Contact Prediction and Planning](https://arxiv.org/abs/2607.24267v1)** | 2026-07-27 | 9 pages, 7 figures |
+| **[On the Identifiability of Controlled World Models](https://arxiv.org/abs/2607.22430v2)** | 2026-07-27 |  |
+| **[Scaling GUI Agents with Visual State Transitions](https://arxiv.org/abs/2607.24112v1)** | 2026-07-27 |  |
+| **[LeapBot-WA: World-Anchor Action Models via Predictive Latent Alignments](https://arxiv.org/abs/2607.23969v1)** | 2026-07-27 |  |
+| **[WorldDiT: A Unified Diffusion Architecture for World and Action Modeling](https://arxiv.org/abs/2607.23909v1)** | 2026-07-27 | 9 pages, 4 figures |
+| **[Embodied GPT-5.1: Evidence of a World Model?](https://arxiv.org/abs/2607.23899v1)** | 2026-07-27 | <details><summary>6 pag...</summary><p>6 pages, 16 figures. Published in the 2026 Brazilian Conference on Robotics (CROS)</p></details> |
+| **[Action from Adjacent Set in Physical Space Outperforms the Best Prediction in World Models](https://arxiv.org/abs/2607.23602v1)** | 2026-07-26 | <details><summary>26 pa...</summary><p>26 pages, 7 figures. Includes supplementary material</p></details> |
+| **[Real-Time Human-Centric World Modeling for Upper-Body Human-Object Interaction](https://arxiv.org/abs/2607.23517v1)** | 2026-07-26 |  |
+| **[Towards Dual-Brain Minimal Sufficient Representation for Vision-Language Navigation](https://arxiv.org/abs/2607.23181v1)** | 2026-07-25 |  |
+| **[False Prophets: On the Security of World Models in Agentic Systems](https://arxiv.org/abs/2607.23147v1)** | 2026-07-25 |  |
+| **[From World Models to World Action Models: A Concise Tutorial for Robotics](https://arxiv.org/abs/2607.00836v4)** | 2026-07-25 | <details><summary>Proje...</summary><p>Project page: https://clearlab-sustech.github.io/WorldModelSurvey/</p></details> |
 
 ## world action model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Data Pyramid for Embodied Manipulation](https://arxiv.org/abs/2607.24744v1)** | 2026-07-27 | <details><summary>Aweso...</summary><p>Awesome Embodied Data Pyramid; Project Page at https://jasper-aaa.github.io/embodied-data-pyramid/ GitHub Repo at https://github.com/worldbench/awesome-embodied-data-pyramid</p></details> |
+| **[LeapBot-WA: World-Anchor Action Models via Predictive Latent Alignments](https://arxiv.org/abs/2607.23969v1)** | 2026-07-27 |  |
+| **[$N_0$-TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation](https://arxiv.org/abs/2607.23783v1)** | 2026-07-26 |  |
+| **[From World Models to World Action Models: A Concise Tutorial for Robotics](https://arxiv.org/abs/2607.00836v4)** | 2026-07-25 | <details><summary>Proje...</summary><p>Project page: https://clearlab-sustech.github.io/WorldModelSurvey/</p></details> |
 | **[NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation](https://arxiv.org/abs/2606.03159v2)** | 2026-07-23 |  |
 | **[GeoWorldAD: Geometry World Action Model for Autonomous Driving](https://arxiv.org/abs/2607.17521v2)** | 2026-07-23 |  |
 | **[Do World Action Models Generalize Better than VLAs? A Robustness Study](https://arxiv.org/abs/2603.22078v4)** | 2026-07-22 |  |
@@ -56,27 +60,23 @@ labels: documentation
 | **[BadWAM: When World-Action Models Dream Right but Act Wrong](https://arxiv.org/abs/2607.15207v1)** | 2026-07-16 |  |
 | **[AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight](https://arxiv.org/abs/2607.14997v1)** | 2026-07-16 |  |
 | **[Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control](https://arxiv.org/abs/2607.14943v1)** | 2026-07-16 |  |
-| **[Motubrain: An Advanced World Action Model for Robot Control](https://arxiv.org/abs/2604.27792v5)** | 2026-07-15 |  |
-| **[FlowWAM: Optical Flow as a Unified Action Representation for World Action Models](https://arxiv.org/abs/2607.13017v1)** | 2026-07-14 |  |
-| **[SANTS: A State-Adaptive Scheduler for World Action Models](https://arxiv.org/abs/2605.27947v2)** | 2026-07-14 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 8 tables. Project page: https://advanced-robotics-lab.github.io/SANTS/</p></details> |
-| **[From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence](https://arxiv.org/abs/2607.11689v1)** | 2026-07-13 | Ongoing work |
 
 ## robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Robot-Factored World Models via Robot Rendering](https://arxiv.org/abs/2607.22535v1)** | 2026-07-24 | <details><summary>Proje...</summary><p>Project Page: https://bjkim95.github.io/rofacto/</p></details> |
-| **[ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation](https://arxiv.org/abs/2607.22530v1)** | 2026-07-24 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 5 tables. Project page: https://vitacworld.github.io/</p></details> |
-| **[RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations](https://arxiv.org/abs/2410.00713v5)** | 2026-07-24 |  |
-| **[Robot Learning to Communicate through Projected Visual Abstractions](https://arxiv.org/abs/2607.22434v1)** | 2026-07-24 | <details><summary>Our p...</summary><p>Our project website is at:https://generalroboticslab.com/shadow</p></details> |
-| **[Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education](https://arxiv.org/abs/2607.22345v1)** | 2026-07-24 |  |
-| **[GuidedAttention: Interpretable and Correctable Visual Attention for OOD-Robust Robot Manipulation via Imitation Learning](https://arxiv.org/abs/2607.21049v2)** | 2026-07-24 | Project page added |
-| **[Design and Human Evaluation of Tactile Withdrawal Reflexes for a Skin-Covered Robot Arm](https://arxiv.org/abs/2607.22249v1)** | 2026-07-24 | <details><summary>Submi...</summary><p>Submitted to IEEE Humanoids 2026</p></details> |
-| **[Safe Learning Predictive Control for Ego-World Robotic Systems](https://arxiv.org/abs/2607.22225v1)** | 2026-07-24 |  |
-| **[Benchmarking the Safety of Large Language Models for Robotic Health Attendant Control](https://arxiv.org/abs/2604.26577v2)** | 2026-07-24 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, 3 tables, 8 pages supplementary material</p></details> |
-| **[Adaptive Undulatory Locomotion of Snake-like Robots in Dynamic Viscous Environments via Deep Reinforcement Learning](https://arxiv.org/abs/2607.21960v1)** | 2026-07-24 | <details><summary>23 pa...</summary><p>23 pages, 6 figures. Submitted to a journal</p></details> |
-| **[Action-Conditioned World Model for Goal Plane Probe Guidance in Robotic Ultrasound](https://arxiv.org/abs/2607.21918v1)** | 2026-07-24 |  |
-| **[StARS: Socially Appropriate Robot Actions via a Recommender System-Driven Approach](https://arxiv.org/abs/2607.21802v1)** | 2026-07-23 | IROS 2026 |
-| **[A Linear Matching Bandit Approach to Online Multi-Human Multi-Robot Teaming](https://arxiv.org/abs/2606.29221v2)** | 2026-07-23 |  |
-| **[Addressing the Orchestration Gap in Generalist Robots via Physical Agency](https://arxiv.org/abs/2607.21725v1)** | 2026-07-23 |  |
-| **[AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation](https://arxiv.org/abs/2607.21588v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project Website: https://axisaiorg.github.io/AXIS-V1/</p></details> |
+| **[Development of a Handheld Actuation Mechanism for a Tendon-driven Robotically Steered Guidewire](https://arxiv.org/abs/2607.24629v1)** | 2026-07-27 |  |
+| **[Robots Acquire Manipulation Skills in Seconds from a Single Human Video](https://arxiv.org/abs/2607.20033v3)** | 2026-07-27 |  |
+| **[Unifying Complementarity Constraints and Control Barrier Functions for Safe Whole-Body Robot Control](https://arxiv.org/abs/2504.17647v2)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Automatic Control</p></details> |
+| **[Not Forgotten: Implementation and Evaluation of a Personalized Episodic Memory for the Humanoid Robot Head Kim](https://arxiv.org/abs/2607.24190v1)** | 2026-07-27 | <details><summary>Acceo...</summary><p>Acceoted at the 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026) Kitakyushu, Japan</p></details> |
+| **[DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning](https://arxiv.org/abs/2607.24159v1)** | 2026-07-27 | <details><summary>Proje...</summary><p>Project page with videos, code, and checkpoints: https://deva-model.github.io/</p></details> |
+| **[A Case Study on the Acceptance of a Humanoid Robotic Head Employed in Three Public Spaces](https://arxiv.org/abs/2607.24113v1)** | 2026-07-27 | <details><summary>accep...</summary><p>accepted at the 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026) Kitakyushu, Japan</p></details> |
+| **[Effective Parameters, Real Behavior: Renormalization for Robotics -- From Infinite Electron Mass to Sim-to-Real Gap](https://arxiv.org/abs/2607.24079v1)** | 2026-07-27 |  |
+| **[WARL: Wrench-Augmented Reinforcement Learning for Task-Agnostic Learning in Legged Robots](https://arxiv.org/abs/2607.24036v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at IROS 2026, website-https://keitayoneda.github.io/kleiyn-warl/, youtube-https://youtu.be/l-drMNncQp0</p></details> |
+| **[Ace! Motion Planning of Professional-Level Table Tennis Serves with a Robot Arm](https://arxiv.org/abs/2607.06989v2)** | 2026-07-27 | 8 pages, 4 figures |
+| **[FutureRTC: Real-Time Robot Execution with Anticipatory-Conditioned Action Chunking](https://arxiv.org/abs/2607.24008v1)** | 2026-07-27 | <details><summary>Proje...</summary><p>Project Website: https://jianghaiscu.github.io/FutureRTC_proj/</p></details> |
+| **[SHARE: Towards Head-Mounted AR with User-Centric SLAM in Shared Human-Robot Workspaces](https://arxiv.org/abs/2607.23901v1)** | 2026-07-27 | <details><summary>28 pa...</summary><p>28 pages, 15 figures, 1 table</p></details> |
+| **[GemNav: Discrete-Token Visual Robot Navigation using a Multimodal Large Language Model](https://arxiv.org/abs/2607.06882v2)** | 2026-07-26 |  |
+| **[A Few Words Go a Long Way: Language Guided Robot Policy Synthesis](https://arxiv.org/abs/2607.23784v1)** | 2026-07-26 |  |
+| **[LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratories](https://arxiv.org/abs/2607.23704v1)** | 2026-07-26 | <details><summary>Under...</summary><p>Under review. Haobo Wang and Baoli Sun contributed equally. Code and data: https://github.com/Su-ISE-2001/SciRobo</p></details> |
+| **[Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training](https://arxiv.org/abs/2512.24125v3)** | 2026-07-26 |  |
 
