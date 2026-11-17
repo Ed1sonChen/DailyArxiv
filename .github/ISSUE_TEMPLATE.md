@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 29, 2026
+title: Latest 15 Papers - November 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Ed1sonChen/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,76 +7,76 @@ labels: documentation
 ## agentic robot
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Robotic Agentic Platform for Intelligent Electric Vehicle Disassembly](https://arxiv.org/abs/2603.18520v2)** | 2026-10-27 | <details><summary>2026 ...</summary><p>2026 IEEE 22nd International Conference on Automation Science and Engineering (CASE)</p></details> |
-| **[Embodied Playground: A Long-Horizon Agentic Robotics Benchmark for Physical, Strategic, and Spatial Reasoning](https://arxiv.org/abs/2610.27039v2)** | 2026-10-25 | 38 pages, 2 figures |
-| **[AgentVQA: A Unified Benchmark for Agentic Visual Understanding](https://arxiv.org/abs/2610.31494v1)** | 2026-10-22 | <details><summary>Proje...</summary><p>Project page: https://zlab-princeton.github.io/AgentVQA</p></details> |
-| **[FastHarness: Experience-Driven Review Scheduling for Vision-Language-Action Policies](https://arxiv.org/abs/2610.31427v1)** | 2026-10-22 | <details><summary>Githu...</summary><p>Github:https://github.com/FastHarness/fast-harness</p></details> |
-| **[AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics](https://arxiv.org/abs/2610.28589v2)** | 2026-10-21 |  |
-| **[Agentic World Action Models](https://arxiv.org/abs/2610.30136v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project page: https://agentic-wam.github.io/</p></details> |
-| **[Feasibility Ceilings Before Learning: Sizing and Timing Bounds for Drone-Mesh Interception](https://arxiv.org/abs/2610.20823v1)** | 2026-10-14 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 8 tables. Code, data and policy checkpoints: https://github.com/DmytroBabarytskyi/drone-training</p></details> |
-| **[Towards Agentic Robots: Model, Data, Environment, and Harness](https://arxiv.org/abs/2610.20442v1)** | 2026-10-14 |  |
-| **[Cracking Mobile Manipulation: From Failure Diagnosis to Agentic Robot System](https://arxiv.org/abs/2610.19600v1)** | 2026-10-14 |  |
-| **[ChunkAct: Action Chunking for Agentic Robotics](https://arxiv.org/abs/2610.18874v1)** | 2026-10-13 |  |
-| **[SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792v1)** | 2026-10-13 | 16 pages |
-| **[Agentic Robot Creation through Generation, Verification, and Revision](https://arxiv.org/abs/2610.17881v1)** | 2026-10-13 | <details><summary>Proje...</summary><p>Project page: https://roboforge-project.github.io/</p></details> |
-| **[Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228v1)** | 2026-10-06 |  |
-| **[Toward Evidence-Driven Human-Agent-Robot Teaming for Earth-Independent Anomaly Triage](https://arxiv.org/abs/2610.08933v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted to the Space Robotics Workshop at 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
-| **[Recursive Video In-Context Learning for Agentic Robot](https://arxiv.org/abs/2610.06843v1)** | 2026-10-05 |  |
+| **[HINT: Human-Intent Inception for Agentic Robot Manipulation](https://arxiv.org/abs/2609.02653v3)** | 2026-11-16 | Title updated |
+| **[Training Reasoning Models in Simulation to Natively Use Real Robots](https://arxiv.org/abs/2611.18562v1)** | 2026-11-13 |  |
+| **[From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration](https://arxiv.org/abs/2611.18484v1)** | 2026-11-13 | <details><summary>34 pa...</summary><p>34 pages, 6 figures, 3 tables. Accepted for publication in Annual Review of Control, Robotics, and Autonomous Systems, Volume 10 (2027)</p></details> |
+| **[Envisioning Agentic Robotics: A New Era of Robotic Systems](https://arxiv.org/abs/2611.18359v1)** | 2026-11-13 | <details><summary>Proje...</summary><p>Project website: https://grid-robotics-official.github.io/agentic-robotics-roadmap</p></details> |
+| **[ACE-CaP-0: Real-World Code-as-Policies in the Era of Experience](https://arxiv.org/abs/2611.16872v1)** | 2026-11-12 |  |
+| **[LEASH: Stay Safe in Agentic Robotics](https://arxiv.org/abs/2611.14115v1)** | 2026-11-10 |  |
+| **[World In-Context Learning for Agentic Robot Manipulation](https://arxiv.org/abs/2611.12885v1)** | 2026-11-09 | <details><summary>Proje...</summary><p>Project Page: https://ArcheOne-AI.github.io/RoboScript</p></details> |
+| **[Embodied First Exam](https://arxiv.org/abs/2611.12177v1)** | 2026-11-09 | Preprint version |
+| **[BioMARS 2.0: a robotic biologist for formulating and adapting biological experiments](https://arxiv.org/abs/2611.12139v1)** | 2026-11-09 |  |
+| **[Flip Anything with Agentic Robotics Self-Learning](https://arxiv.org/abs/2611.11941v1)** | 2026-11-09 | <details><summary>CoRL ...</summary><p>CoRL 2026 late breaking. Project webpage https://berkeleyautomation.github.io/flipanything/</p></details> |
+| **[A complete analytical characterization of optimal collision-free motion for two robots](https://arxiv.org/abs/2610.41558v2)** | 2026-11-08 |  |
+| **[You Don't Need To Stay in The Loop: An Agentic Robotics Loop for Robot-Policy Improvement](https://arxiv.org/abs/2608.07555v2)** | 2026-11-08 | <details><summary>Agent...</summary><p>Agentic Robotics Preview Version</p></details> |
+| **[A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics](https://arxiv.org/abs/2611.09030v1)** | 2026-11-06 |  |
+| **[ProCompNav: Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries](https://arxiv.org/abs/2605.06223v5)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 (Oral), Project page: https://tree-jhk.github.io/procompnav/ Code: https://github.com/ml-postech/ProCompNav</p></details> |
+| **[RoboARCade: Benchmarking Agentic Robot Control](https://arxiv.org/abs/2611.08209v1)** | 2026-11-05 |  |
 
 ## self improvement
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GEPA-Curator: Curated Learning for Self Improving Agents](https://arxiv.org/abs/2610.37651v1)** | 2026-10-27 |  |
-| **[When the Critic Falls Behind: Co-Evolving Rubrics and Harnesses for Continual Agent Self-Improvement](https://arxiv.org/abs/2610.36826v1)** | 2026-10-27 |  |
-| **[The View from Nowhere: Population-Centered Agent Evolution](https://arxiv.org/abs/2610.36660v1)** | 2026-10-27 |  |
-| **[AudioRSI: Recursively Self-Improving Audio Reasoners](https://arxiv.org/abs/2610.36578v1)** | 2026-10-27 | <details><summary>45 pa...</summary><p>45 pages, 5 figures, 28 tables</p></details> |
-| **[The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://arxiv.org/abs/2610.36077v1)** | 2026-10-26 |  |
-| **[OmniBrain-0: A Unified Agentic Model for Embodied Intelligence](https://arxiv.org/abs/2610.36013v1)** | 2026-10-26 | <details><summary>Techn...</summary><p>Technical Report; 40 pages, 27 figures, 8 tables; Project Page at https://public-bots.github.io/OmniBrain-0/</p></details> |
-| **[EvoRouter: Cost-Efficient Multi-Agent Routing via Insight-Guided On-Policy Distillation](https://arxiv.org/abs/2610.35690v1)** | 2026-10-26 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, 4 tables</p></details> |
-| **[RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies](https://arxiv.org/abs/2610.35604v1)** | 2026-10-26 | <details><summary>Proje...</summary><p>Project Page: https://robodoctor-rsi.github.io/</p></details> |
-| **[Infinity Machine: a self-improving AI agent for research](https://arxiv.org/abs/2610.35579v1)** | 2026-10-26 |  |
-| **[Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence](https://arxiv.org/abs/2608.12290v2)** | 2026-10-26 |  |
-| **[Skill$^{\infty}$: Recursive Self-Improvement for Agent Skill Optimization](https://arxiv.org/abs/2610.35434v1)** | 2026-10-26 | 17 pages, 5 figures |
-| **[ECG-RSI: Recursive Self-Improvement through Targeted Electrocardiogram Waveform Evolution](https://arxiv.org/abs/2610.17718v2)** | 2026-10-26 | <details><summary>Proje...</summary><p>Project: https://pork-pay.github.io/ECG-RSI/ GitHub: https://github.com/pork-pay/ECG-RSI</p></details> |
-| **[RSIV-Harness: A Recursive Self-Improvement Harness Framework for Open-Domain Conversational Text-to-Visualization](https://arxiv.org/abs/2610.35316v1)** | 2026-10-26 |  |
-| **[Trustworthy Recursive Self-Improvement in the Era of Large Models: Foundation, Risks, Evaluation and Open Challenges](https://arxiv.org/abs/2610.35193v1)** | 2026-10-26 |  |
-| **[VISTA: Active Exploration for Self-Improvement in Embodied Agents](https://arxiv.org/abs/2610.35051v1)** | 2026-10-26 | <details><summary>code:...</summary><p>code: https://github.com/AgenticEI/VISTA, project page: https://agenticei.github.io/VISTA-page/</p></details> |
+| **[From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop](https://arxiv.org/abs/2611.21152v1)** | 2026-11-16 |  |
+| **[Evaluation-Free Recursive Self-Improvement for Coding Agents](https://arxiv.org/abs/2611.21056v1)** | 2026-11-16 | 32 pages, 14 figures |
+| **[From Recursion to Convolution: Parallel Self-Improvement for Multi-Agent Systems](https://arxiv.org/abs/2611.20891v1)** | 2026-11-16 |  |
+| **[ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents](https://arxiv.org/abs/2611.18176v2)** | 2026-11-16 | <details><summary>Techn...</summary><p>Technical report. 25 pages, 7 figures. Code: https://github.com/ZERITH-ZLab/ESI</p></details> |
+| **[TrainExplorer: Autonomous LLM Post-Training via Plan-and-Decouple Exploration](https://arxiv.org/abs/2611.20430v1)** | 2026-11-16 |  |
+| **[GEM-MM: Reducing VLM Hallucination with Entropy-Guided Preference Alignment](https://arxiv.org/abs/2611.20016v1)** | 2026-11-15 |  |
+| **[PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models](https://arxiv.org/abs/2611.16748v2)** | 2026-11-15 | <details><summary>21 pa...</summary><p>21 pages. Revised the human evaluation protocol, clarified the generation task-success and repair pass-vote metrics, and updated Table 1 and the appendix</p></details> |
+| **[CompoundingKernel: Self-Improving from Zero to First](https://arxiv.org/abs/2611.19230v1)** | 2026-11-14 | <details><summary>47 pa...</summary><p>47 pages, 23 figures, 6 tables. URL: https://huggingface.co/spaces/QianQu/CompoundingKernel-Explorer</p></details> |
+| **[BOXBOX: Recursive Harness Self-Improvement for Long-Running Performance Optimization](https://arxiv.org/abs/2611.09218v3)** | 2026-11-14 | <details><summary>47 pa...</summary><p>47 pages, 22 figures, 12 tables, including appendices. Project page: http://aka.ms/boxbox</p></details> |
+| **[LegoSR: A Unified Framework for Self-Improving Agent-Guided Scientific Discovery](https://arxiv.org/abs/2610.33465v4)** | 2026-11-13 | <details><summary>53 pa...</summary><p>53 pages, 15 figures. Code is available at https://github.com/Scientific-Artificial-Intelligence-Lab/kd</p></details> |
+| **[Self-Improvement Memory Enables Continual Recursive Self-Improvement](https://arxiv.org/abs/2611.18856v1)** | 2026-11-13 |  |
+| **[RecurIR: Learning When and How to Revise Restoration Policies via Recursive Self-Improvement](https://arxiv.org/abs/2611.18006v1)** | 2026-11-13 |  |
+| **[AutoRL: A Multi-Agent System towards Autonomous Reinforcement Learning](https://arxiv.org/abs/2611.17790v1)** | 2026-11-13 | 23 pages |
+| **[TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents](https://arxiv.org/abs/2610.41216v2)** | 2026-11-12 | <details><summary>16 pa...</summary><p>16 pages, 5 figures. Project page: https://garfield-kh.github.io/TinyAstral/</p></details> |
+| **[Audit the Scaffold, Not the Checkpoint: A Stationarity Dichotomy for Recursive Self-Improvement in Agentic Coding](https://arxiv.org/abs/2609.34924v2)** | 2026-11-12 | <details><summary>10 pa...</summary><p>10 pages main text, 47 pages total, 9 figures, 5 tables</p></details> |
 
 ## Vision Language Action
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](https://arxiv.org/abs/2610.37666v1)** | 2026-10-27 | <details><summary>Proje...</summary><p>Project Page: https://thinkworld-project.github.io/</p></details> |
-| **[World Dreamer v5-lite: A Multi-Robot World Action Model with One Dreamer](https://arxiv.org/abs/2610.37518v1)** | 2026-10-27 | <details><summary>10 pa...</summary><p>10 pages, 4 figures. Guoning Wu and Zijian Cai share first authorship. Yongbin Zheng is the corresponding author</p></details> |
-| **[PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://arxiv.org/abs/2610.37381v1)** | 2026-10-27 |  |
-| **[VLA-Stem: A Lightweight Safety Mechanism for Vision-Language-Action Models via Reinforcement Learning](https://arxiv.org/abs/2610.37378v1)** | 2026-10-27 | 12 pages, 5 figures |
-| **[Tokens of Motion: Primitive Motion Learning for Human-Humanoid Skill Transfer](https://arxiv.org/abs/2610.37330v1)** | 2026-10-27 | 12 pages |
-| **[Vision-Language-Action or World-Action? Just Action Models](https://arxiv.org/abs/2610.37219v1)** | 2026-10-27 |  |
-| **[Retrieve to Act: Motion Primitive Graph Retrieval for Robust VLA Execution](https://arxiv.org/abs/2610.37215v1)** | 2026-10-27 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, 7 tables</p></details> |
-| **[VLA-HWBench: Where the Time Goes When VLA Models Run on Edge Hardware](https://arxiv.org/abs/2610.34717v2)** | 2026-10-27 |  |
-| **[BiDex-100: A Comprehensive Benchmark for Bimanual Dexterous Manipulation Across 100+ Simulation Tasks](https://arxiv.org/abs/2610.25459v2)** | 2026-10-27 |  |
-| **[Evaluation-Guided Demonstration Refinement for Vision-Language-Action Policies: The Winning Entry in the MetaFine Open Competition](https://arxiv.org/abs/2610.36765v1)** | 2026-10-27 | <details><summary>1st p...</summary><p>1st place in the MetaFine Open Competition, RoboFineMani Workshop @ CoRL 2026</p></details> |
-| **[Making Self-Driving Laboratories Auditable:A Unified Framework for Hybrid Actions,Measurements, and Safe Execution](https://arxiv.org/abs/2610.36761v1)** | 2026-10-27 |  |
-| **[Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation](https://arxiv.org/abs/2512.23864v5)** | 2026-10-27 |  |
-| **[AWARE: Action-Entropy-Weighted and Attention-Guided Retrieval of Observation Evidence for Vision-Language-Action Models](https://arxiv.org/abs/2602.18020v3)** | 2026-10-27 | <details><summary>Major...</summary><p>Major revision: expanded continuous element-wise formulation (AWARE, evolved from v1 UAOR) and additional benchmarks (LIBERO, SIMPLER, CALVIN, and real-world manipulation)</p></details> |
-| **[ASPEN: Adaptive Semantic Reasoning via Command Persistence Prediction for Efficient Navigation VLAs](https://arxiv.org/abs/2610.36285v1)** | 2026-10-26 |  |
-| **[RePO-VLA: Recovery-Driven Policy Optimization for Vision-Language-Action Models](https://arxiv.org/abs/2605.09410v2)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Weijia Liufu and Xiaoyu Guo contributed equally. Xiaoyu Guo is the project leader. Liang Lin and Xiaodan Liang are co-corresponding authors. Updated to the camera-ready version</p></details> |
+| **[ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters](https://arxiv.org/abs/2611.21607v1)** | 2026-11-16 | Tech Report |
+| **[What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation](https://arxiv.org/abs/2611.16246v2)** | 2026-11-16 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 13 tables; v2 adds NavRAG-CE results, second-round recovery sessions and an extended appendix</p></details> |
+| **[MetricHand: Geometry-Aware Flow Matching for 4D Hand Reconstruction in Metric World Space](https://arxiv.org/abs/2611.21060v1)** | 2026-11-16 |  |
+| **[POKE: Probe Offline, Keep Efficiently for Vision-Language-Action Models](https://arxiv.org/abs/2611.21033v1)** | 2026-11-16 |  |
+| **[FAVR: Flow-Aware Visual Residual Alignment for Vision-Language-Action Policies](https://arxiv.org/abs/2611.20971v1)** | 2026-11-16 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Equal contribution: Qixuan Wu and Xiaole Yang. Corresponding authors: Yuguang Yang and Baochang Zhang</p></details> |
+| **[PRIME: Perception Feedback with Situational Memory Embeddings in VLA Models](https://arxiv.org/abs/2609.22040v2)** | 2026-11-16 |  |
+| **[3D-MoE: Towards Spatial Intelligence with Mixture-of-Experts for 3D Reasoning and Action Generation](https://arxiv.org/abs/2501.16698v3)** | 2026-11-16 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026. 20 pages</p></details> |
+| **[ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents](https://arxiv.org/abs/2611.18176v2)** | 2026-11-16 | <details><summary>Techn...</summary><p>Technical report. 25 pages, 7 figures. Code: https://github.com/ZERITH-ZLab/ESI</p></details> |
+| **[HINT: Human-Intent Inception for Agentic Robot Manipulation](https://arxiv.org/abs/2609.02653v3)** | 2026-11-16 | Title updated |
+| **[VLALagBench: Understanding When and Why VLA Inference Latency Matters](https://arxiv.org/abs/2611.03103v2)** | 2026-11-16 | <details><summary>code:...</summary><p>code: https://github.com/codestrongestx/vla-lag-bench</p></details> |
+| **[Competent Autonomous Driving Through Fine Tuning Vision Language Action Models with Symbolic Traffic Rules](https://arxiv.org/abs/2611.20648v1)** | 2026-11-16 |  |
+| **[Instructions Before Actions: Prospective and Retrospective Language Supervision for Driving Vision-Language-Action Data](https://arxiv.org/abs/2611.20631v1)** | 2026-11-16 |  |
+| **[Stochastic Self-Distillation for Flow-Based Vision-Language-Action Models](https://arxiv.org/abs/2611.20460v1)** | 2026-11-16 |  |
+| **[NF-VLA: A Normalizing-Flow Baseline for Vision-Language-Action Learning](https://arxiv.org/abs/2611.20314v1)** | 2026-11-15 | <details><summary>Accep...</summary><p>Accepted at CoRL 2026 G2A Workshop</p></details> |
+| **[Right Goal, Wrong Body: Re-grounding Frozen VLAs under Actuation Shift](https://arxiv.org/abs/2611.20244v1)** | 2026-11-15 | <details><summary>Accep...</summary><p>Accepted at the SPAIS Workshop at CoRL 2026</p></details> |
 
 ## world model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding the limits of latent world models](https://arxiv.org/abs/2610.37588v1)** | 2026-10-27 |  |
-| **[HGWM: Hierarchical Graph-Guided World Model for Zero-Shot Object Navigation via Graph Matching](https://arxiv.org/abs/2610.32554v2)** | 2026-10-27 |  |
-| **[What Does World Modeling Actually Improve in Robot Action Learning?](https://arxiv.org/abs/2610.34593v2)** | 2026-10-27 |  |
-| **[Representing the Unseen: Rethinking Visual Imagination for Spatial Reasoning](https://arxiv.org/abs/2610.37437v1)** | 2026-10-27 | <details><summary>Webpa...</summary><p>Webpage:https://imagirep.github.io/</p></details> |
-| **[JEPA-Inspired Latent Field Prediction for Sparse-Pilot MIMO-OFDM Channel Reconstruction](https://arxiv.org/abs/2610.37391v1)** | 2026-10-27 |  |
-| **[PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://arxiv.org/abs/2610.37381v1)** | 2026-10-27 |  |
-| **[GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling](https://arxiv.org/abs/2610.37257v1)** | 2026-10-27 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
-| **[MLE-World: Predicting Machine Learning Experiment Outcomes with a Learned World Model](https://arxiv.org/abs/2610.37175v1)** | 2026-10-27 |  |
-| **[GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation](https://arxiv.org/abs/2610.37091v1)** | 2026-10-27 |  |
-| **[WMEval: Evaluating Interactive World Models Grounded on Physical Simulations](https://arxiv.org/abs/2610.33894v2)** | 2026-10-27 |  |
-| **[Vision-Language Agents Can Learn in Their Own Latent Worlds](https://arxiv.org/abs/2610.36925v1)** | 2026-10-27 | 17 pages, 4 figures |
-| **[RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions](https://arxiv.org/abs/2610.36791v1)** | 2026-10-27 | <details><summary>Homep...</summary><p>Homepage https://alibaba-damo-academy.github.io/RynnWorld-Latent.github.io, Github https://github.com/alibaba-damo-academy/RynnWorld-Latent</p></details> |
-| **[Hy-Nomas: Towards Free-form Interactive World Generation](https://arxiv.org/abs/2610.36729v1)** | 2026-10-27 | Technical Report |
-| **[What Makes Video World Model Latents Action-Relevant: Prediction over Reconstruction](https://arxiv.org/abs/2606.07687v2)** | 2026-10-27 | <details><summary>Accep...</summary><p>Accepted to the 10th Conference on Robot Learning (CoRL 2026). 25 pages, 6 figures, 20 tables. Code: https://github.com/k1seul/corl2026-action-relevant-latents</p></details> |
-| **[SWIM: Learning What Matters from Behaviors for JEPA World Models](https://arxiv.org/abs/2610.36662v1)** | 2026-10-27 | 25 pages, 1 figure |
+| **[Lazy-MOSAIC: Accelerating Skill-Centric Manipulation Planning with Learned Skill-Effect World Models](https://arxiv.org/abs/2611.21517v1)** | 2026-11-16 | Under review |
+| **[LynnReal-Hand: Unlocking World Interaction with Hand Control](https://arxiv.org/abs/2611.21479v1)** | 2026-11-16 |  |
+| **[Fast Inference-Time Policy Refinement via Action-Affine World Models](https://arxiv.org/abs/2611.15011v2)** | 2026-11-16 |  |
+| **[VGGT-VLA-World: Intent-Conditioned 3D World Evolution for Autonomous Driving](https://arxiv.org/abs/2610.11161v2)** | 2026-11-16 | 12 pages, 9 figures |
+| **[SciWorldBench: Do Video World Models Really Understand Scientific Experiments?](https://arxiv.org/abs/2611.20899v1)** | 2026-11-16 | <details><summary>Prepr...</summary><p>Preprint. Benchmark paper with paired scientific experiments for evaluating video world models. 8 pages of main text, 16 pages including figures and references</p></details> |
+| **[Auditing World-Model Explanations in Retail Forecasting: Faithfulness, Accuracy and Price Response](https://arxiv.org/abs/2611.20811v1)** | 2026-11-16 |  |
+| **[LEON: Operator-Structured Latent Evolution for World Modeling](https://arxiv.org/abs/2608.27259v2)** | 2026-11-16 |  |
+| **[World Models, Trees and Foundation Models for Retail Forecasting: Evidence from Four Public Data Sets](https://arxiv.org/abs/2610.25170v2)** | 2026-11-16 | <details><summary>37 pa...</summary><p>37 pages, 18 figures, 26 tables. Code: https://github.com/karthik-iyer-au/retail-world-models, archived at doi:10.5281/zenodo.23448056</p></details> |
+| **[PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning](https://arxiv.org/abs/2611.16424v2)** | 2026-11-16 | <details><summary>Updat...</summary><p>Updated author order. Project page: https://hfwang2001.github.io/physcapbench-site/</p></details> |
+| **[XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute](https://arxiv.org/abs/2611.20452v1)** | 2026-11-16 |  |
+| **[One from Infinity: Actualizing Futures from Pretrained World Models into Robot Actions](https://arxiv.org/abs/2609.36413v4)** | 2026-11-16 |  |
+| **[InertiaMPDD: Multimodal Personalized Depression Detection via Emotional Inertia-Inspired Dynamics Modeling](https://arxiv.org/abs/2611.16647v2)** | 2026-11-16 |  |
+| **[ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow](https://arxiv.org/abs/2607.27924v4)** | 2026-11-15 | NeurIPS 2026 |
+| **[Flying on Imagination: DreamerV3-Style World Models under Environment Distribution Shift for Quadrotor Navigation](https://arxiv.org/abs/2606.05015v2)** | 2026-11-15 |  |
+| **[WorldOracle: Benchmarking Action-Conditioned World Models against Real-World Executions](https://arxiv.org/abs/2610.18826v5)** | 2026-11-15 |  |
 
